@@ -25,7 +25,7 @@
 						<aside id="text-15" class="widget_text">
 							<div class="textwidget">
 								<ul class="top_bar_info clearfix">
-									<li><i class="fa fa-clock-o"></i> Mon - Sat 8.00 - 18.00. Sunday CLOSED</li>
+									<li><i class="fa fa-clock-o"></i> Mon-Sat 8.00 - 6.00. Sunday CLOSED</li>
 								</ul>
 							</div>
 						</aside>
@@ -43,7 +43,7 @@
 							</div>
 						</aside>
 						<aside id="travel_login_register_from-2" class="widget widget_login_form">
-							<span class="show_from login"><i class="fa fa-user"></i>Login</span>
+							<span data-toggle="modal" data-target="#modalLRForm"class="show_from login"><i class="fa fa-user"></i>Login</span>
 
 							<div class="form_popup from_login" tabindex="-1">
 								<div class="inner-form">
@@ -118,67 +118,82 @@
 				<nav class="width-navigation">
 					<ul class="nav navbar-nav menu-main-menu side-nav" id="mobile-demo">
 						<li class="current-menu-ancestor current-menu-parent">
-							<a href="index.html">Home</a>
-							<ul class="sub-menu">
-								<li><a href="index.html">Home 1 – Video Slider</a></li>
-								<li><a href="home-2.html">Home 2 – Image Slider</a></li>
-								<li><a href="home-3.html">Home 3 – Background Image</a></li>
-								<li><a href="home-4.html">Home 4</a></li>
- 							</ul>
+							<a style="font-size:17px;color:#ffb300 "href="index.html">Home</a>
 						</li>
 						<li class="menu-item-has-children">
-							<a href="tours.html">HolidayPackages</a>
+							<a style="font-size:17px;color:#ffb300 "href="tours.html">Holiday Packages</a>
 							<ul class="sub-menu">
-								<li><a href="single-tour.html">Single Tour</a></li>
-								<li><a href="#">Layout</a>
-									<ul class="sub-menu">
-										<li><a href="tours-list.html">Tour List</a></li>
-										<li><a href="tours-2-cols.html">Grid – 2 cols</a></li>
-										<li><a href="tours.html">Grid – 3 cols(width sidebar)</a></li>
-										<li><a href="tours-3-cols.html">Grid – 3 cols (no sidebar)</a></li>
-										<li><a href="tours-4-cols.html">Grid – 4 cols</a></li>
+								<li><a href="single-tour.html">Domestic</a>
+								<ul class="sub-menu">
+										<li><a href="tours-list.html">Haneymoon Special</a></li>
+										<li><a href="tours-2-cols.html">South Special</a></li>
+										<li><a href="tours.html">Himachal Special</a></li>
+										<li><a href="tours-3-cols.html">Sikkim Special</a></li>
+										<li><a href="tours-4-cols.html">East India</a></li>
+										<li><a href="tours-4-cols.html">Kerala Special</a></li>
+										<li><a href="tours-4-cols.html">Rajasthan</a></li>
+										<li><a href="tours-4-cols.html">Kashmir</a></li>
+										<li><a href="tours-4-cols.html">Leh Ladakh</a></li>
+										<li><a href="tours-4-cols.html">Arunachal And Assam Itinereries</a></li>
+									</ul>
+									</li>
+								<li><a href="#">International</a>
+									<ul class="sub-menu" style="overflow-y: scroll; height: 200px">
+
+										<li><a href="tours-list.html">Honeymoon Special</a></li>
+										<li><a href="tours-2-cols.html">Thailand</a></li>
+										<li><a href="tours.html">Singapore</a></li>
+										<li><a href="tours-3-cols.html">Maldive</a></li>
+										<li><a href="tours-4-cols.html">Mauritius</a></li>
+										<li><a href="tours-4-cols.html">Srilanka</a></li>
+										<li><a href="tours-4-cols.html">Dubai</a></li>
+										<li><a href="tours-4-cols.html">Hong Kong-Macau</a></li>
+										<li><a href="tours-4-cols.html">Malaysia</a></li>
+										<li><a href="tours-4-cols.html">Kenya South Africa</a></li>
+										<li><a href="tours-4-cols.html">Newzealand</a></li>
+										<li><a href="tours-4-cols.html">Australia</a></li>
+										<li><a href="tours-4-cols.html">Europe</a></li>
+										<li><a href="tours-4-cols.html">USA And Canada</a></li>
+										<li><a href="tours-4-cols.html">South America</a></li>
+
 									</ul>
 								</li>
 							</ul>
 						</li>
 
-						<li><a href="destinations.html">Honeymoon Special</a></li>
-						<li><a href="blog.html">Offers</a></li>
-
-						<li class="menu-item-has-children">
-							<a href="#">Group Holidays</a>
+						<li><a style="font-size:17px;color:#ffb300 "href="destinations.html">Honeymoon Special</a>
 							<ul class="sub-menu">
-
-
-								<li><a href="gallery.html">Gallery</a></li>
-								<li><a href="travel-tips.html">Travel Tips</a></li>
-								<li><a href="typography.html">Typography</a></li>
-								<li><a href="checkout.html">Checkout</a></li>
-							</ul>
-						</li>
-						<li class="menu-item-has-children">
-							<a href="tours.html">Hotels & Flight</a>
-						</li>
-						<li><a href="contact.html">Contact</a></li>
-						<li class="menu-right">
-							<ul>
-								<li id="travel_social_widget-2" class="widget travel_search">
-									<div class="search-toggler-unit">
-										<div class="search-toggler">
-											<i class="fa fa-search"></i>
-										</div>
-									</div>
-									<div class="search-menu search-overlay search-hidden">
-										<div class="closeicon"></div>
-										<form method="get" class="search-form" action="tours.html">
-											<input type="search" class="search-field" placeholder="Search ..." value="" name="s" title="Search for:">
-											<input type="submit" class="search-submit font-awesome" value="&#xf002;">
-										</form>
-										<div class="background-overlay"></div>
-									</div>
+						<li><a href="single-tour.html">Domestic</a>
+								<ul class="sub-menu">
+										<li><a href="tours-list.html">Feel The Love Of South</a></li>
+										<li><a href="tours-2-cols.html">Romantic Himachal</a></li>
+										<li><a href="tours.html">Romantic Kerala</a></li>
+										</ul>
 								</li>
-							</ul>
+								<li><a href="#">International</a>
+									<ul class="sub-menu" style="overflow-y: scroll; height: 200px">
+
+										<li><a href="tours-list.html">Romantic Bali</a></li>
+										<li><a href="tours-2-cols.html">Romantic Europe</a></li>
+										<li><a href="tours.html">Romantic Koh Samui Island</a></li>
+										<li><a href="tours-3-cols.html">Romantic Krabi Island</a></li>
+										<li><a href="tours-4-cols.html">Romantic Maldives</a></li>
+										<li><a href="tours-4-cols.html">Romantic Mauritius</a></li>
+										<li><a href="tours-4-cols.html">Romantic Seychelles</a></li>
+										<li><a href="tours-4-cols.html">Romantic  Phuket Island</a></li>
+										<li><a href="tours-4-cols.html">Romantic  Australia and new Zealand</a></li>
+							</li>
+						</ul>
+					</li>
+				</ul>
+
+						<li><a style="font-size:17px;color:#ffb300 "href="blog.html">Offers</a></li>
+
+						<li class="menu-item-has-children">
+							<a style="font-size:17px;color:#ffb300 "href="#">Group Holidays</a>
 						</li>
+						
+						<li><a style="font-size:17px;color:#ffb300 "href="contact.html">Contact</a></li>
 					</ul>
 				</nav>
 			</div>
@@ -191,8 +206,8 @@
 					<source src="videos/330149744.mp4" type="video/mp4">
 				</video>
 				<div class="content-slider">
-					<p>Find your special tour today </p>
-					<h2>With Travel Tours </h2>
+					<p>LOVE THE PLACES </p>
+					<h2>NEVER STOP EXPLORING </h2>
 					<p><a href="tours.html" class="btn btn-slider">VIEW TOURS </a></p>
 				</div>
 			</div>
@@ -1055,5 +1070,105 @@
 <script type="text/javascript" src="assets/js/waypoints.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.counterup.min.js"></script>
 <script type='text/javascript' src='assets/js/theme.js'></script>
+<!--Modal: Login / Register Form-->
+<div class="modal fade" id="modalLRForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog cascading-modal" role="document">
+    <!--Content-->
+    <div class="modal-content">
+
+      <!--Modal cascading tabs-->
+      <div class="modal-c-tabs">
+
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs md-tabs tabs-2 light-blue darken-3" role="tablist">
+          <li class="nav-item">
+            <a class="nav-link active" data-toggle="tab" href="#panel7" role="tab"><i class="fas fa-user mr-1"></i>
+              Agent Login</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" data-toggle="tab" href="#panel8" role="tab"><i class="fas fa-user-plus mr-1"></i>
+              Corporate Login</a>
+          </li>
+        </ul>
+
+        <!-- Tab panels -->
+        <div class="tab-content">
+          <!--Panel 7-->
+          <div class="tab-pane fade in show active" id="panel7" role="tabpanel">
+
+            <!--Body-->
+            <div class="modal-body mb-1">
+              <div class="md-form form-sm mb-5">
+                <i class="fas fa-envelope prefix"></i>
+                <input type="email" id="modalLRInput10" class="form-control form-control-sm validate">
+                <label data-error="wrong" data-success="right" for="modalLRInput10">Your email</label>
+              </div>
+
+              <div class="md-form form-sm mb-4">
+                <i class="fas fa-lock prefix"></i>
+                <input type="password" id="modalLRInput11" class="form-control form-control-sm validate">
+                <label data-error="wrong" data-success="right" for="modalLRInput11">Your password</label>
+              </div>
+              <div class="text-center mt-2">
+                <button class="btn btn-info">Log in <i class="fas fa-sign-in ml-1"></i></button>
+              </div>
+            </div>
+            <!--Footer-->
+            <div class="modal-footer">
+              <div class="options text-center text-md-right mt-1">
+                <p>Not a member? <a href="#" class="blue-text">Sign Up</a></p>
+                <p>Forgot <a href="#" class="blue-text">Password?</a></p>
+              </div>
+              <button type="button" class="btn btn-outline-info waves-effect ml-auto" data-dismiss="modal">Close</button>
+            </div>
+
+          </div>
+          <!--/.Panel 7-->
+
+          <!--Panel 8-->
+          <div class="tab-pane fade" id="panel8" role="tabpanel">
+
+            <!--Body-->
+            <div class="modal-body">
+              <div class="md-form form-sm mb-5">
+                <i class="fas fa-envelope prefix"></i>
+                <input type="email" id="modalLRInput12" class="form-control form-control-sm validate">
+                <label data-error="wrong" data-success="right" for="modalLRInput12">Your email</label>
+              </div>
+
+              <div class="md-form form-sm mb-5">
+                <i class="fas fa-lock prefix"></i>
+                <input type="password" id="modalLRInput13" class="form-control form-control-sm validate">
+                <label data-error="wrong" data-success="right" for="modalLRInput13">Your password</label>
+              </div>
+
+              <div class="md-form form-sm mb-4">
+                <i class="fas fa-lock prefix"></i>
+                <input type="password" id="modalLRInput14" class="form-control form-control-sm validate">
+                <label data-error="wrong" data-success="right" for="modalLRInput14">Repeat password</label>
+              </div>
+
+              <div class="text-center form-sm mt-2">
+                <button class="btn btn-info">Sign up <i class="fas fa-sign-in ml-1"></i></button>
+              </div>
+
+            </div>
+            <!--Footer-->
+            <div class="modal-footer">
+              <div class="options text-right">
+                <p class="pt-1">Already have an account? <a href="#" class="blue-text">Log In</a></p>
+              </div>
+              <button type="button" class="btn btn-outline-info waves-effect ml-auto" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+          <!--/.Panel 8-->
+        </div>
+
+      </div>
+    </div>
+    <!--/.Content-->
+  </div>
+</div>
+<!--Modal: Login / Register Form-->
 </body>
 </html>
