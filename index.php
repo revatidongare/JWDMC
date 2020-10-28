@@ -69,33 +69,9 @@
 									<a href="#" title="Lost your password?" class="lost-pass">Lost your password?</a>
 								</div>
 							</div>
-							<span class="register_btn">Register</span>
-							<div class="form_popup from_register" tabindex="-1">
-								<div class="inner-form">
-									<div class="closeicon"></div>
-									<h3>Register</h3>
-									<form method="post" class="register">
-										<p class="form-row">
-											<label for="reg_username">Username <span class="required">*</span></label>
-											<input type="text" class="input" name="username" id="reg_username" value="" autocomplete="off">
-										</p>
-										<p class="form-row">
-											<label for="reg_email">Email address <span class="required">*</span></label>
-											<input type="email" class="input" name="email" id="reg_email" value="">
-										</p>
-										<p class="form-row">
-											<label for="reg_password">Password <span class="required">*</span></label>
-											<input type="password" class="input" name="password" id="reg_password">
-										</p>
-										<div style="left: -999em; position: absolute;">
-											<label for="trap">Anti-spam</label><input type="text" name="email_2" id="trap" tabindex="-1" autocomplete="off">
-										</div>
-										<p class="form-row">
-											<input type="submit" class="button" name="register" value="Register">
-										</p>
-									</form>
-								</div>
-							</div>
+							<span class="register_btn"> <a href="AgentRegister.php">
+                             Register</a></span>
+							
 							<div class="background-overlay"></div>
 						</aside>
 					</div>
@@ -103,7 +79,7 @@
 			</div>
 		</div>
 		<div class="navigation-menu">
-			<div class="container">
+			<div class="container" style="padding: 0; margin: 0;  ">
 				<div class="menu-mobile-effect navbar-toggle button-collapse" data-activates="mobile-demo">
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
@@ -115,31 +91,15 @@
 						<img src="images/logo_sticky.png" alt="Sticky logo" width="474" height="130" class="logo_sticky">
 					</a>
 				</div>
-				<nav class="width-navigation">
+				<nav class="width-navigation" style="max-width: 100%">
 					<ul class="nav navbar-nav menu-main-menu side-nav" id="mobile-demo">
 						<li class="current-menu-ancestor current-menu-parent">
 							<a style="font-size:17px;color:#ffb300 "href="index.html">Home</a>
 						</li>
 						<li class="menu-item-has-children">
-							<a style="font-size:17px;color:#ffb300 "href="tours.html">Holiday Packages</a>
-							<ul class="sub-menu">
-								<li><a href="single-tour.html">Domestic</a>
-								<ul class="sub-menu">
-										<li><a href="tours-list.html">Haneymoon Special</a></li>
-										<li><a href="tours-2-cols.html">South Special</a></li>
-										<li><a href="tours.html">Himachal Special</a></li>
-										<li><a href="tours-3-cols.html">Sikkim Special</a></li>
-										<li><a href="tours-4-cols.html">East India</a></li>
-										<li><a href="tours-4-cols.html">Kerala Special</a></li>
-										<li><a href="tours-4-cols.html">Rajasthan</a></li>
-										<li><a href="tours-4-cols.html">Kashmir</a></li>
-										<li><a href="tours-4-cols.html">Leh Ladakh</a></li>
-										<li><a href="tours-4-cols.html">Arunachal And Assam Itinereries</a></li>
-									</ul>
-									</li>
-								<li><a href="#">International</a>
-									<ul class="sub-menu" style="overflow-y: scroll; height: 200px">
-
+							<a style="font-size:17px;color:#ffb300 "href="tours.html">International Destinations</a>
+							<ul class="sub-menu">				
+									
 										<li><a href="tours-list.html">Honeymoon Special</a></li>
 										<li><a href="tours-2-cols.html">Thailand</a></li>
 										<li><a href="tours.html">Singapore</a></li>
@@ -157,9 +117,30 @@
 										<li><a href="tours-4-cols.html">South America</a></li>
 
 									</ul>
-								</li>
-							</ul>
 						</li>
+
+						<li class="menu-item-has-children">
+							<a style="font-size:17px;color:#ffb300 "href="tours.html">Domastic Destinations</a>
+							<ul class="sub-menu">				
+									
+										<li><a href="tours-list.html">Honeymoon Special</a></li>
+										<li><a href="tours-2-cols.html">Thailand</a></li>
+										<li><a href="tours.html">Singapore</a></li>
+										<li><a href="tours-3-cols.html">Maldive</a></li>
+										<li><a href="tours-4-cols.html">Mauritius</a></li>
+										<li><a href="tours-4-cols.html">Srilanka</a></li>
+										<li><a href="tours-4-cols.html">Dubai</a></li>
+										<li><a href="tours-4-cols.html">Hong Kong-Macau</a></li>
+										<li><a href="tours-4-cols.html">Malaysia</a></li>
+										<li><a href="tours-4-cols.html">Kenya South Africa</a></li>
+										<li><a href="tours-4-cols.html">Newzealand</a></li>
+										<li><a href="tours-4-cols.html">Australia</a></li>
+										<li><a href="tours-4-cols.html">Europe</a></li>
+										<li><a href="tours-4-cols.html">USA And Canada</a></li>
+										<li><a href="tours-4-cols.html">South America</a></li>
+
+									</ul>
+						</li>											
 
 						<li><a style="font-size:17px;color:#ffb300 "href="destinations.html">Honeymoon Special</a>
 							<ul class="sub-menu">
