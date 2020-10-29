@@ -120,19 +120,19 @@
 							<ul class="sub-menu">
 						<li><a href="single-tour.html">Domestic</a>
 								<ul class="sub-menu">
-										<li><a href="tours-list.html">Feel The Love Of South</a></li>
+										<li><a href="feel.php">Feel The Love Of South</a></li>
 
-										<li><a href="tours-2-cols.html">Romantic Himachal</a></li>
-										<li><a href="tours.html">Romantic Kerala</a></li>
+										<li><a href="Himachal.php">Romantic Himachal</a></li>
+										<li><a href="kerala.php">Romantic Kerala</a></li>
 										</ul>
 								</li>
 								<li><a href="#">International</a>
 									<ul class="sub-menu" style="overflow-y: scroll; height: 200px">
 
-										<li><a href="tours-list.html">Romantic Bali</a></li>
-										<li><a href="tours-2-cols.html">Romantic Europe</a></li>
-										<li><a href="tours.html">Romantic Koh Samui Island</a></li>
-										<li><a href="tours-3-cols.html">Romantic Krabi Island</a></li>
+										<li><a href="bali.php">Romantic Bali</a></li>
+										<li><a href="europe.php">Romantic Europe</a></li>
+										<li><a href="island.php">Romantic Koh Samui Island</a></li>
+										<li><a href="kisland.php">Romantic Krabi Island</a></li>
 										<li><a href="tours-4-cols.html">Romantic Maldives</a></li>
 										<li><a href="tours-4-cols.html">Romantic Mauritius</a></li>
 										<li><a href="tours-4-cols.html">Romantic Seychelles</a></li>
@@ -147,10 +147,12 @@
 						<li><a style="font-size:16px;color:#ffb300 "href="blog.html">Offers</a></li>
 
 					      <li>
-							<a style="font-size:16px;color:#ffb300 "href="blog.html">Group Holidays</a>
+							<a style="font-size:16px;color:#ffb300 "href="blog.html">Group Departure</a>
 						</li>
+
 						
 						<li><a style="font-size:16px;color:#ffb300 "href="contact.html">Contact</a></li>
+
 					</ul>
 				</nav>
 			</div>

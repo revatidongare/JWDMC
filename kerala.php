@@ -14,7 +14,7 @@
 						
 					</ul>
 				</div>
-				<h1 class="heading_primary">Feel The Love of South</h1></div>
+				<h1 class="heading_primary">Romantic Kerala</h1></div>
 		</div>
 		<section class="content-area">
 			<div class="container">
@@ -25,7 +25,7 @@
 								<div class="item_border item-product">
 									<div class="post_images">
 										<a href="single-tour.html">
-											<img width="430" height="305" src="images/feel1.jpg" alt="Honeymoon Special – Vyhtiri Resort" title="Honeymoon Special – Vyhtiri Resort">
+											<img width="430" height="305" src="images/kerala1.jpg" alt="Romantic Kerala -The Panaromic Gateway Resort" title="Romantic Kerala -The Panaromic Gateway Resort">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -34,8 +34,9 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Honeymoon Special – Vyhtiri Resort</a></h4>
-										</div>
+											<a href="single-tour.html" rel="bookmark">Romantic Kerala -The Panaromic Gateway Resort</a>
+										</h4>
+									</div>
 										<span class="post_date">Coming Soon</span>
 																					<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Day , Candle Light Dinner , Room Decoration  , Complimentary Cake , Two Glasses of Badaam Milk Every Night in Honeymoon room</marquee>
 										
@@ -57,7 +58,7 @@
 								<div class="item_border item-product">
 									<div class="post_images">
 										<a href="single-tour.html">
-											<img width="430" height="305" src="images/feel2.jpg" alt="Romantic Coorg with Mysore" title="Romantic Coorg with Mysore">
+											<img width="430" height="305" src="images/kerala2.jpg" alt="Romantic Kerala Memories" title="Romantic Kerala Memories">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -66,7 +67,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Romantic Coorg with Mysore</a>
+											<a href="single-tour.html" rel="bookmark">Romantic Kerala Memories</a>
 										</h4></div>
 										<span class="post_date">Coming Soon</span>
 										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
@@ -89,7 +90,7 @@
 								<div class="item_border item-product">
 									<div class="post_images">
 										<a href="single-tour.html">
-											<img width="430" height="305" src="images/feel3.jpg" alt="Romantic Coorg with Mysore-1" title="Romantic Coorg with Mysore-1">
+											<img width="430" height="305" src="images/kerala3.jpg" alt="Romantic Munnar with Alleppey " title="Romantic Munnar with Alleppey ">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -98,7 +99,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Romantic Coorg with Mysore-1</a>
+											<a href="single-tour.html" rel="bookmark">Romantic Munnar with Alleppey </a>
 										</h4></div>
 										<span class="post_date">Coming Soon</span>
 										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
@@ -117,8 +118,7 @@
 									</div>
 								</div>
 							</li>
-						</
-						ul>
+						</ul>
 						<div class="navigation paging-navigation" role="navigation">
 							<ul class="page-numbers">
 								<li><span class="page-numbers current">1</span></li>

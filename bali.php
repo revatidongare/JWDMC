@@ -14,7 +14,7 @@
 						
 					</ul>
 				</div>
-				<h1 class="heading_primary">Feel The Love of South</h1></div>
+				<h1 class="heading_primary">Romantic Bali</h1></div>
 		</div>
 		<section class="content-area">
 			<div class="container">
@@ -25,7 +25,7 @@
 								<div class="item_border item-product">
 									<div class="post_images">
 										<a href="single-tour.html">
-											<img width="430" height="305" src="images/feel1.jpg" alt="Honeymoon Special – Vyhtiri Resort" title="Honeymoon Special – Vyhtiri Resort">
+											<img width="430" height="305" src="images/Bali/bali1.jpg" alt="BALI -KARMA KANDARA RESORT " title="BALI -KARMA KANDARA RESORT ">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -34,7 +34,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Honeymoon Special – Vyhtiri Resort</a></h4>
+											<a href="single-tour.html" rel="bookmark">BALI -KARMA KANDARA RESORT </a></h4>
 										</div>
 										<span class="post_date">Coming Soon</span>
 																					<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Day , Candle Light Dinner , Room Decoration  , Complimentary Cake , Two Glasses of Badaam Milk Every Night in Honeymoon room</marquee>
@@ -57,7 +57,7 @@
 								<div class="item_border item-product">
 									<div class="post_images">
 										<a href="single-tour.html">
-											<img width="430" height="305" src="images/feel2.jpg" alt="Romantic Coorg with Mysore" title="Romantic Coorg with Mysore">
+											<img width="430" height="305" src="images/Bali/bali2.jpg" alt="BALI-CHEDI CLUB TANAH GAJAH RESORT " title="BALI-CHEDI CLUB TANAH GAJAH RESORT ">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -66,7 +66,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Romantic Coorg with Mysore</a>
+											<a href="single-tour.html" rel="bookmark">BALI-CHEDI CLUB TANAH GAJAH RESORT </a>
 										</h4></div>
 										<span class="post_date">Coming Soon</span>
 										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
@@ -89,7 +89,7 @@
 								<div class="item_border item-product">
 									<div class="post_images">
 										<a href="single-tour.html">
-											<img width="430" height="305" src="images/feel3.jpg" alt="Romantic Coorg with Mysore-1" title="Romantic Coorg with Mysore-1">
+											<img width="430" height="305" src="images/Bali/bali3.jpg" alt="BALI-NATURA RESORT AND SPA " title="BALI-NATURA RESORT AND SPA ">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -98,7 +98,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Romantic Coorg with Mysore-1</a>
+											<a href="single-tour.html" rel="bookmark">BALI-NATURA RESORT AND SPA </a>
 										</h4></div>
 										<span class="post_date">Coming Soon</span>
 										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
@@ -117,8 +117,69 @@
 									</div>
 								</div>
 							</li>
-						</
-						ul>
+							<li class="item-tour col-md-6 col-sm-6 product">
+								<div class="item_border item-product">
+									<div class="post_images">
+										<a href="single-tour.html">
+											<img width="430" height="305" src="images/Bali/bali4.jpg" alt="BALI-OBERIO RESORT" title="BALI-OBERIO RESORT ">
+										</a>
+										<div class="group-icon">
+											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
+											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" data-original-title="Rail Tour"><i class="flaticon-cart-1"></i></a>
+										</div>
+									</div>
+									<div class="wrapper_content">
+										<div class="post_title"><h4>
+											<a href="single-tour.html" rel="bookmark">BALI-OBERIO RESORT</a>
+										</h4></div>
+										<span class="post_date">Coming Soon</span>
+										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
+										
+									</div>
+									<div class="Book Now"style="background-color: #ffb300 ">
+										<div class="item_rating">
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star-o"></i>
+										</div>
+										<a rel="nofollow" href="single-tour.html" class="button product_type_tour_phys add_to_cart_button">Book Now</a>
+									</div>
+								</div>
+							</li>
+							<li class="item-tour col-md-6 col-sm-6 product">
+								<div class="item_border item-product">
+									<div class="post_images">
+										<a href="single-tour.html">
+											<img width="430" height="305" src="images/Bali/bali5.jpg" alt="BALI-UMA SAPNA RESORT" title="BALI-UMA SAPNA RESORT ">
+										</a>
+										<div class="group-icon">
+											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
+											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" data-original-title="Rail Tour"><i class="flaticon-cart-1"></i></a>
+										</div>
+									</div>
+									<div class="wrapper_content">
+										<div class="post_title"><h4>
+											<a href="single-tour.html" rel="bookmark">BALI-UMA SAPNA RESORT</a>
+										</h4></div>
+										<span class="post_date">Coming Soon</span>
+										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
+										
+									</div>
+									<div class="Book Now"style="background-color: #ffb300 ">
+										<div class="item_rating">
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star-o"></i>
+										</div>
+										<a rel="nofollow" href="single-tour.html" class="button product_type_tour_phys add_to_cart_button">Book Now</a>
+									</div>
+								</div>
+							</li>
+						</ul>
 						<div class="navigation paging-navigation" role="navigation">
 							<ul class="page-numbers">
 								<li><span class="page-numbers current">1</span></li>
