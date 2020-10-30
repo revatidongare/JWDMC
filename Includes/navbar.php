@@ -106,8 +106,8 @@
 							<a style="font-size:16px;color:#ffb300 "href="tours.html">North East</a>
 							<ul class="sub-menu">				
 									
-										<li><a href="tours-list.html">Arunachal Pradesh</a></li>
-										<li><a href="tours-2-cols.html">Nagaland</a></li>
+										<li><a href="Arunachal.php">Arunachal Pradesh</a></li>
+										<li><a href="Nagaland.php">Nagaland</a></li>
 										<li><a href="tours.html">Mizoram</a></li>
 										<li><a href="tours-3-cols.html">Manipur</a></li>
 										<li><a href="tours-4-cols.html">Tripura</a></li>
@@ -133,10 +133,10 @@
 										<li><a href="europe.php">Romantic Europe</a></li>
 										<li><a href="island.php">Romantic Koh Samui Island</a></li>
 										<li><a href="kisland.php">Romantic Krabi Island</a></li>
-										<li><a href="tours-4-cols.html">Romantic Maldives</a></li>
-										<li><a href="tours-4-cols.html">Romantic Mauritius</a></li>
-										<li><a href="tours-4-cols.html">Romantic Seychelles</a></li>
-										<li><a href="tours-4-cols.html">Romantic  Phuket Island</a></li>
+										<li><a href="maldiv.php">Romantic Maldives</a></li>
+										<li><a href="mauritius.php">Romantic Mauritius</a></li>
+										<li><a href="seychelles.php">Romantic Seychelles</a></li>
+										<li><a href="PhuketIsland.php">Romantic  Phuket Island</a></li>
 										<li><a href="tours-4-cols.html">Romantic  Australia and new Zealand</a></li>
 									</ul>
 							</li>
