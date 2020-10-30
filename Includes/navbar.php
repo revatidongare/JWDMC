@@ -24,7 +24,7 @@
 							</div>
 						</aside>
 						<aside id="travel_login_register_from-2" class="widget widget_login_form">
-							<span data-toggle="modal" data-target="#registermodal"class="show_from login"><i class="fa fa-user"></i>Login</span>
+							<span data-toggle="modal" data-target="#loginmodal"class="show_from login"><i class="fa fa-user"></i>Login</span>
 
 							<div class="form_popup from_login" tabindex="-1">
 								<div class="inner-form">
@@ -175,13 +175,53 @@
             </div>
             <div class="col-lg-6 mx-auto raised">
                <img class="img-fluid mb-5" src="images/agent.png" alt="">
-               <a class="btn btn-theme btn-lg rounded-pill" href="AgentRegister.php" onmousedown="beep3.play()">
+               <br><br>
+               <a class="btn rounded-pill" style="background-color: silver" href="AgentRegister.php" onmousedown="beep3.play()">
                <!-- <i class="fa fa-close"></i> -->
                Agent</a>
             </div>
             <div class="col-lg-6 mx-auto raised">
                <img class="img-fluid mb-5" src="images/corporate.png" alt="">
-               <a class="btn btn-theme btn-lg rounded-pill " href="CorporateRegister.php" onmousedown="beep3.play()">
+               <br><br>
+               <a class="btn rounded-pill" style="background-color: silver" href="CorporateRegister.php" onmousedown="beep3.play()">
+               <!-- <i class="fa fa-close"></i> -->
+               Corporate Agent</a>
+            </div>
+            
+         </div>
+      </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+       
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- login modal -->
+<div class="modal fade  bd-example-modal-lg" id="loginmodal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content modal-lg">
+      
+      <div class="modal-body">
+        <div class="container-fluid">
+         <div class="row" align="center">
+            <div class="col-lg-12 mx-auto" >
+               <h2 class="text-theme mb-0">Login</h2>
+               <hr class="star-dark mb-5 text-theme">
+            </div>
+            <div class="col-lg-6 mx-auto raised">
+               <img class="img-fluid mb-5" src="images/agent.png" alt="">
+               <br><br>
+               <a class="btn rounded-pill" style="background-color: silver" href="AgentRegister.php" onmousedown="beep3.play()">
+               <!-- <i class="fa fa-close"></i> -->
+               Agent</a>
+            </div>
+            <div class="col-lg-6 mx-auto raised">
+               <img class="img-fluid mb-5" src="images/corporate.png" alt="">
+               <br><br>
+               <a class="btn rounded-pill" style="background-color: silver" href="CorporateRegister.php" onmousedown="beep3.play()">
                <!-- <i class="fa fa-close"></i> -->
                Corporate Agent</a>
             </div>
