@@ -19,15 +19,27 @@
 							
 							<li class="item-tour col-md-6 col-sm-6 product">
 								<div class="item_border item-product">
-									<div class="post_images">
-										<a href="single-tour.html">
-											<img width="430" height="305" src="images/Nagalandimg/CultureOfNagalandnaga6.jpg" alt="Culture Of Nagaland " title="Culture Of Nagaland ">
-										</a>
-										<div class="group-icon">
-											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
-											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" data-original-title="Rail Tour"><i class="flaticon-cart-1"></i></a>
-										</div>
-									</div>
+									<div style="border:1px soild #000;">
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+
+        <img src="images/Nagalandimg/naga1.jpg" style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="images/Nagalandimg/KhonomaVillagenaga2.jpg" style="width:100%;">
+      </div>
+    
+      <div class="item">
+        <img src="images/Nagalandimg/KohimaBotanicalGardennaga5.jpg" style="width:100%;">
+      </div>
+    </div>
+</div>
+  </div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
 											<a href="single-tour.html" rel="bookmark">Culture Of Nagaland</a>
@@ -52,146 +64,37 @@
 
 							<li class="item-tour col-md-6 col-sm-6 product">
 								<div class="item_border item-product">
-									<div class="post_images">
-										<a href="single-tour.html">
-											<img width="430" height="305" src="images/Nagalandimg/KhonomaVillagenaga2.jpg" alt="he Santa Barbara Wildfire " title="he Santa Barbara Wildfire">
-										</a>
-										<div class="group-icon">
-											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
-											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" data-original-title="Rail Tour"><i class="flaticon-cart-1"></i></a>
-										</div>
-									</div>
-									<div class="wrapper_content">
-										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Khonoma Village</a>
-										</h4></div>
-										<span class="post_date">Coming Soon</span>
-										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
+									<div style="border:1px soild #000;">
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
 
-										
-									</div>
-									<div class="Book Now"style="background-color: #ffb300 ">
-										<div class="item_rating">
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star-o"></i>
-										</div>
-										<a rel="nofollow" href="single-tour.html" class="button product_type_tour_phys add_to_cart_button">Book Now</a>
-									</div>
-								</div>
-							</li>
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
 
-							<li class="item-tour col-md-6 col-sm-6 product">
-								<div class="item_border item-product">
-									<div class="post_images">
-										<a href="single-tour.html">
-											<img width="430" height="305" src="images/Nagalandimg/KohimaBotanicalGardennaga5.jpg" alt="A Perfect Day in the Nature " title="A Perfect Day in the Nature ">
-										</a>
-										<div class="group-icon">
-											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
-											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" data-original-title="Rail Tour"><i class="flaticon-cart-1"></i></a>
-										</div>
-									</div>
-									<div class="wrapper_content">
-										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Kohima Botanical Garden</a>
-										</h4></div>
-										<span class="post_date">Coming Soon</span>
-										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
+        <img src="images/Nagalandimg/CultureOfNagalandnaga6.jpg" style="width:100%;">
+      </div>
 
-										
-									</div>
-									<div class="Book Now"style="background-color: #ffb300 ">
-										<div class="item_rating">
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star-o"></i>
-										</div>
-										<a rel="nofollow" href="single-tour.html" class="button product_type_tour_phys add_to_cart_button">Book Now</a>
-									</div>
-								</div>
-							</li>
+      <div class="item">
+        <img src="images/Nagalandimg/KohimaWarCemeterynaga4.jpg" style="width:100%;">
+      </div>
+    
+      <div class="item">
+        <img src="images/Nagalandimg/NagaHeritageVillagenaga3.jpg" style="width:100%;">
+      </div>
+    </div>
+</div>
+  </div>
+														
 
-							<li class="item-tour col-md-6 col-sm-6 product">
-								<div class="item_border item-product">
-									<div class="post_images">
-										<a href="single-tour.html">
-											<img width="430" height="305" src="images/Nagalandimg/KohimaWarCemeterynaga4.jpg" alt="A smile is a sign of friendliness " title="A smile is a sign of friendliness ">
-										</a>
-										<div class="group-icon">
-											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
-											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" data-original-title="Rail Tour"><i class="flaticon-cart-1"></i></a>
-										</div>
-									</div>
-									<div class="wrapper_content">
-										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Kohima War Cemetery</a>
-										</h4></div>
-										<span class="post_date">Coming Soon</span>
-										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
+							
 
-										
-									</div>
-									<div class="Book Now"style="background-color: #ffb300 ">
-										<div class="item_rating">
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star-o"></i>
-										</div>
-										<a rel="nofollow" href="single-tour.html" class="button product_type_tour_phys add_to_cart_button">Book Now</a>
-									</div>
-								</div>
-							</li>
+							
+							
 							
 							<li class="item-tour col-md-6 col-sm-6 product">
 								<div class="item_border item-product">
-									<div class="post_images">
-										<a href="single-tour.html">
-											<img width="430" height="305" src="images/Nagalandimg/NagaHeritageVillagenaga3.jpg" alt="A happy family " title="A happy family ">
-										</a>
-										<div class="group-icon">
-											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
-											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" data-original-title="Rail Tour"><i class="flaticon-cart-1"></i></a>
-										</div>
-									</div>
-									<div class="wrapper_content">
-										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Naga Heritage Village</a>
-										</h4></div>
-										<span class="post_date">Coming Soon</span>
-										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
-
-										
-									</div>
-									<div class="Book Now"style="background-color: #ffb300 ">
-										<div class="item_rating">
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star-o"></i>
-										</div>
-										<a rel="nofollow" href="single-tour.html" class="button product_type_tour_phys add_to_cart_button">Book Now</a>
-									</div>
-								</div>
-							</li>
-							<li class="item-tour col-md-6 col-sm-6 product">
-								<div class="item_border item-product">
-									<div class="post_images">
-										<a href="single-tour.html">
-											<img width="430" height="305" src="images/Nagalandimg/naga1.jpg" alt="You big profit" title="You big profit ">
-										</a>
-										<div class="group-icon">
-											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
-											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" data-original-title="Rail Tour"><i class="flaticon-cart-1"></i></a>
-										</div>
-									</div>
+									
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
 											<a href="single-tour.html" rel="bookmark">A land engulfed in mystery</a>
@@ -212,38 +115,7 @@
 									</div>
 								</div>
 							</li>
-							<li class="item-tour col-md-6 col-sm-6 product">
-								<div class="item_border item-product">
-									<div class="post_images">
-										<a href="single-tour.html">
-											<img width="430" height="305" src="images/Nagalandimg/NagalandZoologicalPark.jpg" alt="Nagaland Zoological Park " title="Nagaland Zoological Park">
-										</a>
-										<div class="group-icon">
-											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
-											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" data-original-title="Rail Tour"><i class="flaticon-cart-1"></i></a>
-										</div>
-									</div>
-									<div class="wrapper_content">
-										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Nagaland ZoologicalPark</a>
-										</h4></div>
-										<span class="post_date">Coming Soon</span>
-										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
-
-										
-									</div>
-									<div class="Book Now"style="background-color: #ffb300 ">
-										<div class="item_rating">
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star-o"></i>
-										</div>
-										<a rel="nofollow" href="single-tour.html" class="button product_type_tour_phys add_to_cart_button">Book Now</a>
-									</div>
-								</div>
-							</li>
+							
 						</ul>
 						<div class="navigation paging-navigation" role="navigation">
 							<ul class="page-numbers">

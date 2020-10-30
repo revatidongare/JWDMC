@@ -79,7 +79,7 @@
 
 					<ul class="nav navbar-nav menu-main-menu side-nav" id="mobile-demo">
 						<li class="current-menu-ancestor current-menu-parent">
-							<a style="color:#ffb300 "href="index.html">Home</a>
+							<a style="color:#ffb300 "href="index.php">Home</a>
 						</li>
 						<li class="menu-item-has-children">
 							<a style="color:#ffb300 "href="tours.html">International Destination</a>
