@@ -59,7 +59,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="navigation-menu">
+		<div class="navigation-menu" style="background-color: #fff;">
 			<div class="container" style="padding: 0; margin: 0;  ">
 				<div class="menu-mobile-effect navbar-toggle button-collapse" data-activates="mobile-demo">
 					<span class="icon-bar"></span>
@@ -76,10 +76,10 @@
 
 					<ul class="nav navbar-nav menu-main-menu side-nav" id="mobile-demo">
 						<li class="current-menu-ancestor current-menu-parent">
-							<a style="font-size:16px;color:#ffb300 "href="index.html">Home</a>
+							<a style="color:#ffb300 "href="index.html">Home</a>
 						</li>
 						<li class="menu-item-has-children">
-							<a style="font-size:16px;color:#ffb300 "href="tours.html">International Destination</a>
+							<a style="color:#ffb300 "href="tours.html">International Destination</a>
 							<ul class="sub-menu">				
 									
 										<li><a href="tours-list.html">Unseen Thailand</a></li>
@@ -103,7 +103,7 @@
 						</li>
 
 						<li class="menu-item-has-children">
-							<a style="font-size:16px;color:#ffb300 "href="tours.html">North East</a>
+							<a style="color:#ffb300 "href="tours.html">North East</a>
 							<ul class="sub-menu">				
 									
 										<li><a href="Arunachal.php">Arunachal Pradesh</a></li>
@@ -116,7 +116,7 @@
 									</ul>
 						</li>											
 
-						<li><a style="font-size:16px;color:#ffb300 "href="destinations.html">Honeymoon Special</a>
+						<li><a style="color:#ffb300 "href="destinations.html">Honeymoon Special</a>
 							<ul class="sub-menu">
 						<li><a href="single-tour.html">Domestic</a>
 								<ul class="sub-menu">
@@ -144,14 +144,14 @@
 					</li>
 			
 
-						<li><a style="font-size:16px;color:#ffb300 "href="blog.html">Offers</a></li>
+						<li><a style="color:#ffb300 "href="blog.html">Offers</a></li>
 
 					      <li>
-							<a style="font-size:16px;color:#ffb300 "href="blog.html">Group Departure</a>
+							<a style="color:#ffb300 "href="blog.html">Group Departure</a>
 						</li>
 
 						
-						<li><a style="font-size:16px;color:#ffb300 "href="contact.html">Contact</a></li>
+						<li><a style="color:#ffb300 "href="contact.html">Contact</a></li>
 
 					</ul>
 				</nav>
