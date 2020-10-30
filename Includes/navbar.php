@@ -214,14 +214,14 @@
             <div class="col-lg-6 mx-auto raised">
                <img class="img-fluid mb-5" src="images/agent.png" alt="">
                <br><br>
-               <a class="btn rounded-pill" style="background-color: silver" href="AgentRegister.php" onmousedown="beep3.play()">
+               <a class="btn rounded-pill" style="background-color: silver" href="Agentlogin.php" onmousedown="beep3.play()">
                <!-- <i class="fa fa-close"></i> -->
                Agent</a>
             </div>
             <div class="col-lg-6 mx-auto raised">
                <img class="img-fluid mb-5" src="images/corporate.png" alt="">
                <br><br>
-               <a class="btn rounded-pill" style="background-color: silver" href="CorporateRegister.php" onmousedown="beep3.play()">
+               <a class="btn rounded-pill" style="background-color: silver" href="Corporatelogin.php" onmousedown="beep3.play()">
                <!-- <i class="fa fa-close"></i> -->
                Corporate Agent</a>
             </div>
