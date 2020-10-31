@@ -10,10 +10,10 @@
 				<video poster="images/video_slider.jpg" playsinline autoplay muted loop>
 					<source src="videos/330149744.mp4" type="video/mp4">
 				</video>
-				<div class="content-slider">
-					<p>LOVE THE PLACES </p>
-					<h2>NEVER STOP EXPLORING </h2>
-					<p><a href="tours.html" class="btn btn-slider">VIEW TOURS </a></p>
+				<div class="content-slider"style="color: #2C3335">
+					<h1>LOVE THE PLACES </h1>
+					<h2 style="color: #2C3335">NEVER STOP EXPLORING </h2>
+					
 				</div>
 			</div>
 
@@ -161,6 +161,7 @@
 									<div class="item_content">
 										<div class="post_images">
 											<a href="single-tour.html" class="travel_tour-LoopProduct-link">
+												
 											<span class="price"><del>
 												<span class="travel_tour-Price-amount amount">$87.00</span></del>
 												<ins><span class="travel_tour-Price-amount amount">$82.00</span></ins>
@@ -439,7 +440,7 @@
 						<div class="col-sm-3">
 							<div class="stats_counter text-center text-white">
 								<div class="wrapper-icon">
-									<i class="flaticon-airplane"></i>
+									<i class="fa fa-plane"></i>
 								</div>
 								<div class="stats_counter_number">94,532</div>
 								<div class="stats_counter_title">Customers</div>
@@ -448,7 +449,7 @@
 						<div class="col-sm-3">
 							<div class="stats_counter text-center text-white">
 								<div class="wrapper-icon">
-									<i class="flaticon-island"></i>
+									<i class="fa fa-tree"></i>
 								</div>
 								<div class="stats_counter_number">1021</div>
 								<div class="stats_counter_title">Destinations</div>
@@ -457,7 +458,7 @@
 						<div class="col-sm-3">
 							<div class="stats_counter text-center text-white">
 								<div class="wrapper-icon">
-									<i class="flaticon-globe"></i>
+									<i class="fa fa-globe"></i>
 								</div>
 								<div class="stats_counter_number">20,096</div>
 								<div class="stats_counter_title">Tours</div>
@@ -466,7 +467,7 @@
 						<div class="col-sm-3">
 							<div class="stats_counter text-center text-white">
 								<div class="wrapper-icon">
-									<i class="flaticon-people"></i>
+									<i class="fa fa-bus"></i>
 								</div>
 								<div class="stats_counter_number">12</div>
 								<div class="stats_counter_title">Tour types</div>
@@ -730,7 +731,8 @@
 													<a href="#" rel="category tag">Technology</a>
 												</div>
 											</div>
-											<div class="post_list_item_excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam efficitur</div>
+											<div class="post_list_item_excerpt">A:Shop No. C , Commercial House,Jupiter CHS Near Ganesh Temple,Kalyani Nagar 
+											</div>
 										</div>
 									</div>
 								</div>
@@ -751,7 +753,7 @@
 													<a href="#" rel="category tag">Technology</a>
 												</div>
 											</div>
-											<div class="post_list_item_excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam efficitur</div>
+											<div class="post_list_item_excerpt">A:Shop No. C , Commercial House,Jupiter CHS Near Ganesh Temple,Kalyani Nagar</div>
 										</div>
 									</div>
 								</div>
@@ -769,13 +771,12 @@
 					<aside class="col-sm-3 widget_text"><h3 class="widget-title">CONTACT</h3>
 						<div class="textwidget">
 							<div class="footer-info">
-								<p>Lorem ipsum dolor sit amet, cons ectetueradipiscing elit, sed diam nonu my nibh euis motincidunt ut laoreetd
-								</p>
+								<p>A:Shop No. C , Commercial House,Jupiter CHS Near Ganesh Temple,Kalyani Nagar</p>
 								<ul class="contact-info">
-									<li><i class="fa fa-map-marker fa-fw"></i> 1945 Washington, San Francisco</li>
-									<li><i class="fa fa-phone fa-fw"></i> +1 234 456 7890</li>
+									<li><i class="fa fa-map-marker fa-fw"></i> Pune, India 411014</li>
+									<li><i class="fa fa-phone fa-fw"></i># +91 20-48601029</li>
 									<li>
-										<i class="fa fa-envelope fa-fw"></i><a href="mailto:hello@siteinfo.com"> hello@siteinfo.com</a>
+										<i class="fa fa-envelope fa-fw"></i><a href="mailto:hello@siteinfo.com"> paresh@travelogholiday.com</a>
 									</li>
 								</ul>
 							</div>
@@ -867,14 +868,14 @@
 		</div>
 	</div>
 </div>
-<script type='text/javascript' src='assets/js/jquery.min.js'></script>
-<script type='text/javascript' src='assets/js/bootstrap.min.js'></script>
-<script type='text/javascript' src='assets/js/vendors.js'></script>
-<script type='text/javascript' src='assets/js/owl.carousel.min.js'></script>
+<script type='text/javascript' src="assets/js/jquery.min.js"></script>
+<script type='text/javascript' src="assets/js/bootstrap.min.js"></script>
+<script type='text/javascript' src="assets/js/vendors.js"></script>
+<script type='text/javascript' src="assets/js/owl.carousel.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.mb-comingsoon.min.js"></script>
 <script type="text/javascript" src="assets/js/waypoints.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.counterup.min.js"></script>
-<script type='text/javascript' src='assets/js/theme.js'></script>
+<script type="text/javascript" src="assets/js/theme.js"></script>
 
 </body>
 </html>
