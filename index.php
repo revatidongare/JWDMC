@@ -154,14 +154,33 @@
 						<h3 class="title_primary">MOST POPULAR TOURS</h3>
 						<span class="line_after_title" style="color:#ffffff"></span>
 					</div>
+					 <div class="swiper-container">
+		<div class="swiper-wrapper">
+			<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
+			<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
+			<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
+			<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
+			<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
+			<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
+			<div class="swiper-slide">Slide 8</div>
+			<div class="swiper-slide">Slide 9</div>
+			<div class="swiper-slide">Slide 10</div>
+		</div>
+		<!-- Add Pagination -->
+		<div class="swiper-pagination"></div>
+		<!-- Add Arrows -->
+		<div class="swiper-button-next"></div>
+		<div class="swiper-button-prev"></div>
+	</div>
+
 					<div class="row wrapper-tours-slider">
 						<div class="tours-type-slider list_content" data-dots="true" data-nav="true" data-responsive='{"0":{"items":1}, "480":{"items":2}, "768":{"items":2}, "992":{"items":3}, "1200":{"items":4}}'>
 							<div class="item-tour">
 								<div class="item_border">
 									<div class="item_content">
 										<div class="post_images">
+											
 											<a href="single-tour.html" class="travel_tour-LoopProduct-link">
-												
 											<span class="price"><del>
 												<span class="travel_tour-Price-amount amount">$87.00</span></del>
 												<ins><span class="travel_tour-Price-amount amount">$82.00</span></ins>
@@ -187,7 +206,7 @@
 											<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
 										</div>
 										<a href="single-tour.html" class="read_more_button">VIEW MORE
-											<i class="fa fa-long-arrow-right"></i></a>
+											<i class="lnr lnr-chevron-right"></span>"></i></a>
 										<div class="clear"></div>
 									</div>
 								</div>
@@ -359,6 +378,7 @@
 							</div>
 						</div>
 					</div>
+
 				</div>
 			</div>
 			<div class="section-white padding-top-6x padding-bottom-6x tours-type">
@@ -876,6 +896,26 @@
 <script type="text/javascript" src="assets/js/waypoints.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.counterup.min.js"></script>
 <script type="text/javascript" src="assets/js/theme.js"></script>
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+	<!-- Initialize Swiper -->
+	<script>
+		var swiper = new Swiper('.swiper-container', {
+      slidesPerView: 3,
+      spaceBetween: 30,
+      slidesPerGroup: 3,
+      loop: true,
+      loopFillGroupWithBlank: true,
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+    });
+	</script>
 
 </body>
 </html>

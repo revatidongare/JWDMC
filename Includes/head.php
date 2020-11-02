@@ -13,7 +13,9 @@
 	<link rel="stylesheet" href="assets/css/travel-setting.css" type="text/css" media="all">
 	<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
-	
+	<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+ 
 
 
 </head>
