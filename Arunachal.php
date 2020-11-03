@@ -2,25 +2,23 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <?php include'includes/head.php';?>
-
 <body class="transparent_home_page">
 <div class="wrapper-container">
 		<?php include'includes/navbar.php';?>
 	<div class="site wrapper-content">
-		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(images/home/bg-popular.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
-						
 					</ul>
 				</div>
-				<h1 class="heading_primary">Arunachal</h1></div>
+
+				<h1 class="heading_primary"style="color: #2C3335">Arunachal</h1></div>
 		</div>
 		<section class="content-area">
-			<div class="container">
+			<div class="container" style="margin-left: 100px">
 				<div class="row">
 					<div class="site-main col-sm-9 alignright">
-
 						<ul class="tours products wrapper-tours-slider">
 							<li class="item-tour col-md-6 col-sm-6 product">
 							 <div class="carousel-inner">
@@ -32,10 +30,11 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-
         <img src="images/Arunachalimg/Bhalukpong.jpg" style="width:100%;">
+        <div class="post_title"><h4>
+		<a href="single-tour.html" rel="bookmark">Bhalukpong</a>
+	    </h4></div>
       </div>
-
       <div class="item">
         <img src="images/Arunachalimg/NamdaphaNationalPark.jpg" style="width:100%;">
       </div>
@@ -46,11 +45,8 @@
     </div>
 </div>
   </div>
-
-									<div class="wrapper_content">
-										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Bhalukpong</a>
-										</h4></div>
+<div class="wrapper_content">
+										
 										<span class="post_date">Coming Soon</span>
 										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
 									</div>
@@ -101,7 +97,6 @@
 										<span class="post_date">Coming Soon</span>
 										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
 
-										
 									</div>
 									<div class="Book Now"style="background-color: #ffb300 ">
 										<div class="item_rating">
@@ -115,7 +110,6 @@
 									</div>
 								</div>
 							</li>
-							
 						</ul>
 						<div class="navigation paging-navigation" role="navigation">
 							<ul class="page-numbers">
@@ -153,69 +147,11 @@
 </div>
   </div>
 </div>
-							<aside class="widget widget_travel_tour">
-							<div class="wrapper-special-tours">
-								<div class="inner-special-tours">
-									<a href="single-tour.html">
-										<img width="430" height="305" src="images/tour/430x305/tour-1.jpg" alt="Discover Brazil" title="Discover Brazil"></a>
-									<div class="item_rating">
-										<i class="fa fa-star"></i>
-										<i class="fa fa-star"></i>
-										<i class="fa fa-star"></i>
-										<i class="fa fa-star"></i>
-										<i class="fa fa-star-o"></i>
-									</div>
-									<div class="post_title"><h3>
-										<a href="single-tour.html" rel="bookmark">Discover Brazil</a>
-									</h3></div>
-									<div class="item_price">
-										<span class="price">$93.00</span>
-									</div>
-								</div>
-								<div class="inner-special-tours">
-									<a href="single-tour.html">
-										<span class="onsale">Sale!</span>
-										<img width="430" height="305" src="images/tour/430x305/tour-2.jpg" alt="Discover Brazil" title="Discover Brazil"></a>
-									<div class="item_rating">
-										<i class="fa fa-star"></i>
-										<i class="fa fa-star"></i>
-										<i class="fa fa-star"></i>
-										<i class="fa fa-star-o"></i>
-										<i class="fa fa-star-o"></i>
-									</div>
-									<div class="post_title"><h3>
-										<a href="single-tour.html" rel="bookmark">Kiwiana Panorama</a>
-									</h3></div>
-									<div class="item_price">
-										<span class="price"><del>$87.00</del>
-										<ins>$82.00</ins></span>
-									</div>
-								</div>
-								<div class="inner-special-tours">
-									<a href="single-tour.html">
-										<img width="430" height="305" src="images/tour/430x305/tour-3.jpg" alt="Discover Brazil" title="Discover Brazil">
-									</a>
-									<div class="item_rating">
-										<i class="fa fa-star"></i>
-										<i class="fa fa-star"></i>
-										<i class="fa fa-star-o"></i>
-										<i class="fa fa-star-o"></i>
-										<i class="fa fa-star-o"></i>
-									</div>
-									<div class="post_title"><h3>
-										<a href="single-tour.html" rel="bookmark">Anchorage to Quito</a>
-									</h3></div>
-									<div class="item_price">
-										<span class="price">$64.00</span>
-									</div>
-								</div>
-							</div>
-						</aside>
-					</div>
-				</div>
-			</div>
-		</section>
-	</div>
+</div>
+</div>
+</div>
+</section>
+</div>
 	<div class="wrapper-footer wrapper-footer-newsletter">
 		<div class="main-top-footer">
 			<div class="container">
