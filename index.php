@@ -156,22 +156,26 @@
 					</div>
 					 <div class="swiper-container">
 		<div class="swiper-wrapper">
+			
 			<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
-			<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
-			<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
-			<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
-			<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
-			<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
-			<div class="swiper-slide">Slide 8</div>
-			<div class="swiper-slide">Slide 9</div>
-			<div class="swiper-slide">Slide 10</div>
+			<img src="images//tour/430x305/tour-2.jpg" alt="" title="">
+			<img src="images/tour/430x305/tour-3.jpg" alt="" title="">
+			<img src="images/tour/430x305/tour-4.jpg" alt="" title="">
+			<img src="images/tour/430x305/tour-5.jpg" alt="" title="">
+			<img src="images/tour/430x305/tour-6.jpg" alt="" title="">
+			<div class="swiper-slide"></div>
+			<div class="swiper-slide"></div>
+			<div class="swiper-slide"></div>
 		</div>
 		<!-- Add Pagination -->
 		<div class="swiper-pagination"></div>
 		<!-- Add Arrows -->
 		<div class="swiper-button-next"></div>
 		<div class="swiper-button-prev"></div>
+		</div> -->
 	</div>
+</div>
+	<!-- </div>
 
 					<div class="row wrapper-tours-slider">
 						<div class="tours-type-slider list_content" data-dots="true" data-nav="true" data-responsive='{"0":{"items":1}, "480":{"items":2}, "768":{"items":2}, "992":{"items":3}, "1200":{"items":4}}'>
@@ -379,14 +383,94 @@
 						</div>
 					</div>
 
-				</div>
-			</div>
+				</div> -->
+			
 			<div class="section-white padding-top-6x padding-bottom-6x tours-type">
 				<div class="container">
 					<div class="shortcode_title title-center title-decoration-bottom-center">
 						<div class="title_subtitle">Find a Tour by</div>
 						<h3 class="title_primary">DESTINATION</h3><span class="line_after_title"></span>
 					</div>
+					
+					<div class="swiper-container">
+		          <div class="swiper-wrapper">	
+		          	<div class="tours-type-slider" data-dots="true" data-nav="true" data-responsive='{"0":{"items":1}, "480":{"items":2}, "768":{"items":3}, "992":{"items":4}, "1200":{"items":5},"1465"}'>
+ 			
+			<div class="tours_type_item">
+								<a href="tours.html" class="tours-type__item__image">
+									<img src="images/city/26003147786_a04226cd2f_o.jpg" alt="Brazil">
+								</a>
+								<div class="content-item">
+									<div class="item__title">Brazil</div>
+								</div>
+							</div>
+							<div class="tours_type_item">
+								<a href="tours.html" class="tours-type__item__image">
+									<img src="images/city/24987002020_29d3944b4f_o.jpg"  alt="Philippines">
+								</a>
+								<div class="content-item">
+									<div class="item__title">Philippines</div>
+								</div>
+							</div>
+							<div class="tours_type_item">
+								<a href="tours.html" class="tours-type__item__image">
+									<img src="images/city/25816508131_00e16429b8_o.jpg" alt="Italy">
+								</a>
+								<div class="content-item">
+									<div class="item__title">Italy</div>
+								</div>
+							</div>
+							<div class="tours_type_item">
+								<a href="tours.html" class="tours-type__item__image">
+									<img src="images/city/photo-1474181487882-5abf3f0ba6c2.jpg"  alt="USA">
+								</a>
+								<div class="content-item">
+									<div class="item__title">USA</div>
+								</div>
+							</div>
+							<div class="tours_type_item">
+								<a href="tours.html" class="tours-type__item__image">
+									<img src="images/city/25656857141_edcdf5e6e3_o.jpg" alt="Canada">
+								</a>
+								<div class="content-item">
+									<div class="item__title">Canada</div>
+								</div>
+							</div>
+							<div class="tours_type_item">
+								<a href="tours.html" class="tours-type__item__image">
+									<img src="images/city/26003147786_a04226cd2f_o.jpg" alt="Cuba">
+								</a>
+								<div class="content-item">
+									<div class="item__title">Cuba</div>
+								</div>
+							</div>
+							<div class="tours_type_item">
+								<a href="tours.html" class="tours-type__item__image">
+									<img src="images/city/25656857141_edcdf5e6e3_o.jpg" alt="Brazil" >
+								</a>
+								<div class="content-item">
+									<div class="item__title">Brazil</div>
+								</div>
+							</div>
+							<div class="swiper-slide"></div>
+							<div class="swiper-slide"></div>
+							<div class="swiper-slide"></div>
+							<div class="swiper-slide"></div>
+							<div class="swiper-slide"></div>
+							<div class="swiper-slide"></div>
+							</div>
+						</div>
+	
+		<!-- Add Pagination -->
+		<div class="swiper-pagination"></div>
+		<!-- Add Arrows -->
+		<div class="swiper-button-next"></div>
+		<div class="swiper-button-prev"></div>
+		</div> <!--swiper-container-->
+	</div>
+	</div>
+
+
 					<div class="wrapper-tours-slider wrapper-tours-type-slider">
 						<div class="tours-type-slider" data-dots="true" data-nav="true" data-responsive='{"0":{"items":1}, "480":{"items":2}, "768":{"items":3}, "992":{"items":4}, "1200":{"items":5}}'>
 							<div class="tours_type_item">
@@ -447,8 +531,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
-			</div>
+				
 			<div class="padding-top-6x padding-bottom-6x bg__shadow section-background" style="background-image:url(images/home/bg-pallarax.jpg)">
 				<div class="container">
 					<div class="shortcode_title text-white title-center title-decoration-bottom-center">
