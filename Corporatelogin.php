@@ -46,39 +46,31 @@
                             
                          
                         <div class="p-t-20">
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
                             <button class="btn btn--radius btn--green"type="submit">Login</button>
-=======
                             <button class="btn btn--radius btn--green" type="submit">Login</button>
->>>>>>> Stashed changes
-=======
+
                             <button class="btn btn--radius btn--green" type="submit">Login</button>
->>>>>>> Stashed changes
-=======
+
                             <button class="btn btn--radius btn--green" type="submit">Login</button>
->>>>>>> Stashed changes
-=======
+
+
                             <button class="btn btn--radius btn--green" type="submit">Login</button>
->>>>>>> Stashed changes
-=======
+
+
                             <button class="btn btn--radius btn--green" type="submit">Login</button>
->>>>>>> Stashed changes
-=======
+
+
                             <button class="btn btn--radius btn--green" type="submit">Login</button>
->>>>>>> Stashed changes
-=======
+
+
                             <button class="btn btn--radius btn--green" type="submit">Login</button>
->>>>>>> Stashed changes
-=======
+
+
                             <button class="btn btn--radius btn--green" type="submit">Login</button>
->>>>>>> Stashed changes
+
+
+                            <button class="btn btn--radius btn--green" type="submit">Login</button>
                         </div>
                     </form>
                     
