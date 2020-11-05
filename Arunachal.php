@@ -36,7 +36,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Discover Brazil</a>
+											<a href="Arunachal1.php" rel="bookmark">Discover Brazil</a>
 										</h4></div>
 										<span class="post_date">5 DAYS 4 NIGHTS</span>
 										<div class="description">
