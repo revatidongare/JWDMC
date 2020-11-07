@@ -7,19 +7,171 @@
 		<div class="site wrapper-content">
 			<div class="home-content" role="main">
 				<div class="wrapper-bg-video">
-					<video poster="images/video_slider.jpg" playsinline autoplay muted loop>
+					<video poster="images/video_slider.jpg"playsinline autoplay muted loop>
 						<source src="videos/330149744.mp4" type="video/mp4">
 						</video>
 						<div class="content-slider"style="color: #2C3335">
 							<h1>LOVE THE PLACES </h1>
 							<h2 style="color: #2C3335">NEVER STOP EXPLORING </h2>
-
 						</div>
 					</div>
-
+					
 					<div class="slider-tour-booking">
 						<div class="container">
-							<div class="travel-booking-search hotel-booking-search travel-booking-style_1">
+							<section class="banner-thumbs-carousel">
+
+								<div class="carousel-outer">
+
+									<div class="full-screen-outer" style="display: none;">
+										<ul class="fullscreen-carousel owl-theme owl-carousel">
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+												<div class="outer-container">
+													<div class="content">
+														<h3>Modrox Resort</h3>
+														<div class="title">Modern Building</div>
+													</div>
+												</div>
+											</li>
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+												<div class="outer-container">
+													<div class="content">
+														<h3>Grand Apartment</h3>
+														<div class="title">Modern Building</div>
+													</div>
+												</div>
+											</li>
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+												<div class="outer-container">
+													<div class="content">
+														<h3>Sweet Home</h3>
+														<div class="title">Modern Building</div>
+													</div>
+												</div>
+											</li>
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+												<div class="outer-container">
+													<div class="content">
+														<h3>Robeting Club</h3>
+														<div class="title">Modern Building</div>
+													</div>
+												</div>
+											</li>
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+												<div class="outer-container">
+													<div class="content">
+														<h3>Robeting Club</h3>
+														<div class="title">Modern Building</div>
+													</div>
+												</div>
+											</li>
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+												<div class="outer-container">
+													<div class="content">
+														<h3>Modrox Resort</h3>
+														<div class="title">Modern Building</div>
+													</div>
+												</div>
+											</li>
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+												<div class="outer-container">
+													<div class="content">
+														<h3>Grand Apartment</h3>
+														<div class="title">Modern Building</div>
+													</div>
+												</div>
+											</li>
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+												<div class="outer-container">
+													<div class="content">
+														<h3>Sweet Home</h3>
+														<div class="title">Modern Building</div>
+													</div>
+												</div>
+											</li>
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+												<div class="outer-container">
+													<div class="content">
+														<h3>Robeting Club</h3>
+														<div class="title">Modern Building</div>
+													</div>
+												</div>
+											</li>
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+												<div class="outer-container">
+													<div class="content">
+														<h3>Robeting Club</h3>
+														<div class="title">Modern Building</div>
+													</div>
+												</div>
+											</li>
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+												<div class="outer-container">
+													<div class="content">
+														<h3>Modrox Resort</h3>
+														<div class="title">Modern Building</div>
+													</div>
+												</div>
+											</li>
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+												<div class="outer-container">
+													<div class="content">
+														<h3>Grand Apartment</h3>
+														<div class="title">Modern Building</div>
+													</div>
+												</div>
+											</li>
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+												<div class="outer-container">
+													<div class="content">
+														<h3>Sweet Home</h3>
+														<div class="title">Modern Building</div>
+													</div>
+												</div>
+											</li>
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+												<div class="outer-container">
+													<div class="content">
+														<h3>Robeting Club</h3>
+														<div class="title">Modern Building</div>
+													</div>
+												</div>
+											</li>
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+												<div class="outer-container">
+													<div class="content">
+														<h3>Robeting Club</h3>
+														<div class="title">Modern Building</div>
+													</div>
+												</div>
+											</li>
+										</ul>
+									</div>
+									<div class="thumbs-outer-box">
+										<div class="auto-container">
+											<ul class="thumbs-carousel owl-theme owl-carousel">
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
+											</ul>
+										</div>
+									</div>
+
+								</div>
+
+							</section>
+							<!-- <div class="travel-booking-search hotel-booking-search travel-booking-style_1">
 								<form name="hb-search-form" action="tours.html" id="tourBookingForm">
 									<ul class="hb-form-table">
 										<li class="hb-form-field">
@@ -74,28 +226,58 @@
 												</li>
 											</ul>
 											<input type="hidden" name="lang" value="">
-
 										</form>
 									</div>
 								</div>
+							</div> -->
+						</div>
+					</div>
+
+					<div class="container two-column-respon mg-top-6x mg-bt-6x">
+						<div class="row">
+							<div class="col-sm-12 mg-btn-6x">
+								<div class="shortcode_title title-center title-decoration-bottom-center">
+									<h3 class="title_primary">WHY CHOOSE US?</h3><span class="line_after_title"></span>
+								</div>
 							</div>
-							<div class="container two-column-respon mg-top-6x mg-bt-6x">
-								<div class="row">
-									<div class="col-sm-12 mg-btn-6x">
-										<div class="shortcode_title title-center title-decoration-bottom-center">
-											<h3 class="title_primary">WHY CHOOSE US?</h3><span class="line_after_title"></span>
+						</div>
+						<div class="row">
+							<div class="wpb_column col-sm-3">
+								<div class="widget-icon-box widget-icon-box-base iconbox-center">
+									<div class="boxes-icon circle" style="font-size:30px;width:80px; height:80px;line-height:80px">
+										<span class="inner-icon"><i class="fa fa-plane" aria-hidden="true"></i></span>
+									</div>
+									<div class="content-inner">
+										<div class="sc-heading article_heading">
+											<h4 class="heading__primary">Diverse Destinations</h4></div>
+											<div class="desc-icon-box">
+												<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</div>
+											</div>
 										</div>
 									</div>
 								</div>
-								<div class="row">
+								<div class="wpb_column col-sm-3">
+									<div class="widget-icon-box widget-icon-box-base iconbox-center">
+										<div class="boxes-icon " style="font-size:30px;width:80px; height:80px;line-height:80px">
+											<span class="inner-icon"><i class="fa fa-tree" aria-hidden="true"></i></span>
+										</div>
+										<div class="content-inner">
+											<div class="sc-heading article_heading">
+												<h4 class="heading__primary">Value for Money</h4></div>
+												<div class="desc-icon-box">
+													<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</div>
+												</div>
+											</div>
+										</div>
+									</div>
 									<div class="wpb_column col-sm-3">
 										<div class="widget-icon-box widget-icon-box-base iconbox-center">
-											<div class="boxes-icon circle" style="font-size:30px;width:80px; height:80px;line-height:80px">
-												<span class="inner-icon"><i class="fa fa-plane" aria-hidden="true"></i></span>
+											<div class="boxes-icon " style="font-size:30px;width:80px; height:80px;line-height:80px">
+												<span class="inner-icon"><i class="fa fa-globe" aria-hidden="true"></i></span>
 											</div>
 											<div class="content-inner">
 												<div class="sc-heading article_heading">
-													<h4 class="heading__primary">Diverse Destinations</h4></div>
+													<h4 class="heading__primary">Beautiful Places</h4></div>
 													<div class="desc-icon-box">
 														<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</div>
 													</div>
@@ -104,77 +286,49 @@
 										</div>
 										<div class="wpb_column col-sm-3">
 											<div class="widget-icon-box widget-icon-box-base iconbox-center">
-												<div class="boxes-icon " style="font-size:30px;width:80px; height:80px;line-height:80px">
-													<span class="inner-icon"><i class="fa fa-tree" aria-hidden="true"></i></span>
+												<div class="boxes-icon circle" style="font-size:30px;width:80px; height:80px;line-height:80px">
+													<span class="inner-icon"><i class="fa fa-car" aria-hidden="true"></i></span>
 												</div>
 												<div class="content-inner">
 													<div class="sc-heading article_heading">
-														<h4 class="heading__primary">Value for Money</h4></div>
+														<h4 class="heading__primary">Passionate Travel</h4></div>
 														<div class="desc-icon-box">
 															<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</div>
 														</div>
 													</div>
 												</div>
 											</div>
-											<div class="wpb_column col-sm-3">
-												<div class="widget-icon-box widget-icon-box-base iconbox-center">
-													<div class="boxes-icon " style="font-size:30px;width:80px; height:80px;line-height:80px">
-														<span class="inner-icon"><i class="fa fa-globe" aria-hidden="true"></i></span>
-													</div>
-													<div class="content-inner">
-														<div class="sc-heading article_heading">
-															<h4 class="heading__primary">Beautiful Places</h4></div>
-															<div class="desc-icon-box">
-																<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</div>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="wpb_column col-sm-3">
-													<div class="widget-icon-box widget-icon-box-base iconbox-center">
-														<div class="boxes-icon circle" style="font-size:30px;width:80px; height:80px;line-height:80px">
-															<span class="inner-icon"><i class="fa fa-car" aria-hidden="true"></i></span>
-														</div>
-														<div class="content-inner">
-															<div class="sc-heading article_heading">
-																<h4 class="heading__primary">Passionate Travel</h4></div>
-																<div class="desc-icon-box">
-																	<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</div>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
+										</div>
+									</div>
 
-											<div class="padding-top-6x padding-bottom-6x section-background" style="background-image:url(images/home/bg-popular.jpg)">
-												<div class="container">
-													<div class="shortcode_title text-white title-center title-decoration-bottom-center">
-														<div class="title_subtitle">Take a Look at Our</div>
-														<h3 class="title_primary">MOST POPULAR TOURS</h3>
-														<span class="line_after_title" style="color:#ffffff"></span>
-													</div>
-													<div class="swiper-container">
-														<div class="swiper-wrapper">
-
-															<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
-															<img src="images//tour/430x305/tour-2.jpg" alt="" title="">
-															<img src="images/tour/430x305/tour-3.jpg" alt="" title="">
-															<img src="images/tour/430x305/tour-4.jpg" alt="" title="">
-															<img src="images/tour/430x305/tour-5.jpg" alt="" title="">
-															<img src="images/tour/430x305/tour-6.jpg" alt="" title="">
-															<div class="swiper-slide"></div>
-															<div class="swiper-slide"></div>
-															<div class="swiper-slide"></div>
-														</div>
-														<!-- Add Pagination -->
-														<div class="swiper-pagination"></div>
-														<!-- Add Arrows -->
-														<div class="swiper-button-next"></div>
-														<div class="swiper-button-prev"></div>
-													</div> 
-												</div>
+									<div class="padding-top-6x padding-bottom-6x section-background" style="background-image:url(images/home/bg-popular.jpg)">
+										<div class="container">
+											<div class="shortcode_title text-white title-center title-decoration-bottom-center">
+												<div class="title_subtitle">Take a Look at Our</div>
+												<h3 class="title_primary">MOST POPULAR TOURS</h3>
+												<span class="line_after_title" style="color:#ffffff"></span>
 											</div>
+											<div class="swiper-container">
+												<div class="swiper-wrapper">
+
+													<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
+													<img src="images//tour/430x305/tour-2.jpg" alt="" title="">
+													<img src="images/tour/430x305/tour-3.jpg" alt="" title="">
+													<img src="images/tour/430x305/tour-4.jpg" alt="" title="">
+													<img src="images/tour/430x305/tour-5.jpg" alt="" title="">
+													<img src="images/tour/430x305/tour-6.jpg" alt="" title="">
+													<div class="swiper-slide"></div>
+													<div class="swiper-slide"></div>
+													<div class="swiper-slide"></div>
+												</div>
+												<!-- Add Pagination -->
+												<div class="swiper-pagination"></div>
+												<!-- Add Arrows -->
+												<div class="swiper-button-next"></div>
+												<div class="swiper-button-prev"></div>
+											</div> 
+										</div>
+									</div>
 	<!-- </div>
 
 					<div class="row wrapper-tours-slider">
@@ -533,6 +687,7 @@
 						</div>
 					</div>
 				</div> -->
+			<!-- </div> -->
 				
 				<div class="padding-top-6x padding-bottom-6x bg__shadow section-background" style="background-image:url(images/home/bg-pallarax.jpg)">
 					<div class="container">
@@ -594,27 +749,27 @@
 							<h3 class="title_primary">DEALS AND DISCOUNTS</h3><span class="line_after_title"></span>
 						</div>
 						<div class="swiper-container">
-														<div class="swiper-wrapper">
+							<div class="swiper-wrapper">
 
-															<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
-															<img src="images//tour/430x305/tour-2.jpg" alt="" title="">
-															<img src="images/tour/430x305/tour-3.jpg" alt="" title="">
-															<img src="images/tour/430x305/tour-4.jpg" alt="" title="">
-															<img src="images/tour/430x305/tour-5.jpg" alt="" title="">
-															<img src="images/tour/430x305/tour-6.jpg" alt="" title="">
-															<div class="swiper-slide"></div>
-															<div class="swiper-slide"></div>
-															<div class="swiper-slide"></div>
-														</div>
-														<!-- Add Pagination -->
-														<div class="swiper-pagination"></div>
-														<!-- Add Arrows -->
-														<div class="swiper-button-next"></div>
-														<div class="swiper-button-prev"></div>
-													</div> 
-												</div>
-											</div>
-										<?php include'includes/footer.php';?>	
-						<?php include'includes/script.php';?>
-					</body>
-					</html>
+								<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
+								<img src="images//tour/430x305/tour-2.jpg" alt="" title="">
+								<img src="images/tour/430x305/tour-3.jpg" alt="" title="">
+								<img src="images/tour/430x305/tour-4.jpg" alt="" title="">
+								<img src="images/tour/430x305/tour-5.jpg" alt="" title="">
+								<img src="images/tour/430x305/tour-6.jpg" alt="" title="">
+								<div class="swiper-slide"></div>
+								<div class="swiper-slide"></div>
+								<div class="swiper-slide"></div>
+							</div>
+							<!-- Add Pagination -->
+							<div class="swiper-pagination"></div>
+							<!-- Add Arrows -->
+							<div class="swiper-button-next"></div>
+							<div class="swiper-button-prev"></div>
+						</div> 
+					</div>
+				</div>
+				<?php include'includes/footer.php';?>	
+				<?php include'includes/script.php';?>
+			</body>
+			</html>

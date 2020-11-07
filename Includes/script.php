@@ -9,6 +9,18 @@
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCaQjbVDR1vRh2iS_V3jLBXRrkQxmoxycQ'></script>
 <script type='text/javascript' src='assets/js/gmap.js'></script>
+<script src="assets/js/jquery.js"></script> 
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/jquery.fancybox.js"></script>
+<script src="assets/js/owl.js"></script>
+<script src="assets/js/wow.js"></script>
+<script src="assets/js/appear.js"></script>
+<script src="assets/js/script.js"></script>
+
+   
+
+<!--Color Switcher-->
+<script src="js/color-settings.js"></script>
 
 <!-- Initialize Swiper -->
 <script>
@@ -45,3 +57,21 @@
 </div>
 <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCaQjbVDR1vRh2iS_V3jLBXRrkQxmoxycQ'></script>
 <script type='text/javascript' src='assets/js/gmap.js'></script>
+<script>
+	var swiper = new Swiper('.swiper-wrapper', {
+		slidesPerView: 3,
+		spaceBetween: 30,
+		slidesPerGroup: 3,
+		loop: true,
+		loopFillGroupWithBlank: true,
+		pagination: {
+			el: '.swiper-pagination',
+			clickable: true,
+		},
+		navigation: {
+			nextEl: '.swiper-button-next',
+			prevEl: '.swiper-button-prev',
+		},
+	});
+</script>
+

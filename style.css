@@ -133,7 +133,7 @@ svg:not(:root) {
 }
 
 figure {
-	margin: 1em 40px;
+	margin: 0em ;
 }
 
 hr {
@@ -4832,8 +4832,8 @@ input[type=radio]:checked:before {
 }
 
 .slider-tour-booking {
-	margin-top:       -100px;
-	position:         relative;
+	margin-top:       -220px;
+	
 	background-color: rgba(67, 67, 67, 0.7);
 }
 

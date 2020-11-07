@@ -19,6 +19,13 @@
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
 	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+	<link href="assets/css/responsive.css" rel="stylesheet">
+	<link href="assets/css/color-switcher-design.css" rel="stylesheet">
+	<link id="theme-color-file" href="assets/css/color-themes/default-theme.css" rel="stylesheet">
+	 
+
+   
+       
 
  
 

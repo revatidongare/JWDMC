@@ -105,7 +105,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Anchorage to Quito</a>
+											<a href="Arunachal2.php" rel="bookmark">Anchorage to Quito</a>
 										</h4></div>
 										<span class="post_date">5 DAYS 4 NIGHTS</span>
 										<div class="description">

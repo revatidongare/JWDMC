@@ -24,7 +24,7 @@
 						<div class="images images_single_left">
 							<div class="title-single">
 								<div class="title">
-									<h1>Discover Brazil</h1>
+									<h1>Anchorage to Quito</h1>
 								</div>
 								<div class="tour_code">
 									<strong>Code: </strong>LMJUYH
@@ -61,7 +61,7 @@
 							<div id="slider" class="flexslider">
 								<ul class="slides">
 									<li>
-										<a href="images/tour/tour-1.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/tour-1.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="images/tour/tour-2.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/tour-2.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 									<li>
 										<a href="images/tour/tour-2.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/tour-2.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
