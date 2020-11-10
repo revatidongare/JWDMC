@@ -32,7 +32,7 @@
 													</div>
 												</div>
 											</li>
-											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+											<li class="slide-item" style="background-image:url(images//tour/430x305/tour-2.jpg);">
 												<div class="outer-container">
 													<div class="content">
 														<h3>Grand Apartment</h3>
@@ -40,7 +40,7 @@
 													</div>
 												</div>
 											</li>
-											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-3.jpg);">
 												<div class="outer-container">
 													<div class="content">
 														<h3>Sweet Home</h3>
@@ -48,7 +48,7 @@
 													</div>
 												</div>
 											</li>
-											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-4.jpg);">
 												<div class="outer-container">
 													<div class="content">
 														<h3>Robeting Club</h3>
@@ -56,7 +56,7 @@
 													</div>
 												</div>
 											</li>
-											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-5.jpg);">
 												<div class="outer-container">
 													<div class="content">
 														<h3>Robeting Club</h3>
@@ -64,7 +64,7 @@
 													</div>
 												</div>
 											</li>
-											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-6.jpg);">
 												<div class="outer-container">
 													<div class="content">
 														<h3>Modrox Resort</h3>
@@ -72,7 +72,7 @@
 													</div>
 												</div>
 											</li>
-											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+											<li class="slide-item" style="background-image:url(images/city/26003147786_a04226cd2f_o.jpg);">
 												<div class="outer-container">
 													<div class="content">
 														<h3>Grand Apartment</h3>
@@ -80,7 +80,7 @@
 													</div>
 												</div>
 											</li>
-											<li class="slide-item" style="background-image:url(images/tour/430x305/tour-1.jpg);">
+											<li class="slide-item" style="background-image:url(images/city/24987002020_29d3944b4f_o.jpg);">
 												<div class="outer-container">
 													<div class="content">
 														<h3>Sweet Home</h3>
@@ -150,13 +150,13 @@
 										<div class="auto-container">
 											<ul class="thumbs-carousel owl-theme owl-carousel">
 												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
-												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
-												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
-												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
-												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
-												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
-												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
-												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images//tour/430x305/tour-2.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-3.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-4.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-5.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-6.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/city/26003147786_a04226cd2f_o.jpg" alt=""></figure></li>
+												<li class="slide-item"><figure class="image"><img src="images/city/24987002020_29d3944b4f_o.jpg" alt=""></figure></li>
 												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
 												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
 												<li class="slide-item"><figure class="image"><img src="images/tour/430x305/tour-1.jpg" alt=""></figure></li>
