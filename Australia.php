@@ -11,10 +11,10 @@
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
 						<li><a href="index.html" class="home">Home</a></li>
-						<li>ARUNACHAL</li>
+						<li>AUSTRALIA</li>
 					</ul>
 				</div>
-				<h1 class="heading_primary">ARUNACHAL</h1></div>
+				<h1 class="heading_primary">AUSTRALIA</h1></div>
 		</div>
 		<section class="content-area">
 			<div class="container">
@@ -26,7 +26,7 @@
 									<div class="post_images">
 										<a href="single-tour.html">
 											<span class="price">$93.00</span>
-											<img width="430" height="305" src="images/tour/430x305/tour-1.jpg" alt="Discover Brazil" title="Discover Brazil">
+											<img width="430" height="305" src="images/tour/430x305/auswestern.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -35,7 +35,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="Arunachal1.php" rel="bookmark">Discover Brazil</a>
+											<a href="Australia1.php" rel="bookmark">WESTERN TRIANGLE</a>
 										</h4></div>
 										<span class="post_date">5 DAYS 4 NIGHTS</span>
 										<div class="description">
@@ -62,7 +62,7 @@
 												<ins>$82.00</ins>
 											</span>
 											<span class="onsale">Sale!</span>
-											<img width="430" height="305" src="images/tour/430x305/tour-2.jpg" alt="Discover Brazil" title="Discover Brazil">
+											<img width="430" height="305" src="images/tour/430x305/tour-2.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="River Cruise"><i class="flaticon-transport-2"></i></a>
@@ -95,7 +95,7 @@
 									<div class="post_images">
 										<a href="single-tour.html">
 											<span class="price">$64.00</span>
-											<img width="430" height="305" src="images/tour/430x305/tour-3.jpg" alt="Discover Brazil" title="Discover Brazil">
+											<img width="430" height="305" src="images/tour/430x305/tour-3.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -128,7 +128,7 @@
 									<div class="post_images">
 										<a href="single-tour.html">
 											<span class="price">$434.00</span>
-											<img width="430" height="305" src="images/tour/430x305/tour-4.jpg" alt="Discover Brazil" title="Discover Brazil">
+											<img width="430" height="305" src="images/tour/430x305/tour-4.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -161,7 +161,7 @@
 									<div class="post_images">
 										<a href="single-tour.html">
 											<span class="price">$345.00</span>
-											<img width="430" height="305" src="images/tour/430x305/tour-5.jpg" alt="Discover Brazil" title="Discover Brazil">
+											<img width="430" height="305" src="images/tour/430x305/tour-5.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -194,7 +194,7 @@
 									<div class="post_images">
 										<a href="single-tour.html">
 											<span class="price">$78.00</span>
-											<img width="430" height="305" src="images/tour/430x305/tour-6.jpg" alt="Discover Brazil" title="Discover Brazil">
+											<img width="430" height="305" src="images/tour/430x305/tour-6.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -227,7 +227,7 @@
 									<div class="post_images">
 										<a href="single-tour.html">
 											<span class="price">$104.00</span>
-											<img width="430" height="305" src="images/tour/430x305/tour-7.jpg" alt="Discover Brazil" title="Discover Brazil">
+											<img width="430" height="305" src="images/tour/430x305/tour-7.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -260,7 +260,7 @@
 									<div class="post_images">
 										<a href="single-tour.html">
 											<span class="price">$99.00</span>
-											<img width="430" height="305" src="images/tour/430x305/tour-8.jpg" alt="Discover Brazil" title="Discover Brazil">
+											<img width="430" height="305" src="images/tour/430x305/tour-8.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -346,7 +346,7 @@
 							<div class="wrapper-special-tours">
 								<div class="inner-special-tours">
 									<a href="single-tour.html">
-										<img width="430" height="305" src="images/tour/430x305/tour-1.jpg" alt="Discover Brazil" title="Discover Brazil"></a>
+										<img width="430" height="305" src="images/tour/430x305/auswestern.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE"></a>
 									<div class="item_rating">
 										<i class="fa fa-star"></i>
 										<i class="fa fa-star"></i>
@@ -355,7 +355,7 @@
 										<i class="fa fa-star-o"></i>
 									</div>
 									<div class="post_title"><h3>
-										<a href="single-tour.html" rel="bookmark">Discover Brazil</a>
+										<a href="single-tour.html" rel="bookmark">WESTERN TRIANGLE</a>
 									</h3></div>
 									<div class="item_price">
 										<span class="price">$93.00</span>
@@ -364,7 +364,7 @@
 								<div class="inner-special-tours">
 									<a href="single-tour.html">
 										<span class="onsale">Sale!</span>
-										<img width="430" height="305" src="images/tour/430x305/tour-2.jpg" alt="Discover Brazil" title="Discover Brazil"></a>
+										<img width="430" height="305" src="images/tour/430x305/tour-2.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE"></a>
 									<div class="item_rating">
 										<i class="fa fa-star"></i>
 										<i class="fa fa-star"></i>
@@ -382,7 +382,7 @@
 								</div>
 								<div class="inner-special-tours">
 									<a href="single-tour.html">
-										<img width="430" height="305" src="images/tour/430x305/tour-3.jpg" alt="Discover Brazil" title="Discover Brazil">
+										<img width="430" height="305" src="images/tour/430x305/tour-3.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
 									</a>
 									<div class="item_rating">
 										<i class="fa fa-star"></i>

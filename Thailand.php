@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en-US">
 <?php include'includes/head.php';?>
@@ -11,10 +12,10 @@
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
 						<li><a href="index.html" class="home">Home</a></li>
-						<li>ARUNACHAL</li>
+						<li>THAILAND</li>
 					</ul>
 				</div>
-				<h1 class="heading_primary">ARUNACHAL</h1></div>
+				<h1 class="heading_primary">THAILAND</h1></div>
 		</div>
 		<section class="content-area">
 			<div class="container">
@@ -35,7 +36,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="Arunachal1.php" rel="bookmark">Discover Brazil</a>
+											<a href="Thailand1.php" rel="bookmark">Discover Brazil</a>
 										</h4></div>
 										<span class="post_date">5 DAYS 4 NIGHTS</span>
 										<div class="description">

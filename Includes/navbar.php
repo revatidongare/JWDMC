@@ -87,9 +87,9 @@
 							<li class="menu-item-has-children">
 								<a style="color:#192A56 "href="tours.html">International Destination</a>
 								<ul class="sub-menu">				
-									
+									<li><a href="Australia.php">Australia</a></li>
 									<li><a href="tours-list.html">Unseen Thailand</a></li>
-									<li><a href="tours-2-cols.html">Thailand</a></li>
+									<li><a href="Thailand.php">Thailand</a></li>
 									<li><a href="tours.html">South Korea</a></li>
 									<li><a href="tours-3-cols.html">Vietnam</a></li>
 									<li><a href="tours-4-cols.html">Kambodia</a></li>
