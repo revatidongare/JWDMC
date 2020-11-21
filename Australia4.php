@@ -23,8 +23,7 @@
 						<div class="images images_single_left">
 							<div class="title-single">
 								<div class="title">
-									<h1>AUSTRALIAN GETAWAY
-</h1>
+									<h1>AUSTRALIAN HIGHLIGHTS</h1>
 								</div>
 								<div class="tour_code">
 									<strong>Code: </strong>LMJUYH
@@ -61,22 +60,7 @@
 							<div id="slider" class="flexslider">
 								<ul class="slides">
 									<li>
-										<a href="images/tour/auswestern.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/auswestern.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
-									</li>
-									<li>
-										<a href="images/tour/AUSTRALIANMEMORIES.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
-									</li>
-									<li>
-										<a href="images/tour/tour-3.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/tour-3.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
-									</li>
-									<li>
-										<a href="images/tour/
-Highlight
-
-.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/
-Highlight
-
-.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="images/tour/Highlight.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/Highlight.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 									<li>
 										<a href="images/tour/tour-5.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/tour-5.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
@@ -95,13 +79,10 @@ Highlight
 										<img width="150" height="100" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
-										<img width="150" height="100" src="images/tour/tour-3.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="150" height="100" src="images/tour/simply.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
-										<img width="150" height="100" src="images/tour/
-Highlight
-
-.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="150" height="100" src="images/tour/Highlight.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
 										<img width="150" height="100" src="images/tour/tour-5.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
@@ -195,16 +176,16 @@ Highlight
 												<h2><strong>Day 1: Arrive Sydney</strong></h2>
 					
 												<ul>
-													<li>Arrive into Sydney. Transfer to your hotel. Rest of the day at leisure.</li>
+											<li>Arrive into Sydney and transfer you to your hotel. Rest of the day is at leisure. </li>
 												</ul>
 											</div>
 										</div>
 										<div class="interary-item">
 											<p><span class="icon-left">2</span></p>
 											<div class="item_content">
-												<h2><strong>Day 2: Sydney - City tour of Sydney </strong></h2>
-												<p>View the Opera House and Darling Harbour, Manly Beach Tour through Sydney's northern beaches. You will be dropped off at the Darling Harbour, to shop at the city center on your own </p>
-												<p>This evening enjoy Sydney Showboat dinner cruise. Enjoy the dining experience with million-dollar view of Sydney harbour and Opera house with Sydney Showboat showgirls showcasing the glamorous and gorgeous performances. </p>
+												<h2><strong>Day 2: Sydney</strong></h2>
+												<p>City tour of Sydney</p>
+												<p>View the Opera House and Darling Harbour. Visit Manly Beach and tour through Sydney's northern beaches. You will be dropped off at the Darling Harbour, to shop at the city center on your own.</p><p>Explore Sydney on 3-in-1 pass which allows you to visit Sydney Aquarium, one of the largest aquariums in the world. Sydney Tower, which gives you a breathtaking 360-degree views of the city. Sky tour and unlimited day use ride on Sydney monorail. </p>
 											</div>
 										</div>
 										<div class="interary-item">
@@ -212,35 +193,57 @@ Highlight
 											<div class="item_content">
 												<h2><strong>Day 3: Sydney</strong></h2>
 												<ul>
-													<li>Visit Blue Mountains with Featherland Wildlife Park. Head west to the Blue Mountains, see the Three Sisters rock formation and tour the mountain town of Katoomba. </li>
+													<li>Visit Blue Mountains with Featheland Wildlife Park. Head west to the Blue Mountains, see the Three Sisters rock formation and tour the mountain town of Katoomba. </li>
 											</div>
 										</div>
 										<div class="interary-item">
 											<p><span class="icon-left">4</span></p>
 											<div class="item_content">
 												<h2><strong>Day 4 : Sydney – Brisbane – Gold Coast</strong></h2>
-												<p>Transfer to Sydney Airport for flight to Brisbane. Arrive Brisbane transfer to your hotel in Gold Coast. Rest of the day is at leisure. </p>
+												<p>Transfer to Sydney Airport for flight to Brisbane. Arrive Brisbane and transfer to your hotel in Gold Coast. Rest of the day is at leisure. </p>
 											</div>
 										</div>
 										<div class="interary-item">
 											<p><span class="icon-left">5</span></p>
 											<div class="item_content">
-												<h2><strong>Day 5: Gold Coast</strong></h2>
-												<p>Today visit Movie World, the ‘Hollywood on the Gold Coast’. Enjoy heart-thumping thrill rides to the laugh-a-minute antics of the Police Academy Stunt Show. Overnight in Gold Coast.</p>
+												<h2><strong>Day 5 : Gold Coast</strong></h2>
+												<p>Visit Sea World, and see Australia's only Polar bears in their home at Polar Bear Shores. See the world-class skiing show, make contact with marine life wonders and experience a whole world of amazing rides, shows and attractions. </p>
 											</div>
 										</div>
 										<div class="interary-item">
 											<p><span class="icon-left">6</span></p>
 											<div class="item_content">
-												<h2><strong>Day 6: Gold Coast</strong></h2>
-												<p>Visit Sea World, and see Australia's only Polar bears in their home at Polar Bear Shores. See the world-class skiing show, make contact with marine life wonders and experience a whole world of amazing rides, shows and attractions. Overnight in Gold Coast.</p>
+												<h2><strong>Day 6 : Gold Coast</strong></h2>
+												<p>Today visit Movie World, the ‘Hollywood on the Gold Coast’. Enjoy heart-thumping thrill rides to the laugh-a-minute antics of the Police Academy Stunt Show.</p>
+
 											</div>
 										</div>
 										<div class="interary-item">
 											<p><span class="icon-left">7</span></p>
 											<div class="item_content">
-												<h2><strong>Day 7: Gold Coast – Depart Brisbane </strong></h2>
-												<p>Check out and transfer to Brisbane Airport for flight back home</p>
+												<h2><strong>Day 7 : Gold Coast</strong></h2>
+												<p>Today visit Dream World and enjoy the most spine-tingling, knee-knocking scream rides.</p> 
+											</div>
+										</div>
+										<div class="interary-item">
+											<p><span class="icon-left">8</span></p>
+											<div class="item_content">
+												<h2><strong>Day 8 : Gold Coast – Brisbane – Cairns</strong></h2>
+												<p>Check out and transfer to Sydney Airport for your flight to Cairns. Arrive Cairns, you will be met by our coach driver who will assist and transfer you to your hotel. Rest of the day is free at leisure. </p>
+											</div>
+										</div>
+										<div class="interary-item">
+											<p><span class="icon-left">9</span></p>
+											<div class="item_content">
+												<h2><strong>Day 9 : Cairns </strong></h2>
+												<p>Enjoy full day cruise on the Great Barrier Reef tour, one of the natural wonders of the world. See the brilliant colours and fascinating life forms of the world heritage. Enjoy continental lunch on board.  </p>
+											</div>
+										</div>
+										<div class="interary-item">
+											<p><span class="icon-left">10</span></p>
+											<div class="item_content">
+												<h2><strong>Day 10 : Depart Cairns</strong></h2>
+												<p>Transfer to Cairns Airport for flight back home.</p>
 											</div>
 										</div>
 									</div>
@@ -253,7 +256,7 @@ Highlight
 										<div id="reviews" class="travel_tour-Reviews">
 											<div id="comments">
 												<h2 class="travel_tour-Reviews-title">1 review for
-													<span>Kiwiana Panorama</span></h2>
+													<span>SIMPLY AUSTRALIA</span></h2>
 												<ol class="commentlist">
 													<li itemscope="" itemtype="http://schema.org/Review" class="comment byuser comment-author-physcode bypostauthor even thread-even depth-1" id="li-comment-62">
 														<div id="comment-62" class="comment_container">

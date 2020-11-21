@@ -62,7 +62,7 @@
 												<ins>$82.00</ins>
 											</span>
 											<span class="onsale">Sale!</span>
-											<img width="430" height="305" src="images/tour/430x305/tour-2.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
+											<img width="430" height="305" src="images/tour/430x305/AUSTRALIANMEMORIES.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="River Cruise"><i class="flaticon-transport-2"></i></a>
@@ -71,7 +71,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Kiwiana Panorama</a>
+											<a href="Australia2.php" rel="bookmark">AUSTRALIAN MEMORIES</a>
 										</h4></div>
 										<span class="post_date">5 DAYS 4 NIGHTS</span>
 										<div class="description">
@@ -95,7 +95,7 @@
 									<div class="post_images">
 										<a href="single-tour.html">
 											<span class="price">$64.00</span>
-											<img width="430" height="305" src="images/tour/430x305/tour-3.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
+											<img width="430" height="305" src="images/tour/430x305/simply.jpg" alt="SIMPLY AUSTRALIA" title="SIMPLY AUSTRALIA">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -104,7 +104,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="Arunachal2.php" rel="bookmark">Anchorage to Quito</a>
+											<a href="Australia3.php" rel="bookmark">SIMPLY AUSTRALIA</a>
 										</h4></div>
 										<span class="post_date">5 DAYS 4 NIGHTS</span>
 										<div class="description">
@@ -128,7 +128,7 @@
 									<div class="post_images">
 										<a href="single-tour.html">
 											<span class="price">$434.00</span>
-											<img width="430" height="305" src="images/tour/430x305/tour-4.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
+											<img width="430" height="305" src="images/tour/430x305/Highlight.jpg" alt="AUSTRALIAN HIGHLIGHTS" title="AUSTRALIAN HIGHLIGHTS">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -137,7 +137,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Anchorage to La Paz</a>
+											<a href="Australia4.php" rel="bookmark">AUSTRALIAN HIGHLIGHTS</a>
 										</h4></div>
 										<span class="post_date">5 DAYS 4 NIGHTS</span>
 										<div class="description">
@@ -364,7 +364,7 @@
 								<div class="inner-special-tours">
 									<a href="single-tour.html">
 										<span class="onsale">Sale!</span>
-										<img width="430" height="305" src="images/tour/430x305/tour-2.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE"></a>
+										<img width="430" height="305" src="images/tour/430x305/AUSTRALIANMEMORIES.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE"></a>
 									<div class="item_rating">
 										<i class="fa fa-star"></i>
 										<i class="fa fa-star"></i>
@@ -373,7 +373,7 @@
 										<i class="fa fa-star-o"></i>
 									</div>
 									<div class="post_title"><h3>
-										<a href="single-tour.html" rel="bookmark">Kiwiana Panorama</a>
+										<a href="single-tour.html" rel="bookmark">AUSTRALIAN MEMORIES</a>
 									</h3></div>
 									<div class="item_price">
 										<span class="price"><del>$87.00</del>
@@ -382,7 +382,7 @@
 								</div>
 								<div class="inner-special-tours">
 									<a href="single-tour.html">
-										<img width="430" height="305" src="images/tour/430x305/tour-3.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
+										<img width="430" height="305" src="images/tour/430x305/simply.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
 									</a>
 									<div class="item_rating">
 										<i class="fa fa-star"></i>
@@ -392,7 +392,7 @@
 										<i class="fa fa-star-o"></i>
 									</div>
 									<div class="post_title"><h3>
-										<a href="single-tour.html" rel="bookmark">Anchorage to Quito</a>
+										<a href="single-tour.html" rel="bookmark">SIMPLY AUSTRALIA</a>
 									</h3></div>
 									<div class="item_price">
 										<span class="price">$64.00</span>
