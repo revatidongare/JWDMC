@@ -76,7 +76,7 @@ var custom_js = {
 			e.preventDefault()
 		});
 		if (jQuery().mbComingsoon) {
-			jQuery('#myCounter').mbComingsoon({expiryDate: new Date(2018, 6, 20, 0, 0), speed: 500});
+			jQuery('#myCounter').mbComingsoon({expiryDate: new Date(2017, 6, 20, 0, 0), speed: 500});
 			setTimeout(function () {
 				jQuery(window).resize();
 			}, 200);
@@ -95,14 +95,6 @@ var custom_js = {
 		jQuery('[data-toggle="tooltip"]').tooltip();
 		if (jQuery(window).width() < 768) {
 			jQuery('.single-tour-tabs .wc-tabs').tabCollapse();
-			jQuery('.single-tour-tabs .panel-group').on('shown.bs.collapse', function (e) {
-				var offset = jQuery('.panel.panel-default > .panel-collapse.in').offset();
-				if(offset) {
-					jQuery('html,body').animate({
-						scrollTop: jQuery('.panel-title a').offset().top -70
-					}, 200);
-				}
-			});
 		}
 
 		jQuery(document).on('click', '.gallery-tabs li a', function (e) {
@@ -181,9 +173,9 @@ var custom_js = {
 				itemWidth    : 134,
 				itemMargin   : 20,
 				asNavFor     : '#slider',
-				directionNav : true,Â Â Â Â Â Â Â Â Â Â Â Â  //Boolean: Create navigation for previous/next navigation? (true/false)
-				prevText     : "",Â Â Â Â Â Â Â Â Â Â  //String: Set the text for the "previous" directionNav item
-				nextText     : ""Â Â Â Â Â Â Â Â Â Â Â Â Â Â  //String: Set the text for the "next" directionNav item
+				directionNav : true,             //Boolean: Create navigation for previous/next navigation? (true/false)
+				prevText     : "",           //String: Set the text for the "previous" directionNav item
+				nextText     : ""               //String: Set the text for the "next" directionNav item
 			});
 			jQuery('#slider').flexslider({
 				animation    : "slide",
@@ -191,7 +183,7 @@ var custom_js = {
 				animationLoop: false,
 				slideshow    : false,
 				sync         : "#carousel",
-				directionNav : false,Â Â Â Â Â Â Â Â Â Â Â Â  //Boolean: Create navigation for previous/next navigation? (true/false)
+				directionNav : false,             //Boolean: Create navigation for previous/next navigation? (true/false)
 				start        : function (slider) {
 					jQuery('body').removeClass('loading');
 				}

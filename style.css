@@ -2,7 +2,7 @@
 [Master Stylesheet]
 
 Project:	Travel tour html
-Version:	1.0
+Version:	1.0.3
 Last change:
 Assigned to: Physcode
 Primary use:	Travel, travel booking
@@ -133,7 +133,7 @@ svg:not(:root) {
 }
 
 figure {
-	margin: 0em ;
+	margin: 1em 40px;
 }
 
 hr {
@@ -4494,7 +4494,7 @@ input[type=radio]:checked:before {
 }
 
 .transparent_home_page .affix-top .navigation-menu {
-	/*background: transparent !important;*/
+    background:  !important;
 }
 
 .transparent_home_page .affix-top .header-menu > li > a {
@@ -4832,8 +4832,8 @@ input[type=radio]:checked:before {
 }
 
 .slider-tour-booking {
-	margin-top:       -220px;
-	
+	margin-top:       -100px;
+	position:         relative;
 	background-color: rgba(67, 67, 67, 0.7);
 }
 
@@ -6691,7 +6691,7 @@ input[type=radio]:checked:before {
 .top_site_main {
 	position:            relative;
 	text-align:          left;
-	background-size:     cover!important;
+	background-size:     cover;
 	background-position: center center;
 	background:          #000;
 	color:               #fff;
@@ -7373,7 +7373,7 @@ input[type=radio]:checked:before {
 
 	.navigation-menu {
 		position: relative;
-		padding:  15px 0;
+		padding:  5px 0;
 	}
 
 	.navigation-menu .tm-table {
@@ -8010,11 +8010,11 @@ input[type=radio]:checked:before {
 		width: 100%;
 	}
 
-	.tours-type-slider >.tours_type_item {
+	.tours-type-slider > .tours_type_item {
 		width: 25%;
 	}
 
-	.tours-type-slider >.item-tour {
+	.tours-type-slider > .item-tour {
 		width: 33.333%;
 	}
 
@@ -8849,12 +8849,4 @@ input[type=radio]:checked:before {
 	.banner-typed .desc {
 		font-size: 1em;
 	}
-}
-
-
-@media (min-width: 993px){
-.navigation-menu {
-    position: relative;
-    padding: 2px;
-}
 }

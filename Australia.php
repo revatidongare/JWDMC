@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<?php include'includes/head.php';?>
+<?php include'assets/includes/head.php';?>
 <body class="transparent_home_page">
 	<div class="wrapper-container">
-		<?php include'includes/navbar.php';?>
+		<?php include'assets/includes/header.php';?>
 		<div class="site wrapper-content">
 				<div class="site wrapper-content">
 		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
@@ -26,7 +26,7 @@
 									<div class="post_images">
 										<a href="single-tour.html">
 											<span class="price">$93.00</span>
-											<img width="430" height="305" src="images/tour/430x305/auswestern.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
+											<img width="430" height="305" src="images/tour/430x305/auswestern.jpg" alt="AUSTRALIAN GETAWAY" title="AUSTRALIAN GETAWAY">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -35,7 +35,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="Australia1.php" rel="bookmark">WESTERN TRIANGLE</a>
+											<a href="Australia1.php" rel="bookmark">AUSTRALIAN GETAWAY</a>
 										</h4></div>
 										<span class="post_date">5 DAYS 4 NIGHTS</span>
 										<div class="description">
@@ -170,7 +170,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Cuzco to Anchorage</a>
+											<a href="Australia5.php" rel="bookmark">AUSTRALIAN FANTASY</a>
 										</h4></div>
 										<span class="post_date">5 DAYS 4 NIGHTS</span>
 										<div class="description">
@@ -405,9 +405,9 @@
 			</div>
 		</section>
 	</div>
-	<?php include'includes/footer.php';?>
+	<?php include'assets/includes/footer.php';?>
 	
 	</div>
-				<?php include'includes/script.php';?>
+				<?php include'assets/includes/script.php';?>
 			</body>
 			</html>

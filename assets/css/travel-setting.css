@@ -635,7 +635,7 @@ h6 {
 	}
 
 	#mobile-demo li a, .icon-toggle {
-		color: #fff;
+		color: #ffb300;
 	}
 
 	#mobile-demo li.current-menu-item > a, #mobile-demo li.current-menu-item > span {
@@ -647,7 +647,7 @@ h6 {
 	}
 
 	#mobile-demo {
-		background: #232323;
+		background: #fff;
 	}
 
 	#mobile-demo .navbar-nav > li > a, #mobile-demo .navbar-nav > li > span {
