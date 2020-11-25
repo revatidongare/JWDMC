@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<?php include'assets/includes/head.php';?>
+<?php include'includes/head.php';?>
 <body class="transparent_home_page">
 	<div class="wrapper-container">
-		<?php include'assets/includes/header.php';?>
+		<?php include'includes/header.php';?>
 		<div class="site wrapper-content">
 				<div class="site wrapper-content">
 		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
@@ -25,7 +25,7 @@
 								<div class="item_border item-product">
 									<div class="post_images">
 										<a href="single-tour.html">
-											<span class="price">$93.00</span>
+											
 											<img width="430" height="305" src="images/tour/430x305/auswestern.jpg" alt="AUSTRALIAN GETAWAY" title="AUSTRALIAN GETAWAY">
 										</a>
 										<div class="group-icon">
@@ -37,9 +37,9 @@
 										<div class="post_title"><h4>
 											<a href="Australia1.php" rel="bookmark">AUSTRALIAN GETAWAY</a>
 										</h4></div>
-										<span class="post_date">5 DAYS 4 NIGHTS</span>
+										<span class="post_date">7 DAYS 6 NIGHTS</span>
 										<div class="description">
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
+											<p>Jump on a day tour with Australian Getaway Tours and see the roads less travelled.</p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -58,10 +58,9 @@
 								<div class="item_border item-product">
 									<div class="post_images">
 										<a href="single-tour.html">
-											<span class="price"><del>$87.00</del>
-												<ins>$82.00</ins>
+											
 											</span>
-											<span class="onsale">Sale!</span>
+											
 											<img width="430" height="305" src="images/tour/430x305/AUSTRALIANMEMORIES.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
 										</a>
 										<div class="group-icon">
@@ -73,9 +72,9 @@
 										<div class="post_title"><h4>
 											<a href="Australia2.php" rel="bookmark">AUSTRALIAN MEMORIES</a>
 										</h4></div>
-										<span class="post_date">5 DAYS 4 NIGHTS</span>
+										<span class="post_date">9 DAYS 8 NIGHTS</span>
 										<div class="description">
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
+											<p>Australian Memories is a novella featuring the memories of the author, Ndèye Labadens during her journey around the country </p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -94,7 +93,7 @@
 								<div class="item_border item-product">
 									<div class="post_images">
 										<a href="single-tour.html">
-											<span class="price">$64.00</span>
+											
 											<img width="430" height="305" src="images/tour/430x305/simply.jpg" alt="SIMPLY AUSTRALIA" title="SIMPLY AUSTRALIA">
 										</a>
 										<div class="group-icon">
@@ -106,9 +105,9 @@
 										<div class="post_title"><h4>
 											<a href="Australia3.php" rel="bookmark">SIMPLY AUSTRALIA</a>
 										</h4></div>
-										<span class="post_date">5 DAYS 4 NIGHTS</span>
+										<span class="post_date">10 DAYS 9 NIGHTS</span>
 										<div class="description">
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
+											<p>Australia, the smallest continent and one of the largest countries on Earth, lying between the Pacific and Indian oceans in the Southern Hemisphere.</p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -127,7 +126,7 @@
 								<div class="item_border item-product">
 									<div class="post_images">
 										<a href="single-tour.html">
-											<span class="price">$434.00</span>
+											
 											<img width="430" height="305" src="images/tour/430x305/Highlight.jpg" alt="AUSTRALIAN HIGHLIGHTS" title="AUSTRALIAN HIGHLIGHTS">
 										</a>
 										<div class="group-icon">
@@ -139,9 +138,9 @@
 										<div class="post_title"><h4>
 											<a href="Australia4.php" rel="bookmark">AUSTRALIAN HIGHLIGHTS</a>
 										</h4></div>
-										<span class="post_date">5 DAYS 4 NIGHTS</span>
+										<span class="post_date">10 DAYS 9 NIGHTS</span>
 										<div class="description">
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
+											<p>They include a wide variety of habitats for its wildlife, including tropical rainforests, deserts, rivers, mountain ranges and marine environments for you to explore.</p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -160,8 +159,8 @@
 								<div class="item_border item-product">
 									<div class="post_images">
 										<a href="single-tour.html">
-											<span class="price">$345.00</span>
-											<img width="430" height="305" src="images/tour/430x305/tour-5.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
+											
+											<img width="430" height="305" src="images/tour/430x305/fanasty.png" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -172,9 +171,9 @@
 										<div class="post_title"><h4>
 											<a href="Australia5.php" rel="bookmark">AUSTRALIAN FANTASY</a>
 										</h4></div>
-										<span class="post_date">5 DAYS 4 NIGHTS</span>
+										<span class="post_date">13 DAYS 12 NIGHTS</span>
 										<div class="description">
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
+											<p>Sydney, spectacularly draped around its glorious harbour and beaches, has visual wow factor like few other cities. Scratch the surface and it only gets better.</p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -193,8 +192,8 @@
 								<div class="item_border item-product">
 									<div class="post_images">
 										<a href="single-tour.html">
-											<span class="price">$78.00</span>
-											<img width="430" height="305" src="images/tour/430x305/tour-6.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
+											
+											<img width="430" height="305" src="images/tour/430x305/delight.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -203,11 +202,11 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Anchorage to Ushuaia</a>
+											<a href="Australia6.php" rel="bookmark">AUSTRALIAN DELIGHT</a>
 										</h4></div>
-										<span class="post_date">5 DAYS 4 NIGHTS</span>
+										<span class="post_date">15 DAYS 14 NIGHTS</span>
 										<div class="description">
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
+											<p>Australian Delight covers beautiful city of Sydney and Gold Coast. The most famous attractions include the Sydney Opera House, and the Sydney Harbour Bridge.</p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -222,11 +221,11 @@
 									</div>
 								</div>
 							</li>
-							<li class="item-tour col-md-6 col-sm-6 product">
+							<!-- <li class="item-tour col-md-6 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
 										<a href="single-tour.html">
-											<span class="price">$104.00</span>
+											
 											<img width="430" height="305" src="images/tour/430x305/tour-7.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
 										</a>
 										<div class="group-icon">
@@ -254,12 +253,12 @@
 										<a rel="nofollow" href="single-tour.html" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
-							</li>
-							<li class="item-tour col-md-6 col-sm-6 product">
+							</li> -->
+							<!-- <li class="item-tour col-md-6 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
 										<a href="single-tour.html">
-											<span class="price">$99.00</span>
+											
 											<img width="430" height="305" src="images/tour/430x305/tour-8.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
 										</a>
 										<div class="group-icon">
@@ -287,16 +286,16 @@
 										<a rel="nofollow" href="single-tour.html" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
-							</li>
+							</li> -->
 						</ul>
-						<div class="navigation paging-navigation" role="navigation">
+						<!-- <div class="navigation paging-navigation" role="navigation">
 							<ul class="page-numbers">
 								<li><span class="page-numbers current">1</span></li>
 								<li><a class="page-numbers" href="#">2</a></li>
 								<li><a class="next page-numbers" href="#"><i class="fa fa-long-arrow-right"></i></a>
 								</li>
 							</ul>
-						</div>
+						</div> -->
 					</div>
 					<div class="widget-area align-left col-sm-3">
 						<div class="search_tour">
@@ -358,12 +357,12 @@
 										<a href="single-tour.html" rel="bookmark">WESTERN TRIANGLE</a>
 									</h3></div>
 									<div class="item_price">
-										<span class="price">$93.00</span>
+										>
 									</div>
 								</div>
 								<div class="inner-special-tours">
 									<a href="single-tour.html">
-										<span class="onsale">Sale!</span>
+										
 										<img width="430" height="305" src="images/tour/430x305/AUSTRALIANMEMORIES.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE"></a>
 									<div class="item_rating">
 										<i class="fa fa-star"></i>
@@ -376,8 +375,7 @@
 										<a href="single-tour.html" rel="bookmark">AUSTRALIAN MEMORIES</a>
 									</h3></div>
 									<div class="item_price">
-										<span class="price"><del>$87.00</del>
-										<ins>$82.00</ins></span>
+										
 									</div>
 								</div>
 								<div class="inner-special-tours">
@@ -395,7 +393,7 @@
 										<a href="single-tour.html" rel="bookmark">SIMPLY AUSTRALIA</a>
 									</h3></div>
 									<div class="item_price">
-										<span class="price">$64.00</span>
+										
 									</div>
 								</div>
 							</div>
@@ -405,9 +403,9 @@
 			</div>
 		</section>
 	</div>
-	<?php include'assets/includes/footer.php';?>
+	<?php include'includes/footer.php';?>
 	
 	</div>
-				<?php include'assets/includes/script.php';?>
+				<?php include'includes/script.php';?>
 			</body>
 			</html>

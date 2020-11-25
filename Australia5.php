@@ -1,20 +1,19 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<?php include'assets/includes/head.php';?>
+<?php include'includes/head.php';?>
 <body class="single-product travel_tour-page travel_tour">
 <div class="wrapper-container">
-	<?php include'assets/includes/header.php';?>
+	<?php include'includes/header.php';?>
 	<div class="site wrapper-content">
 		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
 						<li><a href="index.php" class="home">Home</a></li>
-						<li><a href="blog.html">Business</a></li>
-						<li>Love advice from experts</li>
+						
 					</ul>
 				</div>
-				<h2 class="heading_primary">Business</h2></div>
+				<h2 class="heading_primary">International Destination</h2></div>
 		</div>
 		<section class="content-area single-woo-tour">
 			<div class="container">
@@ -23,8 +22,7 @@
 						<div class="images images_single_left">
 							<div class="title-single">
 								<div class="title">
-									<h1>AUSTRALIAN FANTASY
-</h1>
+									<h1>AUSTRALIAN FANTASY</h1>
 								</div>
 								<div class="tour_code">
 									<strong>Code: </strong>LMJUYH
@@ -32,7 +30,7 @@
 							</div>
 							<div class="tour_after_title">
 								<div class="meta_date">
-									<span>5 DAYS 4 NIGHTS</span>
+									<span>13 DAYS 12 NIGHTS</span>
 								</div>
 								<div class="meta_values">
 									<span>Category:</span>
@@ -64,7 +62,7 @@
 										<a href="images/tour/Highlight.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/Highlight.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li> -->
 									<li>
-										<a href="images/tour/tour-5.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/tour-5.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="images/tour/fanasty.png" class="swipebox" title=""><img width="950" height="700" src="images/tour/fanasty.png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 									<li>
 										<a href="images/tour/tour-6.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/tour-6.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
@@ -86,7 +84,7 @@
 										<img width="150" height="100" src="images/tour/Highlight.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
-										<img width="150" height="100" src="images/tour/tour-5.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="150" height="100" src="images/tour/fanasty.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
 										<img width="150" height="100" src="images/tour/tour-6.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
@@ -254,6 +252,34 @@ In the evening enjoy the Conrad Jupiter show ‘Tempo Rouge’ (Entrance only no
 <p>Evening Sydney Showboat dinner cruise. Enjoy the dining experience with million dollar view of Sydney harbour and Opera house with Sydney Showboat showgirls showcasing the glamorous and gorgeous performances</p>
 											</div>
 										</div>
+										<div class="interary-item">
+											<p><span class="icon-left">11</span></p>
+											<div class="item_content">
+												<h2><strong>Day 11 : Sydney</strong></h2>
+												<p>Visit Blue Mountains with Featherland Wildlife Park. Head west to the Blue Mountains, see the Three Sisters rock formation and tour the mountain town of Katoomba.</p>
+
+											</div>
+										</div>
+										<div class="interary-item">
+											<p><span class="icon-left">12</span></p>
+											<div class="item_content">
+												<h2><strong>Day 12 : Sydney</strong></h2>
+												<h4>City tour of Sydney</h4>
+												<p>View the Opera House and Darling Harbour. Visit Manly Beach and tour through Sydney's northern beaches. You will be dropped off at the Darling Harbour, to shop at the city center on your own.</p>
+
+<p>Later explore Sydney on 3-in-1 pass which allows you to visit Sydney Aquarium, one of the largest aquariums in the world. Sydney Tower, which gives you a breathtaking 360-degree views of the city. Sky tour and unlimited day use ride on Sydney monorail. 
+</p>
+											</div>
+										</div>
+										<div class="interary-item">
+											<p><span class="icon-left">13</span></p>
+											<div class="item_content">
+												<h2><strong>Day 13 : Depart Sydney </strong></h2>
+												<p>Transfer to Sydney Airport for flight back home. </p>
+
+
+											</div>
+										</div>
 									</div>
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--location_tab panel entry-content wc-tab" id="tab-location_tab">
 										<div class="wrapper-gmap">
@@ -264,7 +290,7 @@ In the evening enjoy the Conrad Jupiter show ‘Tempo Rouge’ (Entrance only no
 										<div id="reviews" class="travel_tour-Reviews">
 											<div id="comments">
 												<h2 class="travel_tour-Reviews-title">1 review for
-													<span>SIMPLY AUSTRALIA</span></h2>
+													<span>AUSTRALIAN FANTASY</span></h2>
 												<ol class="commentlist">
 													<li itemscope="" itemtype="http://schema.org/Review" class="comment byuser comment-author-physcode bypostauthor even thread-even depth-1" id="li-comment-62">
 														<div id="comment-62" class="comment_container">
@@ -326,19 +352,19 @@ In the evening enjoy the Conrad Jupiter show ‘Tempo Rouge’ (Entrance only no
 									</div>
 								</div>
 							</div>
-							<?php include'assets/includes/pic.php';?>
+							<?php include'includes/pic.php';?>
 						</div>
-						<?php include'assets/includes/pic1.php';?>
+						<?php include'includes/pic1.php';?>
 					</div>
 				</div>
 			</div>
 		</section>
 	</div>
-	<?php include'assets/includes/footer.php';?>	
+	<?php include'includes/footer.php';?>	
 	
 </div>
 <!--end coppyright-->
-<?php include'assets/includes/script.php';?>
+<?php include'includes/script.php';?>
 
 </body>
 </html>

@@ -1,9 +1,7 @@
 <div class="summary entry-summary description_single">
 							<div class="affix-sidebar">
 								<div class="entry-content-tour">
-									<p class="price">
-										<span class="text">Price:</span><span class="travel_tour-Price-amount amount">$93.00</span>
-									</p>
+									
 									<div class="clear"></div>
 									<div class="booking">
 										<div class="">
@@ -114,12 +112,12 @@
 													<a href="single-tour.html" rel="bookmark">AUSTRALIAN GETAWAY</a>
 												</h3></div>
 												<div class="item_price">
-													<span class="price">$93.00</span>
+													
 												</div>
 											</div>
 											<div class="inner-special-tours">
 												<a href="single-tour.html">
-													<span class="onsale">Sale!</span>
+													
 													<img width="430" height="305" src="images/tour/430x305/AUSTRALIANMEMORIES.jpg" alt="AUSTRALIAN MEMORIES" title="AUSTRALIAN MEMORIES"></a>
 												<div class="item_rating">
 													<i class="fa fa-star"></i>
@@ -132,8 +130,8 @@
 													<a href="single-tour.html" rel="bookmark">AUSTRALIAN MEMORIES</a>
 												</h3></div>
 												<div class="item_price">
-										<span class="price"><del>$87.00</del>
-										<ins>$82.00</ins></span>
+										
+										
 												</div>
 											</div>
 											<div class="inner-special-tours">
@@ -151,7 +149,7 @@
 													<a href="single-tour.html" rel="bookmark">SIMPLY AUSTRALIA</a>
 												</h3></div>
 												<div class="item_price">
-													<span class="price">$64.00</span>
+													
 												</div>
 											</div>
 											

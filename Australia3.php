@@ -1,20 +1,19 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<?php include'assets/includes/head.php';?>
+<?php include'includes/head.php';?>
 <body class="single-product travel_tour-page travel_tour">
 <div class="wrapper-container">
-	<?php include'assets/includes/header.php';?>
+	<?php include'includes/header.php';?>
 	<div class="site wrapper-content">
 		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
 						<li><a href="index.php" class="home">Home</a></li>
-						<li><a href="blog.html">Business</a></li>
-						<li>Love advice from experts</li>
+						
 					</ul>
 				</div>
-				<h2 class="heading_primary">Business</h2></div>
+				<h2 class="heading_primary">International Destination</h2></div>
 		</div>
 		<section class="content-area single-woo-tour">
 			<div class="container">
@@ -31,7 +30,7 @@
 							</div>
 							<div class="tour_after_title">
 								<div class="meta_date">
-									<span>5 DAYS 4 NIGHTS</span>
+									<span>10 DAYS 9 NIGHTS</span>
 								</div>
 								<div class="meta_values">
 									<span>Category:</span>
@@ -333,19 +332,19 @@ SIMPLY AUSTRALIA
 									</div>
 								</div>
 							</div>
-							<?php include'assets/includes/pic.php';?>
+							<?php include'includes/pic.php';?>
 						</div>
-						<?php include'assets/includes/pic1.php';?>
+						<?php include'includes/pic1.php';?>
 					</div>
 				</div>
 			</div>
 		</section>
 	</div>
-	<?php include'assets/includes/footer.php';?>	
+	<?php include'includes/footer.php';?>	
 	
 </div>
 <!--end coppyright-->
-<?php include'assets/includes/script.php';?>
+<?php include'includes/script.php';?>
 
 </body>
 </html>

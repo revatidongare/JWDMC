@@ -98,7 +98,7 @@
 				<div class="width-logo sm-logo">
 					<a href="" title="Travel" rel="home">
 						<img src="images/logo.png" alt="Logo" width="474" height="130" class="logo_transparent_static">
-						<img src="images/logo_sticky.png" alt="Sticky logo" width="474" height="130" class="logo_sticky">
+						<img src="images/logo.png" alt="Sticky logo" width="474" height="100" class="logo_sticky">
 					</a>
 				</div>
 				<nav class="width-navigation"style="max-width: 100%;margin: 0;padding: 0">

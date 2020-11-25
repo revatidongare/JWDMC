@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<?php include'assets/includes/head.php';?>
+<?php include'includes/head.php';?>
 <body class="transparent_home_page">
 <div class="wrapper-container">
-	<?php include'assets/includes/header.php';?>
+	<?php include'includes/header.php';?>
 	<div class="site wrapper-content">
 		<div class="home-content" role="main">
 			<div class="wrapper-bg-video">
@@ -761,9 +761,9 @@
 			</div>
 		</div>
 	</div>
-	<?php include'assets/includes/footer.php';?>
+	<?php include'includes/footer.php';?>
 	
 </div>
-<?php include'assets/includes/script.php';?>
+<?php include'includes/script.php';?>
 </body>
 </html>
