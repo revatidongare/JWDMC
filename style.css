@@ -4448,6 +4448,7 @@ input[type=radio]:checked:before {
 	background: transparent;
 }
 
+
 .header_top_bar .wg-drop.country-selector.closed .wgcurrent:after {
 	content:           "\f105";
 	-webkit-transform: rotate(0deg);

@@ -50,7 +50,7 @@
 			</div>
 			<div class="wrapper_content">
 				<div class="post_title"><h4>
-					<a href="single-tour.html" rel="bookmark">AUSTRALIAN MEMORIES</a>
+					<a href="single-tour.html" rel="bookmark">AUSTRALIAN MEMORIE</a>
 				</h4></div>
 				<span class="post_date">9 DAYS 8 NIGHTS</span>
 				<div class="description">
