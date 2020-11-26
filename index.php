@@ -161,11 +161,10 @@
 										<div class="post_images">
 											<a href="single-tour.html" class="travel_tour-LoopProduct-link">
 											<span class="price"><del>
-												<span class="travel_tour-Price-amount amount">$87.00</span></del>
-												<ins><span class="travel_tour-Price-amount amount">$82.00</span></ins>
+												
 											</span>
-												<span class="onsale">Sale!</span>
-												<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
+												
+												<img src="images/tour/430x305/auswestern.jpg" alt="" title="">
 											</a>
 											<div class="group-icon">
 												<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="River Cruise"><i class="flaticon-transport-2"></i></a>
@@ -174,10 +173,10 @@
 										</div>
 										<div class="wrapper_content">
 											<div class="post_title"><h4>
-												<a href="single-tour.html" rel="bookmark">Kiwiana Panorama</a>
+												<a href="single-tour.html" rel="bookmark">AUSTRALIAN GETAWAY</a>
 											</h4></div>
-											<span class="post_date">5 DAYS 4 NIGHTS</span>
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
+											<span class="post_date">7 DAYS 6 NIGHTS</span>
+											<p>Jump on a day tour with Australian Getaway Tours .</p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -195,9 +194,6 @@
 									<div class="item_content">
 										<div class="post_images">
 											<a href="single-tour.html" class="travel_tour-LoopProduct-link">
-											<span class="price">
-												<span class="travel_tour-Price-amount amount">$82.00</span>
-											</span>
 												<img src="images//tour/430x305/tour-2.jpg" alt="" title="">
 											</a>
 											<div class="group-icon">
@@ -207,10 +203,10 @@
 										</div>
 										<div class="wrapper_content">
 											<div class="post_title"><h4>
-												<a href="single-tour.html" rel="bookmark">Camping Americas West</a>
+												<a href="single-tour.html" rel="bookmark">AUSTRALIAN MEMORIES</a>
 											</h4></div>
-											<span class="post_date">5 DAYS 4 NIGHTS</span>
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
+											<span class="post_date">9 DAYS 8 NIGHTS</span>
+											<p>Australian Memories is a novella featuring .</p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -228,10 +224,8 @@
 									<div class="item_content">
 										<div class="post_images">
 											<a href="single-tour.html" class="travel_tour-LoopProduct-link">
-											<span class="price">
-												<span class="travel_tour-Price-amount amount">$89.00</span>
-											</span>
-												<img src="images/tour/430x305/tour-3.jpg" alt="" title="">
+											
+												<img src="images/tour/430x305/simply.jpg" alt="" title="">
 											</a>
 											<div class="group-icon">
 												<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="River Cruise"><i class="flaticon-transport-2"></i></a>
@@ -240,10 +234,10 @@
 										</div>
 										<div class="wrapper_content">
 											<div class="post_title"><h4>
-												<a href="single-tour.html" rel="bookmark">Anchorage to Santiago</a>
+												<a href="single-tour.html" rel="bookmark">SIMPLY AUSTRALIA</a>
 											</h4></div>
-											<span class="post_date">5 DAYS 4 NIGHTS</span>
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
+											<span class="post_date">10 DAYS 9 NIGHTS</span>
+											<p>Australia, the smallest continent and one of the largest countries on Earth.</p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -261,10 +255,7 @@
 									<div class="item_content">
 										<div class="post_images">
 											<a href="single-tour.html" class="travel_tour-LoopProduct-link">
-											<span class="price">
-												<span class="travel_tour-Price-amount amount">90.00</span>
- 											</span>
-												<img src="images/tour/430x305/tour-4.jpg" alt="" title="">
+												<img src="images/tour/430x305/Highlight.jpg" alt="" title="">
 											</a>
 											<div class="group-icon">
 												<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="River Cruise"><i class="flaticon-transport-2"></i></a>
@@ -273,10 +264,10 @@
 										</div>
 										<div class="wrapper_content">
 											<div class="post_title"><h4>
-												<a href="single-tour.html" rel="bookmark">Anchorage to Ushuaia</a>
+												<a href="single-tour.html" rel="bookmark">AUSTRALIAN HIGHLIGHT</a>
 											</h4></div>
-											<span class="post_date">5 DAYS 4 NIGHTS</span>
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
+											<span class="post_date">10 DAYS 9 NIGHTS</span>
+											<p>They include a wide variety of habitats.</p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -294,10 +285,8 @@
 									<div class="item_content">
 										<div class="post_images">
 											<a href="single-tour.html" class="travel_tour-LoopProduct-link">
-											<span class="price">
-												<span class="travel_tour-Price-amount amount">$94.00</span>
-											</span>
-												<img src="images/tour/430x305/tour-5.jpg" alt="" title="">
+											
+												<img src="images/tour/430x305/fanasty.png" alt="" title="">
 											</a>
 											<div class="group-icon">
 												<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="River Cruise"><i class="flaticon-transport-2"></i></a>
@@ -306,10 +295,10 @@
 										</div>
 										<div class="wrapper_content">
 											<div class="post_title"><h4>
-												<a href="single-tour.html" rel="bookmark">Discover Brazil</a>
+												<a href="single-tour.html" rel="bookmark">AUSTRALIAN FANTASY</a>
 											</h4></div>
 											<span class="post_date">5 DAYS 4 NIGHTS</span>
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
+											<p>Sydney, spectacularly draped around its glorious harbour and beaches. </p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -327,10 +316,8 @@
 									<div class="item_content">
 										<div class="post_images">
 											<a href="single-tour.html" class="travel_tour-LoopProduct-link">
-											<span class="price">
-												<span class="travel_tour-Price-amount amount">$91.00</span>
-											</span>
-												<img src="images/tour/430x305/tour-6.jpg" alt="" title="">
+											
+												<img src="images/tour/430x305/delight.jpg" alt="" title="">
 											</a>
 											<div class="group-icon">
 												<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="River Cruise"><i class="flaticon-transport-2"></i></a>
@@ -339,10 +326,10 @@
 										</div>
 										<div class="wrapper_content">
 											<div class="post_title"><h4>
-												<a href="single-tour.html" rel="bookmark">Cuzco to Anchorage</a>
+												<a href="single-tour.html" rel="bookmark">AUSTRALIAN DELIGHT</a>
 											</h4></div>
-											<span class="post_date">5 DAYS 4 NIGHTS</span>
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
+											<span class="post_date">15 DAYS 14 NIGHTS</span>
+											<p>Australian Delight covers beautiful city of Sydney and Gold Coast.</p>
 										</div>
 									</div>
 									<div class="read_more">
