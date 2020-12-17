@@ -25,7 +25,7 @@
 									<div class="post_images">
 										<a href="single-tour.html">
 											
-											<img width="430" height="305" src="images/Bali/bali1.jpg"" alt="Discover Brazil" title="Discover Brazil">
+											<img width="430" height="305" src="images/Bali/bali1.jpg"alt="Discover Brazil" title="Discover Brazil">
 										</a>
 										<!--  -->
 									</div>
@@ -94,7 +94,6 @@
 										</h4></div>
 										<span class="post_date">Coming Soon</span>
 										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
-
 										</div>
 									</div>
 									<div class="read_more">
@@ -113,12 +112,8 @@
 								<div class="item_border item-product">
 									<div class="post_images">
 										<a href="single-tour.html">
-											
-											
-											
 											<img width="430" height="305" src="images/Bali/bali4.jpg" alt="Discover Brazil" title="Discover Brazil">
 										</a>
-										
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
@@ -126,7 +121,6 @@
 										</h4></div>
 										<span class="post_date">Coming Soon</span>
 										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
-										
 									</div>
 									<div class="read_more">
 										<div class="item_rating">
@@ -144,12 +138,8 @@
 								<div class="item_border item-product">
 									<div class="post_images">
 										<a href="single-tour.html">
-											
-											
-											
 											<img width="430" height="305" src="images/Bali/bali5.jpg" alt="Discover Brazil" title="Discover Brazil">
 										</a>
-										
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
@@ -157,7 +147,6 @@
 										</h4></div>
 										<span class="post_date">Coming Soon</span>
 										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
-										
 									</div>
 									<div class="read_more">
 										<div class="item_rating">

@@ -158,7 +158,8 @@ h6 {
    #BACKGROUND
    ========================================================================== */
 .bg-blue {
-  background: #2c6ed5;
+ background: url("../../images/video_slider.jpg") center center/cover no-repeat;
+  padding-top: 210px;
 }
 
 /* ==========================================================================
@@ -307,6 +308,9 @@ input {
 .input--style-1 {
   padding: 9px 0;
   color: #666;
+  margin-left: 0px;
+    margin-right: 0px;
+}
 }
 
 .input--style-1::-webkit-input-placeholder {
@@ -446,7 +450,7 @@ input {
 }
 
 .card-1 .card-body {
-  padding: 0 90px;
+  padding: 0 20px;
   padding-top: 55px;
   padding-bottom: 65px;
 }

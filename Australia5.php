@@ -32,13 +32,13 @@
 								<div class="meta_date">
 									<span>13 DAYS 12 NIGHTS</span>
 								</div>
-								<div class="meta_values">
+								<!-- <div class="meta_values">
 									<span>Category:</span>
 									<div class="value">
 										<a href="tours.html" rel="tag">Escorted Tour</a>,
 										<a href="tours.html" rel="tag">Rail Tour</a>
 									</div>
-								</div>
+								</div> -->
 								<div class="tour-share">
 									<ul class="share-social">
 										<li>
@@ -110,13 +110,13 @@
 								<div class="tab-content">
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--description panel entry-content wc-tab active" id="tab-description">
 										<h2>Product Description</h2>
-										<p>Mattis interdum nunc massa. Velit. Nonummy penatibus luctus. Aliquam. Massa aptent senectus elementum taciti.Id sodales morbi felis eu mus auctor ullamcorper. Litora. In nostra tempus, habitant. Nam tristique.</p>
-										<p>Felis venenatis metus placerat taciti malesuada ultricies bibendum nunc hymenaeos orci erat mollis pretium ligula ligulamus pellentesque urna. Sagittis bibendum justo congue facilisi. Aliquam potenti sagittis etiam facilisis vehicula. Id.</p>
+										<p>Set in the unforgiving landscapes of empty deserts and broken societies, in a world where actions are fuelled not by reason but desire, Macrae’s first novel created its own, unique language for its narrator, John Ra.</p>
+										<p> A phonetic rendition of working-class Australia, Macrae’s choice was not just a success in the novel, but also representative of what Australian science fiction and fantasy needs to define itself in a market dominated by the largest producers of English language genre fiction, the United Kingdom and the United States.</p>
 										<table class="tours-tabs_table">
 											<tbody>
 											<tr>
 												<td><strong>DEPARTURE/RETURN LOCATION</strong></td>
-												<td>San Francisco International Airport</td>
+												<td>Sydney Airport for flight back home.</td>
 											</tr>
 											<tr>
 												<td><strong>DEPARTURE TIME</strong></td>
@@ -165,8 +165,8 @@
 											</tr>
 											</tbody>
 										</table>
-										<p>Ridiculus sociis dui eu vivamus tempor justo diam aliquam. Ipsum nunc purus, pede sed placerat sit habitasse potenti eleifend magna mus sociosqu hymenaeos cras metus mi donec tortor nisi leo dignissim turpis sit torquent.</p>
-										<p>Potenti mattis ad mollis eleifend Phasellus adipiscing ullamcorper interdum faucibus orci litora ornare aliquam. Ligula feugiat scelerisque. Molestie. Facilisi hac.</p>
+										<p> A phonetic rendition of working-class Australia, Macrae’s choice was not just a success in the novel, but also representative of what Australian science fiction and fantasy needs to define itself in a market dominated by the largest producers of English language genre fiction, the United Kingdom and the United States.</p>
+										
 									</div>
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--itinerary_tab panel entry-content wc-tab" id="tab-itinerary_tab">
 										<div class="interary-item">

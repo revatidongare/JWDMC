@@ -24,13 +24,7 @@
 							</div>
 						</aside>
 						<aside id="travel_login_register_from-2" class="widget widget_login_form">
-							<?php                 
-                 if(isset($_SESSION['id'])){ ?>
 						<span data-toggle="modal" data-target="#loginmodal"class="show_from login"><i class="fa fa-user"></i>Login</span>
-						<?php }
-				else{?>
-						<span data-toggle="modal" data-target="#loginmodal"class="show_from login"><i class="fa fa-user"></i>Logout</span>
-						<?php }?>
 
 							<div class="form_popup from_login" tabindex="-1">
 								<div class="inner-form">

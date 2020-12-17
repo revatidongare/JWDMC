@@ -33,9 +33,9 @@
                 <div class="card-heading"></div>
                 <div class="card-body">
                     <h2 class="title">Corporate Login</h2>
-                    <form method="POST">
+                    <form action="session1.php" method="POST">
                         <div class="input-group">
-                            <input class="input--style-1" type="text" placeholder="Username or Email Address" name="Username or Email Address">
+                            <input class="input--style-1" type="text" placeholder="Username or Email Address" name="email">
                         </div>
                         <div class="input-group">
                             <input class="input--style-1" type="text" placeholder="Password" name="Password">
@@ -47,30 +47,8 @@
                          
                         <div class="p-t-20">
 
-                            <button class="btn btn--radius btn--green"type="submit">Login</button>
-                            <button class="btn btn--radius btn--green" type="submit">Login</button>
-
-                            <button class="btn btn--radius btn--green" type="submit">Login</button>
-
-                            <button class="btn btn--radius btn--green" type="submit">Login</button>
-
-
-                            <button class="btn btn--radius btn--green" type="submit">Login</button>
-
-
-                            <button class="btn btn--radius btn--green" type="submit">Login</button>
-
-
-                            <button class="btn btn--radius btn--green" type="submit">Login</button>
-
-
-                            <button class="btn btn--radius btn--green" type="submit">Login</button>
-
-
-                            <button class="btn btn--radius btn--green" type="submit">Login</button>
-
-
-                            <button class="btn btn--radius btn--green" type="submit">Login</button>
+                            <button class="btn btn--radius btn--green"type="submit" name="login">Login</button>
+                           
                         </div>
                     </form>
                     

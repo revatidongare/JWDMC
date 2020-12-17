@@ -75,28 +75,7 @@
                         </div>
                          <div class="row row-space">
                                 <div class="input-group col-2">
-                                    <div class="rs-select2 js-select-simple select--no-search">
-                                    <select class="validate" id="PrefCurrency" name="PrefCurrency" required="required"><option value="AUD">AUD</option>
-<option value="AZN">AZN</option>
-<option value="BHD">BHD</option>
-<option value="CAD">CAD</option>
-<option value="CNY">CNY</option>
-<option value="EGP">EGP</option>
-<option value="EUR">EUR</option>
-<option value="HKD">HKD</option>
-<option selected="selected" value="INR">INR</option>
-<option value="JPY">JPY</option>
-<option value="NZD">NZD</option>
-<option value="OMR">OMR</option>
-<option value="GBP">GBP</option>
-<option value="RUB">RUB</option>
-<option value="SAR">SAR</option>
-<option value="SGD">SGD</option>
-<option value="ZAR">ZAR</option>
-<option value="THB">THB</option>
-<option value="AED">AED</option>
-<option value="USD">USD</option>
-</select></div>
+                                    <input class="input--style-1" type="text" placeholder="Password" name="name">   
                         </div>
 
                                 

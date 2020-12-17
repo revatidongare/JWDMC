@@ -3,6 +3,7 @@
 
 <head>
     <!-- Required meta tags-->
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Colorlib Templates">
@@ -27,18 +28,20 @@
 </head>
 
 <body>
+
     <div class="page-wrapper bg-blue p-t-100 p-b-100 font-robo">
+
         <div class="wrapper wrapper--w680">
             <div class="card card-1">
                 <div class="card-heading"></div>
                 <div class="card-body">
                     <h2 class="title">Agent Login</h2>
-                    <form method="POST">
+                    <form action="session.php" method="POST">
                         <div class="input-group">
-                            <input class="input--style-1" type="text" placeholder="Username or Email Address" name="Username or Email Address">
+                            <input class="input--style-1" type="text" placeholder="Username or Email Address" name="email">
                         </div>
                         <div class="input-group">
-                            <input class="input--style-1" type="text" placeholder="Password" name="Password">
+                            <input class="input--style-1" type="text" placeholder="Password" name="password">
                         </div>
                         
                             
@@ -46,7 +49,7 @@
                             
                          
                         <div class="p-t-20">
-                            <button class="btn btn--radius btn--green" type="submit">Login</button>
+                            <button class="btn btn--radius btn--green" type="submit" name="login">Login</button>
                         </div>
                     </form>
                     

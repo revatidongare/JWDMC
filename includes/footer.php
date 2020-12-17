@@ -13,9 +13,16 @@
 									<li>
 										<i class="fa fa-envelope fa-fw"></i><a href="mailto:hello@siteinfo.com">paresh@travelogholiday.com</a>
 									</li>
+									<div class="fsElementContent">
+						<div id="google_translate_element">
+							<div class="skiptranslate goog-te-gadget ae-exclude" dir="ltr" style="">
+							</div>
+						</div>
+				</div>
 								</ul>
 							</div>
 						</div>
+
 					</aside>
 					<aside class="col-sm-3 widget_text"><h3 class="widget-title">INFORMATION</h3>
 						<div class="textwidget">

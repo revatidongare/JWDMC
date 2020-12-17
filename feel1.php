@@ -9,11 +9,11 @@
 				<div class="banner-wrapper container article_heading">
 					<div class="breadcrumbs-wrapper">
 						<ul class="phys-breadcrumb">
-							<li><a href="index.php" class="home">Home</a></li>
+							<li><a href="feel.php" class="home">Honeymoon Special</a></li>
 
 						</ul>
 					</div>
-					<h2 class="heading_primary">International Destination</h2></div>
+					<h2 class="heading_primary">Domestic</h2></div>
 				</div>
 				<section class="content-area single-woo-tour">
 					<div class="container">
@@ -22,72 +22,82 @@
 								<div class="images images_single_left">
 									<div class="title-single">
 										<div class="title">
-											<h1>AUSTRALIAN DELIGHT</h1>
+											<h1>Honeymoon Special – Vyhtiri Resort
+											</h1>
 										</div>
-										<div class="tour_code">
+										<!-- <div class="tour_code">
 											<strong>Code: </strong>LMJUYH
-										</div>
+										</div> -->
 									</div>
 									<div class="tour_after_title">
 										<div class="meta_date">
-											<span>15 DAYS 14 NIGHTS</span>
+											<span>5 DAYS 4 NIGHTS</span>
 										</div>
-										<!-- <div class="meta_values">
-											<span>Category:</span>
-											<div class="value">
-												<a href="tours.html" rel="tag">Escorted Tour</a>,
-												<a href="tours.html" rel="tag">Rail Tour</a>
-											</div>
-										</div> -->
-										<div class="tour-share">
-											<ul class="share-social">
-												<li>
-													<a target="_blank" class="facebook" href="#"><i class="fa fa-facebook"></i></a>
-												</li>
-												<li>
-													<a target="_blank" class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-												</li>
-												<li>
-													<a target="_blank" class="pinterest" href="#"><i class="fa fa-pinterest"></i></a>
-												</li>
-												<li>
-													<a target="_blank" class="googleplus" href="#"><i class="fa fa-google"></i></a>
-												</li>
-											</ul>
-										</div>
+								<!-- <div class="meta_values">
+									<span>Category:</span>
+									<div class="value">
+										<a href="tours.html" rel="tag">Escorted Tour</a>,
+										<a href="tours.html" rel="tag">Rail Tour</a>
 									</div>
-									<div id="slider" class="flexslider">
-										<ul class="slides">
-									<!-- <li>
-										<a href="images/tour/Highlight.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/Highlight.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
-									</li> -->
-									<!-- <li>
-										<a href="images/tour/fanasty.png" class="swipebox" title=""><img width="950" height="700" src="images/tour/fanasty.png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
-									</li> -->
+								</div> -->
+								<div class="tour-share">
+									<ul class="share-social">
+										<li>
+											<a target="_blank" class="facebook" href="#"><i class="fa fa-facebook"></i></a>
+										</li>
+										<li>
+											<a target="_blank" class="twitter" href="#"><i class="fa fa-twitter"></i></a>
+										</li>
+										<li>
+											<a target="_blank" class="pinterest" href="#"><i class="fa fa-pinterest"></i></a>
+										</li>
+										<li>
+											<a target="_blank" class="googleplus" href="#"><i class="fa fa-google"></i></a>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div id="slider" class="flexslider">
+								<ul class="slides">
 									<li>
-										<a href="images/tour/delight.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/delight.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="images/feel/feel1.jpg" class="swipebox" title=""><img width="950" height="700" src="images/feel/feel1.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+									</li>
+									<li>
+										<a href="images/tour/AUSTRALIANMEMORIES.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+									</li>
+									<li>
+										<a href="images/tour/tour-3.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/tour-3.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+									</li>
+									<li>
+										<a href="images/tour/Highlight.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/Highlight.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+									</li>
+									<li>
+										<a href="images/tour/tour-5.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/tour-5.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+									</li>
+									<li>
+										<a href="images/tour/tour-6.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/tour-6.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 								</ul>
 							</div>
 							<div id="carousel" class="flexslider thumbnail_product">
 								<ul class="slides">
 									<li>
-										<img width="150" height="100" src="images/tour/auswestern.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="150" height="100" src="images/feel/feel1.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
 										<img width="150" height="100" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
-										<img width="150" height="100" src="images/tour/simply.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="150" height="100" src="images/tour/tour-3.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
 										<img width="150" height="100" src="images/tour/Highlight.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
-										<img width="150" height="100" src="images/tour/fanasty.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="150" height="100" src="images/tour/tour-5.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
-										<img width="150" height="100" src="images/tour/delight.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="150" height="100" src="images/tour/tour-6.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 								</ul>
 							</div>
@@ -108,16 +118,15 @@
 									</li>
 								</ul>
 								<div class="tab-content">
-									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--description panel entry-content wc-tab active" id="tab-description">
+									<!-- <div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--description panel entry-content wc-tab active" id="tab-description">
 										<h2>Product Description</h2>
-										<p>Australian Delight covers beautiful city of Sydney and Gold Coast. The most famous attractions include the Sydney Opera House, and the Sydney Harbour Bridge. </p>
-										
+										<p>Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. </p>
+										<p>It is the world's sixth-largest country by total area. Australia is the land of adventure. It is one of the most popular destinations on the planet for backpackers and luxury travellers alike.</p>
 										<table class="tours-tabs_table">
 											<tbody>
 												<tr>
 													<td><strong>DEPARTURE/RETURN LOCATION</strong></td>
-													<td>Sydney Airport for flight back home. 
-													</td>
+													<td>Brisbane Airport for flight back home</td>
 												</tr>
 												<tr>
 													<td><strong>DEPARTURE TIME</strong></td>
@@ -166,152 +175,53 @@
 												</tr>
 											</tbody>
 										</table>
-										<p>Other attractions include the Sydney Mardi Gras, Royal Botanical Gardens, Luna Park, the beaches and Sydney Tower.</p>
+										<p> Australia is the land of adventure. It is one of the most popular destinations on the planet for backpackers and luxury travellers alike.</p>
 										
-									</div>
+									</div> -->
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--itinerary_tab panel entry-content wc-tab" id="tab-itinerary_tab">
 										<div class="interary-item">
 											<p><span class="icon-left">1</span></p>
 											<div class="item_content">
-												<h2><strong>Day 1: Arrive Cairns</strong></h2>
+												<h2><strong>Day 1: Arrive at Kozhikode Airport –Wayanad</strong></h2>
+
 												<ul>
-													<li>Arrive Cairns and transfer you to your hotel. Rest of the day is at leisure. </li>
+													<li>On arrival at Kozhikode Airport, meet and greet with our representative and transfer by road to Wayanad (Appr. 3 Hrs ). Late check into hotel . On arrival you will be welcomed by sweet cake and welcome drink. Rest of the day at own leisure. Overnight stay in Wayanad .</li>
 												</ul>
 											</div>
 										</div>
 										<div class="interary-item">
 											<p><span class="icon-left">2</span></p>
 											<div class="item_content">
-												<h2><strong>Day 2 : Cairns</strong></h2>
-												<p>Full day cruise on the Great Barrier Reef tour, one of the natural wonders of the world. See the brilliant colours and fascinating life forms of the world heritage. Enjoy continental lunch on board. </p>
-												
+												<h2><strong>Day 2: Wayanad​</strong></h2>
+												<p>In the morning, after having breakfast, proceed for local sightseeing which includes visit to Chembra Peak, Banasura Sagar Dam,Edakkal Cave - The Kuruva island, - 950 acres of ever green forest on the tributaries of east flowing river Kabani, is an ideal picnic spot, far away from the disturbances of city life. Then Muthanga Wild Life Sanctuary: Muthanga, Which is 16 kms. east of Sulthan Bathery, is located very near to the Karnadaka border. Wild forests covering an area of 345 sq.kms form the Muthanga wild life sanctuary; the biggest abode of wild animals in Malabar. Elephant, spotted deer, bison, tiger, cheeta, wild bear, etc. are found in this sanctuary. The forest Department has facilities for providing elephant rides to tourists, Pakshipathalam: Pakshipathalam in the Brahmagiri hills at Thirunelli, is a challenging tourist spot for any adventure seeking tourist. Pazhassi Raja Tomb: Pazhassi Tourist Resort at Mananthavady is a good picnic centre in north Wayanad. Later back to hotel .</p>
+												<p>Here you will have the Romantic Candle Light Dinner with your love one in beautiful location of the our resort.</p>
 											</div>
 										</div>
 										<div class="interary-item">
 											<p><span class="icon-left">3</span></p>
 											<div class="item_content">
-												<h2><strong>Day 3 : Cairns</strong></h2>
+												<h2><strong>Day 3: Wayanad</strong></h2>
 												<ul>
-													<li>Kuranda tour. Experience scenic rail one way and return by Sky rail the other way. The contrast of the regions on the world most beautiful cableway and rail. Later visit the award winning Tjapukai Aborginal Park.  </li>
+													<li>In the morning, after breakfast,proceed for local sightseeing which includes Banasura sagar Dam: This is the largest earth dam in India. The topography here is such that many islands will be formed in the upstream of the dam when the dam is full. These islands with the background of the Banasura hill will provide a hypnotising sight to tourists. Kanthanpara Waterfalls: Relatively smaller than Sentinal Rock Waterfall and rather less frequented, Kanthanpara and its surroundings are nonetheless very pleasant. An easy hike away from the main road, it is perfect for picnic. Sentinel Rock Waterfalls: This waterfall is at Vellarimala village near Chooralmala in Meppadi panchayat. It is a picnic spot as well as a trekking centre. The sentinel rock, a rock of more than 200 m.in height, is ideal for rock climbing. </li>
 												</div>
 											</div>
 											<div class="interary-item">
 												<p><span class="icon-left">4</span></p>
 												<div class="item_content">
-													<h2><strong>Day 4 : Cairns – Brisbane – Gold Coast</strong></h2>
-													<p>Transfer to Cairns Airport for flight to Brisbane. Arrive Brisbane and transfer to the hotel in Gold Coast. Rest of the day is at leisure.  </p>
+													<h2><strong>Day 4 : Wayanad to Mysore (Appr. 3 hrs )</strong></h2>
+													<p>In the morning, check out from hotel and transfer by road to Mysore. On arrival check into hotel .
+Later proceed for local sightseeing which includes visit to Sr Ranga Patannam , Mysore Palace ,Vrudavan Garden etc. Overnight stay in Mysore. </p>
 												</div>
 											</div>
 											<div class="interary-item">
 												<p><span class="icon-left">5</span></p>
 												<div class="item_content">
-													<h2><strong>Day 5 : Gold Coast</strong></h2>
-													<p>Visit Dream World and enjoy the most spine-tingling, knee-knocking scream rides.</p>
+													<h2><strong>Day 5: Departure​</strong></h2>
+													<p>In the morning, check out from hotel and transfer by road to Bangalore Airport.</p>
 												</div>
 											</div>
-											<div class="interary-item">
-												<p><span class="icon-left">6</span></p>
-												<div class="item_content">
-													<h2><strong>Day 6 : Gold Coast</strong></h2>
-													<p>Visit Movie World, the ‘Hollywood on the Gold Coast’. Enjoy heart-thumping thrill rides to the laugh-a-minute antics of the Police Academy Stunt Show. </p>
-
-												</div>
-											</div>
-											<div class="interary-item">
-												<p><span class="icon-left">7</span></p>
-												<div class="item_content">
-													<h2><strong>Day 7 : Gold Coast</strong></h2>
-													<p>Visit Sea World, and see Australia's only Polar bears in their home at Polar Bear Shores. See the world-class skiing show, make contact with marine life wonders and experience a whole world of amazing rides, shows and attractions.
-													</p>
-												</div>
-											</div>
-											<div class="interary-item">
-												<p><span class="icon-left">8</span></p>
-												<div class="item_content">
-													<h2><strong>Day 8 : Gold Coast – Tangalooma</strong></h2>
-													<p>Transfer to Brisbane ferry terminal for a one hour catamaran ride to Tangalooma Island. Arrive Tangalooma. </p>
-													<p>The afternoon is at leisure to explore the island. 
-													In the evening make your way to the Jetty feed the Dolphins, a most unique experience.  </p>
-												</div>
-											</div>
-											<div class="interary-item">
-												<p><span class="icon-left">9</span></p>
-												<div class="item_content">
-													<h2><strong>Day 9: Tangalooma – Brisbane - Melbourne</strong></h2>
-													<p>This morning hand feed pelicans and cormorants. Later join the 4WD bus for a tour to the Tangalooma Desert. Here you can experience the fun of “Sand Tobogganing” down the steep sand hills.
-														In the afternoon depart by launch for journey to Brisbane Airport for flight to Melbourne.
-													</p>
-													<p>Arrive Melbourne and transfer to your hotel. Rest of the day is free at leisure</p>
-												</div>
-											</div>
-											<div class="interary-item">
-												<p><span class="icon-left">10</span></p>
-												<div class="item_content">
-													<h2><strong>Day 10 : Melbourne
-													</strong></h2>
-													<p>Enjoy full day tour of Penguin Deluxe tour with Puffing Billy, Blue Dandandenongs, farm activity and Phillip island Penguin Parade. 
-													</p>
-
-
-												</div>
-											</div>
-											<div class="interary-item">
-												<p><span class="icon-left">11</span></p>
-												<div class="item_content">
-													<h2><strong>Day 11 : Melbourne
-													</strong></h2>
-													<p>Enjoy full day tour of the Great Ocean Road. Enjoy one of the world's greatest coastal journey. Its severity and striking contrasts will remain etched in your memory forever. This region demonstrates the power of the sea as it ruthlessly battles the land. 
-														  
-													</p>
-
-												</div>
-											</div>
-											<div class="interary-item">
-												<p><span class="icon-left">12</span></p>
-												<div class="item_content">
-													<h2><strong>Day 12 : Melbourne – Sydney</strong></h2>
-													<h4>City tour of Sydney</h4>
-													<p>Transfer to Melbourne Airport for flight to Sydney. Arrive Sydney and transfer to your hotel.
-													</p>
-
-													<p>This evening enjoy Sydney Showboat dinner cruise. Enjoy the dining experience with million dollar view of Sydney harbour and Opera house with Sydney Showboat showgirls showcasing the glamorous and gorgeous performances. 
-
-													</p>
-												</div>
-											</div>
-
-											<div class="interary-item">
-												<p><span class="icon-left">14</span></p>
-												<div class="item_content">
-													<h2><strong>Day 14 : Sydney
-
-													</strong></h2>
-													<h4>City tour of Sydney. 
-													</h4>
-													<p>View the Opera House and Darling Harbour. Visit Manly Beach and tour through Sydney's northern beaches. You will be dropped off at the Darling Harbour, to shop at the city center on your own.
-
-													</p>
-													<p>Later explore Sydney on 3-in-1 pass which allows you to visit Sydney Aquarium, one of the largest aquariums in the world. Sydney Tower, which gives you a breathtaking 360-degree views of the city. Sky tour and unlimited day use ride on Sydney monorail. 
-														 
-													</p>
-
-
-												</div>
-											</div>
-											<div class="interary-item">
-												<p><span class="icon-left">15</span></p>
-												<div class="item_content">
-													<h2><strong>Day 15 : Depart Sydney 
-													</strong></h2>
-
-													<p>Transfer to Sydney Airport for flight back home. 
-
-													</p>
-
-
-												</div>
-											</div>
-
+											
+											
 										</div>
 										<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--location_tab panel entry-content wc-tab" id="tab-location_tab">
 											<div class="wrapper-gmap">
@@ -322,7 +232,7 @@
 											<div id="reviews" class="travel_tour-Reviews">
 												<div id="comments">
 													<h2 class="travel_tour-Reviews-title">1 review for
-														<span>AUSTRALIAN DELIGHT</span></h2>
+														<span>Honeymoon Special – Vyhtiri Resort</span></h2>
 														<ol class="commentlist">
 															<li itemscope="" itemtype="http://schema.org/Review" class="comment byuser comment-author-physcode bypostauthor even thread-even depth-1" id="li-comment-62">
 																<div id="comment-62" class="comment_container">

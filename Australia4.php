@@ -32,13 +32,13 @@
 								<div class="meta_date">
 									<span>10 DAYS 9 NIGHTS</span>
 								</div>
-								<div class="meta_values">
+								<!-- <div class="meta_values">
 									<span>Category:</span>
 									<div class="value">
 										<a href="tours.html" rel="tag">Escorted Tour</a>,
 										<a href="tours.html" rel="tag">Rail Tour</a>
 									</div>
-								</div>
+								</div> -->
 								<div class="tour-share">
 									<ul class="share-social">
 										<li>
@@ -110,8 +110,8 @@
 								<div class="tab-content">
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--description panel entry-content wc-tab active" id="tab-description">
 										<h2>Product Description</h2>
-										<p>Mattis interdum nunc massa. Velit. Nonummy penatibus luctus. Aliquam. Massa aptent senectus elementum taciti.Id sodales morbi felis eu mus auctor ullamcorper. Litora. In nostra tempus, habitant. Nam tristique.</p>
-										<p>Felis venenatis metus placerat taciti malesuada ultricies bibendum nunc hymenaeos orci erat mollis pretium ligula ligulamus pellentesque urna. Sagittis bibendum justo congue facilisi. Aliquam potenti sagittis etiam facilisis vehicula. Id.</p>
+										<p>Australia's landscapes are incredibly diverse. They include a wide variety of habitats for its wildlife, including tropical rainforests, deserts, rivers, mountain ranges and marine environments for you to explore.</p>
+										
 										<table class="tours-tabs_table">
 											<tbody>
 											<tr>
@@ -165,8 +165,8 @@
 											</tr>
 											</tbody>
 										</table>
-										<p>Ridiculus sociis dui eu vivamus tempor justo diam aliquam. Ipsum nunc purus, pede sed placerat sit habitasse potenti eleifend magna mus sociosqu hymenaeos cras metus mi donec tortor nisi leo dignissim turpis sit torquent.</p>
-										<p>Potenti mattis ad mollis eleifend Phasellus adipiscing ullamcorper interdum faucibus orci litora ornare aliquam. Ligula feugiat scelerisque. Molestie. Facilisi hac.</p>
+										<p>Australia's landscapes are incredibly diverse. They include a wide variety of habitats for its wildlife, including tropical rainforests, deserts, rivers, mountain ranges and marine environments for you to explore.</p>
+										
 									</div>
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--itinerary_tab panel entry-content wc-tab" id="tab-itinerary_tab">
 										<div class="interary-item">

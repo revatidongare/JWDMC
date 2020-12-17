@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<?php include 'includes/head.php';?>
+<?php include'includes/head.php';?>
 <body class="transparent_home_page">
 	<div class="wrapper-container">
 		<?php include'includes/header.php';?>
@@ -11,10 +11,10 @@
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
 						<li><a href="index.html" class="home">Home</a></li>
-						<li>AUSTRALIA</li>
+						<li>THAILAND</li>
 					</ul>
 				</div>
-				<h1 class="heading_primary">AUSTRALIA</h1></div>
+				<h1 class="heading_primary">THAILAND</h1></div>
 		</div>
 		<section class="content-area">
 			<div class="container">
@@ -24,9 +24,9 @@
 							<li class="item-tour col-md-6 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="Australia1.php">
+										<a href="Thailand1.php">
 											
-											<img width="430" height="305" src="images/tour/430x305/auswestern.jpg" alt="AUSTRALIAN GETAWAY" title="AUSTRALIAN GETAWAY">
+											<img width="430" height="305" src="images/tour/430x305/pattaya.jpg" alt="AUSTRALIAN GETAWAY" title="AUSTRALIAN GETAWAY">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -35,11 +35,11 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="Australia1.php" rel="bookmark">AUSTRALIAN GETAWAY</a>
+											<a href="Thailand1.php" rel="bookmark">PATTAYA –BANGKOK GATEWAY</a>
 										</h4></div>
-										<span class="post_date">7 DAYS 6 NIGHTS</span>
+										<span class="post_date">6 DAYS 5 NIGHTS</span>
 										<div class="description">
-											<p>Jump on a day tour with Australian Getaway Tours and see the roads less travelled.</p>
+											<!-- <p>Jump on a day tour with Australian Getaway Tours and see the roads less travelled.</p> -->
 										</div>
 									</div>
 									<div class="read_more">
@@ -50,18 +50,18 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="Australia1.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="Thailand1.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
 							<li class="item-tour col-md-6 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="Australia2.php">
+										<a href="Thailand2.php">
 											
 											</span>
 											
-											<img width="430" height="305" src="images/tour/430x305/AUSTRALIANMEMORIES.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
+											<img width="430" height="305" src="images/tour/430x305/pukhet.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="River Cruise"><i class="flaticon-transport-2"></i></a>
@@ -70,11 +70,11 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="Australia2.php" rel="bookmark">AUSTRALIAN MEMORIES</a>
+											<a href="Thailand2.php" rel="bookmark">PHUKET –BANGKOK FUN</a>
 										</h4></div>
-										<span class="post_date">9 DAYS 8 NIGHTS</span>
+										<span class="post_date">5 DAYS 4 NIGHTS</span>
 										<div class="description">
-											<p>Australian Memories is a novella featuring the memories of the author, Ndèye Labadens during her journey around the country </p>
+											<!-- <p>Australian Memories is a novella featuring the memories of the author, Ndèye Labadens during her journey around the country </p> -->
 										</div>
 									</div>
 									<div class="read_more">
@@ -85,16 +85,16 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="Australia2.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="Thailand2.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
 							<li class="item-tour col-md-6 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="Australia3.php">
+										<a href="Thailand3.php">
 											
-											<img width="430" height="305" src="images/tour/430x305/simply.jpg" alt="SIMPLY AUSTRALIA" title="SIMPLY AUSTRALIA">
+											<img width="430" height="305" src="images/tour/430x305/pukhetbank.jpg" alt="SIMPLY AUSTRALIA" title="SIMPLY AUSTRALIA">
 										</a>
 										<div class="group-icon">
 											<a href="tours.html" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Escorted Tour"><i class="flaticon-airplane-4"></i></a>
@@ -103,11 +103,11 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="Australia3.php" rel="bookmark">SIMPLY AUSTRALIA</a>
+											<a href="Thailand3.php" rel="bookmark">PHUKET –BANGKOK MAJIC WITH KRABI ISLAND</a>
 										</h4></div>
-										<span class="post_date">10 DAYS 9 NIGHTS</span>
+										<span class="post_date">7 DAYS 6 NIGHTS</span>
 										<div class="description">
-											<p>Australia, the smallest continent and one of the largest countries on Earth, lying between the Pacific and Indian oceans in the Southern Hemisphere.</p>
+											<!-- <p>Australia, the smallest continent and one of the largest countries on Earth, lying between the Pacific and Indian oceans in the Southern Hemisphere.</p> -->
 										</div>
 									</div>
 									<div class="read_more">
@@ -118,11 +118,11 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="Australia3.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="Thailand3.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
-							<li class="item-tour col-md-6 col-sm-6 product">
+							<!-- <li class="item-tour col-md-6 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
 										<a href="Australia4.php">
@@ -220,8 +220,7 @@
 										<a rel="nofollow" href="Australia6.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
-
-							</li>
+							</li> -->
 							<!-- <li class="item-tour col-md-6 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
@@ -345,8 +344,8 @@
 						<aside class="widget widget_travel_tour">
 							<div class="wrapper-special-tours">
 								<div class="inner-special-tours">
-									<a href="Australia1.php">
-										<img width="430" height="305" src="images/tour/430x305/auswestern.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE"></a>
+									<a href="Thailand1.php">
+										<img width="430" height="305" src="images/tour/430x305/pattaya.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE"></a>
 									<div class="item_rating">
 										<i class="fa fa-star"></i>
 										<i class="fa fa-star"></i>
@@ -355,16 +354,16 @@
 										<i class="fa fa-star-o"></i>
 									</div>
 									<div class="post_title"><h3>
-										<a href="Australia1.php" rel="bookmark">WESTERN TRIANGLE</a>
+										<a href="Thailand1.php" rel="bookmark">PATTAYA –BANGKOK GATEWAY</a>
 									</h3></div>
 									<div class="item_price">
 										>
 									</div>
 								</div>
 								<div class="inner-special-tours">
-									<a href="Australia2.php">
+									<a href="Thailand2.php">
 										
-										<img width="430" height="305" src="images/tour/430x305/AUSTRALIANMEMORIES.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE"></a>
+										<img width="430" height="305" src="images/tour/430x305/pukhet.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE"></a>
 									<div class="item_rating">
 										<i class="fa fa-star"></i>
 										<i class="fa fa-star"></i>
@@ -373,15 +372,15 @@
 										<i class="fa fa-star-o"></i>
 									</div>
 									<div class="post_title"><h3>
-										<a href="Australia2.php" rel="bookmark">AUSTRALIAN MEMORIES</a>
+										<a href="Thailand2.php" rel="bookmark">PHUKET –BANGKOK FUN</a>
 									</h3></div>
 									<div class="item_price">
 										
 									</div>
 								</div>
-								<div class="inner-special-tours">
-									<a href="Australia3.php">
-										<img width="430" height="305" src="images/tour/430x305/simply.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
+								<!-- <div class="inner-special-tours">
+									<a href="Thailand3.php">
+										<img width="430" height="305" src="images/tour/430x305/pukhetbank.jpg" alt="WESTERN TRIANGLE" title="WESTERN TRIANGLE">
 									</a>
 									<div class="item_rating">
 										<i class="fa fa-star"></i>
@@ -391,12 +390,12 @@
 										<i class="fa fa-star-o"></i>
 									</div>
 									<div class="post_title"><h3>
-										<a href="Australia3.php" rel="bookmark">SIMPLY AUSTRALIA</a>
+										<a href="Thailand3.php" rel="bookmark">PHUKET –BANGKOK MAJIC WITH KRABI ISLAND/a>
 									</h3></div>
 									<div class="item_price">
 										
 									</div>
-								</div>
+								</div> -->
 							</div>
 						</aside>
 					</div>

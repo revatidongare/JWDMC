@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en-US">
+<!DOCTYPE html >
+<html lang="en-US" style="width: 100%">
 <?php include'includes/head.php';?>
 <body class="transparent_home_page">
 <div class="wrapper-container">

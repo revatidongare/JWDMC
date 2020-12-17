@@ -99,7 +99,7 @@
 									<aside class="widget widget_travel_tour">
 										<div class="wrapper-special-tours">
 											<div class="inner-special-tours">
-												<a href="single-tour.html">
+												<a href="Australia1.php">
 													<img width="430" height="305" src="images/tour/430x305/auswestern.jpg" alt="AUSTRALIAN GETAWAY" title="AUSTRALIAN GETAWAY"></a>
 												<div class="item_rating">
 													<i class="fa fa-star"></i>
@@ -109,14 +109,14 @@
 													<i class="fa fa-star-o"></i>
 												</div>
 												<div class="post_title"><h3>
-													<a href="single-tour.html" rel="bookmark">AUSTRALIAN GETAWAY</a>
+													<a href="Australia1.php" rel="bookmark">AUSTRALIAN GETAWAY</a>
 												</h3></div>
 												<div class="item_price">
 													
 												</div>
 											</div>
 											<div class="inner-special-tours">
-												<a href="single-tour.html">
+												<a href="Australia2.php">
 													
 													<img width="430" height="305" src="images/tour/430x305/AUSTRALIANMEMORIES.jpg" alt="AUSTRALIAN MEMORIES" title="AUSTRALIAN MEMORIES"></a>
 												<div class="item_rating">
@@ -127,7 +127,7 @@
 													<i class="fa fa-star-o"></i>
 												</div>
 												<div class="post_title"><h3>
-													<a href="single-tour.html" rel="bookmark">AUSTRALIAN MEMORIES</a>
+													<a href="Australia2.php" rel="bookmark">AUSTRALIAN MEMORIES</a>
 												</h3></div>
 												<div class="item_price">
 										
@@ -135,7 +135,7 @@
 												</div>
 											</div>
 											<div class="inner-special-tours">
-												<a href="single-tour.html">
+												<a href="Australia3.php">
 													<img width="430" height="305" src="images/tour/430x305/simply.jpg" alt="AUSTRALIAN GETAWAY" title="AUSTRALIAN GETAWAY">
 												</a>
 												<div class="item_rating">
@@ -146,7 +146,7 @@
 													<i class="fa fa-star-o"></i>
 												</div>
 												<div class="post_title"><h3>
-													<a href="single-tour.html" rel="bookmark">SIMPLY AUSTRALIA</a>
+													<a href="Australia3.php" rel="bookmark">SIMPLY AUSTRALIA</a>
 												</h3></div>
 												<div class="item_price">
 													
