@@ -23,15 +23,15 @@
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="single-tour.html">
+										<a href="kerala1.php">
 											
-											<img width="430" height="305" src="images/himachal1.jpg" alt="Discover Brazil" title="Discover Brazil">
+											<img width="430" height="305" src="images/kerala/kerala1.jpg" alt="Discover Brazil" title="Discover Brazil">
 										</a>
 										<!--  -->
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Romantic Kerala -The Panaromic Gateway Resort</a>
+											<a href="kerala1.php" rel="bookmark">Romantic Kerala -The Panaromic Gateway Resort</a>
 										</h4>
 									</div>
 										<span class="post_date">Coming Soon</span>
@@ -46,7 +46,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="single-tour.html" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="kerala1.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
@@ -57,7 +57,7 @@
 											
 											
 											
-											<img width="430" height="305" src="images/kerala2.jpg" alt="Discover Brazil" title="Discover Brazil">
+											<img width="430" height="305" src="images/kerala/kerala2.jpg" alt="Discover Brazil" title="Discover Brazil">
 										</a>
 										
 									</div>
@@ -86,7 +86,7 @@
 									<div class="post_images">
 										<a href="single-tour.html">
 											
-											<img width="430" height="305" src="images/kerala3.jpg" alt="Discover Brazil" title="Discover Brazil">
+											<img width="430" height="305" src="images/kerala/kerala3.jpg" alt="Discover Brazil" title="Discover Brazil">
 										</a>
 										
 									</div>

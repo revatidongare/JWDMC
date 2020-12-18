@@ -38,7 +38,7 @@
                             <input class="input--style-1" type="text" placeholder="Username or Email Address" name="email">
                         </div>
                         <div class="input-group">
-                            <input class="input--style-1" type="text" placeholder="Password" name="Password">
+                            <input class="input--style-1" type="text" placeholder="Password" name="password">
                         </div>
                         
                             
@@ -46,7 +46,6 @@
                             
                          
                         <div class="p-t-20">
-
                             <button class="btn btn--radius btn--green"type="submit" name="login">Login</button>
                            
                         </div>

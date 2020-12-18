@@ -23,7 +23,7 @@
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="single-tour.html">
+										<a href="bali1.php">
 											
 											<img width="430" height="305" src="images/Bali/bali1.jpg"alt="Discover Brazil" title="Discover Brazil">
 										</a>
@@ -31,7 +31,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">BALI -KARMA KANDARA RESORT </a></h4>
+											<a href="bali1.php" rel="bookmark">BALI -KARMA KANDARA RESORT </a></h4>
 										</div>
 										<span class="post_date">Coming Soon</span>
 																					<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Day , Candle Light Dinner , Room Decoration  , Complimentary Cake , Two Glasses of Badaam Milk Every Night in Honeymoon room</marquee>
@@ -44,7 +44,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="single-tour.html" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="bali1.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>

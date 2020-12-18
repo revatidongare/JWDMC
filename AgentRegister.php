@@ -33,59 +33,59 @@
                 <div class="card-heading"></div>
                 <div class="card-body">
                     <h2 class="title">Registration For Agent</h2>
-                    <form method="POST">
+                    <form action="back.php" method="POST">
                         <div class="input-group">
                             <input class="input--style-1" type="text" placeholder="Travel Agency Name" name="name">
                         </div>
                         <div class="input-group">
-                            <input class="input--style-1" type="text" placeholder="Your Name" name="name">
+                            <input class="input--style-1" type="text" placeholder="Your Name" name="namee">
                         </div>
                          <div class="input-group">
-                            <input class="input--style-1" type="text" placeholder="Address" name="name">
+                            <input class="input--style-1" type="text" placeholder="Address" name="address">
                         </div>
                          <div class="row row-space">
                                 <div class="input-group col-2">
 
-                                 <input class="input--style-1" type="text" placeholder="City" name="name">
+                                 <input class="input--style-1" type="text" placeholder="City" name="city">
                                 </div>
                                 <div class="input-group col-2">
-                                     <input class="input--style-1" type="text" placeholder="State" name="name">   
+                                     <input class="input--style-1" type="text" placeholder="State" name="state">   
                                 </div>
                             </div>
                             <div class="row row-space">
                                 <div class="input-group col-2">
 
-                                 <input class="input--style-1" type="text" placeholder="Country" name="name">
+                                 <input class="input--style-1" type="text" placeholder="Country" name="country">
                                 </div>
                                 <div class="input-group col-2">
-                                     <input class="input--style-1" type="text" placeholder="Pincode" name="name">   
+                                     <input class="input--style-1" type="text" placeholder="Pincode" name="code">   
                                 </div>
                             </div>
                              <div class="row row-space">
                                 <div class="input-group col-2">
 
-                                 <input class="input--style-1" type="text" placeholder="Mobile No" name="name">
+                                 <input class="input--style-1" type="text" placeholder="Mobile No" name="mobileno">
                                 </div>
                                 <div class="input-group col-2">
-                                     <input class="input--style-1" type="text" placeholder="Whatsapp No" name="name">   
+                                     <input class="input--style-1" type="text" placeholder="Whatsapp No" name="whatsapp">   
                                 </div>
                             </div>
                             <div class="input-group">
-                            <input class="input--style-1" type="text" placeholder="E-mail" name="name">
+                            <input class="input--style-1" type="text" placeholder="E-mail" name="email">
                         </div>
                          <div class="row row-space">
                                 <div class="input-group col-2">
-                               <input class="input--style-1" type="text" placeholder="Password" name="name">   
+                               <input class="input--style-1" type="text" placeholder="Password" name="password">   
                         </div>
 
                                 
                                  <div class="input-group col-2">
 
-                                 <input class="input--style-1" type="text" placeholder="Present Occupation" name="name">
+                                 <input class="input--style-1" type="text" placeholder="Present Occupation" name="occupation">
                                  </div>
                                 </div>
                         <div class="p-t-20">
-                            <button class="btn btn--radius btn--green" type="submit">Submit</button>
+                            <button class="btn btn--radius btn--green" type="submit" name="submit">Submit</button>
                         </div>
                     </form>
                 </div>

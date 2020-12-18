@@ -26,13 +26,13 @@
 						<aside id="travel_login_register_from-2" class="widget widget_login_form">
 							<?php                 
                  if(isset($_SESSION['id'])){ ?>
-						<span data-toggle="modal" data-target="#loginmodal"class="show_from login"><i class="fa fa-user"></i>Login</span>
+						<span  class="show_from login"><a href="logout.php"><i class="fa fa-user"></i>Logout</a></span>
 						<?php }
 				else{?>
-						<span data-toggle="modal" data-target="#loginmodal"class="show_from login"><i class="fa fa-user"></i>Logout</span>
-						<?php }?>
+						<span data-toggle="modal" data-target="#loginmodal"class="show_from login"><i class="fa fa-user"></i>Login</span>
+						
 
-							<div class="form_popup from_login" tabindex="-1">
+							<!-- <div class="form_popup from_login" tabindex="-1">
 								<div class="inner-form">
 									<div class="closeicon"></div>
 									<h3>Login</h3>
@@ -55,9 +55,9 @@
 									</form>
 									<a href="#" title="Lost your password?" class="lost-pass">Lost your password?</a>
 								</div>
-							</div>
+							</div> -->
 						<span data-toggle="modal" data-target="#registermodal" class="register_btn">Register</span>
-							<div class="form_popup from_register" tabindex="-1">
+							<!-- <div class="form_popup from_register" tabindex="-1">
 								<div class="inner-form">
 									<div class="closeicon"></div>
 									<h3>Register</h3>
@@ -82,7 +82,8 @@
 										</p>
 									</form>
 								</div>
-							</div>
+							</div> -->
+							<?php }?>
 							<div class="background-overlay"></div>
 						</aside>
 					</div>

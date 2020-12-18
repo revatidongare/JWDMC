@@ -10,9 +10,9 @@
 				<video poster="images/video_slider.jpg" playsinline autoplay muted loop>
 					<source src="http://physcode.com/video/330149744.mp4" type="video/mp4">
 				</video>
-				<div class="content-slider"style="color: #2C3335">
+				<div class="content-slider"style="color: #eee">
 							<h1>LOVE THE PLACES </h1>
-							<h2 style="color: #2C3335">NEVER STOP EXPLORING </h2>
+							<h2 style="color: #eee">NEVER STOP EXPLORING </h2>
 						</div>
 			</div>
 
