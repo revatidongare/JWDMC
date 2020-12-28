@@ -22,24 +22,16 @@
 								<div class="images images_single_left">
 									<div class="title-single">
 										<div class="title">
-											<h1>BALI -KARMA KANDARA RESORT
+											<h1>BALI-NATURA RESORT AND SPA
 											</h1>
 										</div>
-										<!-- <div class="tour_code">
-											<strong>Code: </strong>LMJUYH
-										</div> -->
+										
 									</div>
 									<div class="tour_after_title">
 										<div class="meta_date">
 											<span>5 DAYS 4 NIGHTS</span>
 										</div>
-								<!-- <div class="meta_values">
-									<span>Category:</span>
-									<div class="value">
-										<a href="tours.html" rel="tag">Escorted Tour</a>,
-										<a href="tours.html" rel="tag">Rail Tour</a>
-									</div>
-								</div> -->
+								
 								<div class="tour-share">
 									<ul class="share-social">
 										<li>
@@ -60,7 +52,7 @@
 							<div id="slider" class="flexslider">
 								<ul class="slides">
 									<li>
-										<a href="images/Bali/bali1.jpg" class="swipebox" title=""><img width="950" height="700" src="images/Bali/bali1.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="images/Bali/bali3.jpg" class="swipebox" title=""><img width="950" height="700" src="images/Bali/bali3.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 									<li>
 										<a href="images/tour/AUSTRALIANMEMORIES.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
@@ -82,7 +74,7 @@
 							<div id="carousel" class="flexslider thumbnail_product">
 								<ul class="slides">
 									<li>
-										<img width="150" height="100" src="images/Bali/bali1.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="150" height="100" src="images/Bali/bali3.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
 										<img width="150" height="100" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
@@ -123,20 +115,24 @@
 										<div class="interary-item">
 											<p><span class="icon-left">1</span></p>
 											<div class="item_content">
-												<h2><strong>Day 1:Arrive at Bali</strong></h2>
+												<h2><strong>Day 1:Arrive at Bali
+</strong></h2>
 
 												<ul>
-													<p>On arrival at Bali Airport, meet and greet with our representative and transfer by road to the Resort. Check into resort and relax and enjoy the beauty of resort. In the evening you will have the Romantic Dinner in Residence with your loved one. You will be providing choice of your food and service from personalize bartender. Celebrate your memorable moment with your loved one.</p>
+													<p>On arrival at Bali Airport, meet and greet with our representative and transfer by road to the Resort. Check into resort and relax and enjoy the beauty of resort. In the evening you will have the Romantic Dinner in Residence with your loved one. You will be providing choice of your food and service from personalize bartender. Celebrate your memorable moment with your loved one.
+
+</p>
 												</ul>
 											</div>
 										</div>
 										<div class="interary-item">
 											<p><span class="icon-left">2</span></p>
 											<div class="item_content">
-												<h2><strong>Day 2:Private Half Day Tour Bali at a Glance​
+												<h2><strong>Day 2:Bali
 												</strong></h2>
 												<ul>
-												<p>Denpasar is Bali’s provincial capital and boasts two interesting and unique markets, Pasar Badung and Pasar Kumbasari which are both spread out over a four story building and trade different wares from morning to evening. After the markets, continue to the Bali Museum transfer by a traditional horse chart locally known as Dokar (based on availability), an old fashioned way to discover the growing city of Denpasar. Upon arrival at the museum, observe the traditional artefacts, collection of prehistoric pieces and valuable old paintings. Built in 1910 by the Dutch and destroyed by Bali’s largest earthquake in 1917, the museum was rebuilt in 1931. Continue to the Bali Art Centre, also known as Taman Budaya which is dedicated to the preservation of Balinese culture. To end this half day trip, visit the Balinese People Memorial, better known as Bajra Sandhi, which was built to commemorate Balinese heroes who fought against colonial rule.Later back to hotel and relax in the resort. Here your “60 Minute Spa Treatment at Spa Suite” waiting for you .Get yourself and your body relax from our expert massager.</p>
+												<p>Denpasar is Bali’s provincial capital and boasts two interesting and unique markets, Pasar Badung and Pasar Kumbasari which are both spread out over a four story building and trade different wares from morning to evening. After the markets, continue to the Bali Museum transfer by a traditional horse chart locally known as Dokar (based on availability), an old fashioned way to discover the growing city of Denpasar. Upon arrival at the museum, observe the traditional artefacts, collection of prehistoric pieces and valuable old paintings. Built in 1910 by the Dutch and destroyed by Bali’s largest earthquake in 1917, the museum was rebuilt in 1931. Continue to the Bali Art Centre, also known as Taman Budaya which is dedicated to the preservation of Balinese culture. To end this half day trip, visit the Balinese People Memorial, better known as Bajra Sandhi, which was built to commemorate Balinese heroes who fought against colonial rule.Later back to hotel and relax in the resort. Here your “60 Minute Spa Treatment at Spa Suite” waiting for you .Get yourself and your body relax from our expert massager.
+</p>
 												</ul>
 											</div>
 										</div>
@@ -191,7 +187,7 @@
 											<div id="reviews" class="travel_tour-Reviews">
 												<div id="comments">
 													<h2 class="travel_tour-Reviews-title">1 review for
-														<span>BALI -KARMA KANDARA RESORT</span></h2>
+														<span>BALI-NATURA RESORT AND SPA</span></h2>
 														<ol class="commentlist">
 															<li itemscope="" itemtype="http://schema.org/Review" class="comment byuser comment-author-physcode bypostauthor even thread-even depth-1" id="li-comment-62">
 																<div id="comment-62" class="comment_container">

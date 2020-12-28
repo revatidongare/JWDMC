@@ -33,7 +33,7 @@
 										<div class="post_title"><h4>
 											<a href="island1.php" rel="bookmark">ROMANTIC KOH SAMUI  WITH BANGKOK -KC RESORT SPECIAL  </a>
 										</h4></div>
-										<span class="post_date">Coming Soon</span>
+									
 										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
 
 										

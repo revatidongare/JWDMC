@@ -162,7 +162,7 @@
 										<ul class="sub-menu">
 											<li><a href="feel.php">Feel The Love Of South</a></li>
 
-											<li><a href="Himachal.php">Romantic Himachal</a></li>
+											<li><a href="himachal.php">Romantic Himachal</a></li>
 											<li><a href="kerala.php">Romantic Kerala</a></li>
 										</ul>
 									</li>
@@ -184,9 +184,9 @@
 							</li>
 							<li><a style="color:#192A56 "href="blog.html">Offers</a></li>
 
-							<li>
+							<!-- <li>
 								<a style="color:#192A56 "href="blog.html">Group Departure</a>
-							</li>
+							</li> -->
 
 
 							<li><a style="color:#192A56 "href="contact.php">Contact</a></li>
@@ -285,9 +285,9 @@
 							</li>
 							<li><a style="color:#192A56 "data-toggle="modal" data-target="#loginmodal">Offers</a></li>
 
-							<li>
+							<!-- <li>
 								<a style="color:#192A56 "data-toggle="modal" data-target="#loginmodal">Group Departure</a>
-							</li>
+							</li> -->
 
 
 							<li><a style="color:#192A56 "data-toggle="modal" data-target="#loginmodal">Contact</a></li>

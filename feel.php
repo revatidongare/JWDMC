@@ -33,7 +33,7 @@
 										<div class="post_title"><h4>
 											<a href="feel1.php" rel="bookmark">Honeymoon Special – Vyhtiri Resort</a></h4>
 										</div>
-										<span class="post_date">Coming Soon</span>
+										<!-- <span class="post_date">Coming Soon</span> -->
 																					<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Day , Candle Light Dinner , Room Decoration  , Complimentary Cake , Two Glasses of Badaam Milk Every Night in Honeymoon room</marquee>
 										
 									</div>
@@ -52,7 +52,7 @@
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="single-tour.html">
+										<a href="feel2.php">
 											
 											
 											
@@ -62,9 +62,9 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Romantic Coorg with Mysore</a>
+											<a href="feel2.php" rel="bookmark">Romantic Coorg with Mysore</a>
 										</h4></div>
-										<span class="post_date">Coming Soon</span>
+										<!-- <span class="post_date">Coming Soon</span> -->
 										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
 									</div>
 									<div class="read_more">
@@ -75,14 +75,14 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="single-tour.html" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="feel2.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="single-tour.html">
+										<a href="feel3.php">
 											
 											<img width="430" height="305" src="images/feel/430x305/feel3.jpg" alt="Discover Brazil" title="Discover Brazil">
 										</a>
@@ -90,9 +90,9 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="single-tour.html" rel="bookmark">Romantic Coorg with Mysore-1</a>
+											<a href="feel3.php" rel="bookmark">Romantic Coorg with Mysore-1</a>
 										</h4></div>
-										<span class="post_date">Coming Soon</span>
+										<!-- <span class="post_date">Coming Soon</span> -->
 										<marquee class="ubuntu-l" style="color:#ff7a59;font-size:18px;font-weight:bold;">Room Decoration on 1st Night, Kesar /Badam Milk every Night In The Coorg Resort, Candle Light Dinner, Chocolates,Cookies, Honeymoon Special Cake</marquee>
 
 										</div>
@@ -105,7 +105,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="single-tour.html" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="feel3.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>

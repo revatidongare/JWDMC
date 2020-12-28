@@ -9,7 +9,7 @@
 				<div class="banner-wrapper container article_heading">
 					<div class="breadcrumbs-wrapper">
 						<ul class="phys-breadcrumb">
-							<li><a href="bali.php" class="home">Honeymoon Special</a></li>
+							<li><a href="PhuketIsland.php" class="home">Honeymoon Special</a></li>
 
 						</ul>
 					</div>
@@ -22,7 +22,7 @@
 								<div class="images images_single_left">
 									<div class="title-single">
 										<div class="title">
-											<h1>BALI -KARMA KANDARA RESORT
+											<h1>ROMANTIC PHUKET -SAWASDEE VILLAGE RESORT 
 											</h1>
 										</div>
 										<!-- <div class="tour_code">
@@ -60,7 +60,7 @@
 							<div id="slider" class="flexslider">
 								<ul class="slides">
 									<li>
-										<a href="images/Bali/bali1.jpg" class="swipebox" title=""><img width="950" height="700" src="images/Bali/bali1.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="images/PhuketIsland/PhuketIsland1.jpg" class="swipebox" title=""><img width="950" height="700" src="images/PhuketIsland/PhuketIsland1.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 									<li>
 										<a href="images/tour/AUSTRALIANMEMORIES.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
@@ -82,7 +82,7 @@
 							<div id="carousel" class="flexslider thumbnail_product">
 								<ul class="slides">
 									<li>
-										<img width="150" height="100" src="images/Bali/bali1.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="150" height="100" src="images/PhuketIsland/PhuketIsland1.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
 										<img width="150" height="100" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
@@ -123,53 +123,87 @@
 										<div class="interary-item">
 											<p><span class="icon-left">1</span></p>
 											<div class="item_content">
-												<h2><strong>Day 1:Arrive at Bali</strong></h2>
+												<h2><strong>Day 1:Arrive Phuket
+												</strong></h2>
 
 												<ul>
-													<p>On arrival at Bali Airport, meet and greet with our representative and transfer by road to the Resort. Check into resort and relax and enjoy the beauty of resort. In the evening you will have the Romantic Dinner in Residence with your loved one. You will be providing choice of your food and service from personalize bartender. Celebrate your memorable moment with your loved one.</p>
+													<p>On Arrive at Phuket airport, then transfer by road to Phuket Hotel.Rest of the day at own leisure.Evening proceed for Simon Caberate Show. Get set for a glamorous night at the cabaret when you attend the vibrant Simon Cabaret Show. See a wide variety of acts played out with beautiful backdrops by dazzling men dressed as beautiful women in eye-catching costumes. Sit back and enjoy as the curtains part to reveal an elaborate stage with performers dressed in flamboyant, glittering costumes. Enjoy performances featuring tribal themes with dancers adorned with ornate, feathered headdresses before a quick stage change to a completely different scene.
+
+
+
+													</p>
 												</ul>
 											</div>
 										</div>
 										<div class="interary-item">
 											<p><span class="icon-left">2</span></p>
 											<div class="item_content">
-												<h2><strong>Day 2:Private Half Day Tour Bali at a Glance​
+												<h2><strong>Day 2:Phuket
 												</strong></h2>
 												<ul>
-												<p>Denpasar is Bali’s provincial capital and boasts two interesting and unique markets, Pasar Badung and Pasar Kumbasari which are both spread out over a four story building and trade different wares from morning to evening. After the markets, continue to the Bali Museum transfer by a traditional horse chart locally known as Dokar (based on availability), an old fashioned way to discover the growing city of Denpasar. Upon arrival at the museum, observe the traditional artefacts, collection of prehistoric pieces and valuable old paintings. Built in 1910 by the Dutch and destroyed by Bali’s largest earthquake in 1917, the museum was rebuilt in 1931. Continue to the Bali Art Centre, also known as Taman Budaya which is dedicated to the preservation of Balinese culture. To end this half day trip, visit the Balinese People Memorial, better known as Bajra Sandhi, which was built to commemorate Balinese heroes who fought against colonial rule.Later back to hotel and relax in the resort. Here your “60 Minute Spa Treatment at Spa Suite” waiting for you .Get yourself and your body relax from our expert massager.</p>
-												</ul>
+												<b>PHI PHI ISLAND TOUR BY SEA ANGELS + LUNCH</b>
+
+												<p>In the morning, after breakfast, proceed for Phi Phi Island Tour By Sea Angel + Lunch It is the topic of conversation for travellers all over Thailand. A Phi Phi Island tour is the most popular activity in the region. Phi Phi Islands are situated 40 km south-east of Phuket and consist of six islands. The major ones being Phi Phi Don, which hosts the bohemian town of Phi Phi Islands, and Phi PhiLeh with Maya Bay which featured in the movie "The Beach". Phi Phi Islands are famous for its limestone cliffs rising sheer out of the emerald green waters, white powdery beaches and its many coral reefs offering great diving and snorkeling. All Phi Phi Island tours will take you for great sightseeing, swimming and snorkeling at Maya Bay, LohSamah Bay, Pileh Cove, Viking Cave and Monkey Beach. Later in the evening back to hotel. Overnight stay in Phuket. (Breakfast+Lunch)
+
+
+
+
+												</p>
+											</ul>
+												
 											</div>
 										</div>
 										<div class="interary-item">
 											<p><span class="icon-left">3</span></p>
 											<div class="item_content">
-												<h2><strong>Day 3:Bali</strong></h2>
+												<h2><strong>Day 3:Phuket
+												</strong></h2>
 												<ul>
-													<p>n the morning, after having breakfast, get relax in the resort. Later in the evening proceed for “Sunset Dinner Cruise and Live Cabaret Show”.As the sun sets over the horizon and the sky changes to shades of deep orange, purple and red, cruise along the harbour enjoying the views and a delicious dinner buffet.
+													<b>JAMES BOND ISLAND TOUR +LUNCH
+													</b>
+													<!-- <h2>Paris night tour with Lido show</h2> -->
+													<p>Joining a James Bond Island tour and cruise the Phang Nga Bay is the second most popular activity in the region. The area is situated 25 km north-east of Phuket. It consists of numerous dramatic limestone cliffs rising sheer out of the waters. The most famous one being James Bond Island with its needle formed limestone rock which featured in the James Bond movie "The Man with the Golden Gun". The Muslim fishing village on the island Koh Panyee is another popular spot to visit. Later back to hotel. Overnight stay in Phuket. (Breakfast+ Lunch )
+
+
+
+
+
 													</p>
-													<h4>Highlights</h4>
-													<p> Welcome cocktail and canapes
-												     Dinner buffet served on board
-												 Live music and cabaret show to round off the evening
-													Come on board and set sail along the harbour. As the day turns into night, you can savour the appetising sunset views across the island of Bali and make it an evening to remember with an onboard dinner buffet and exciting live entertainment and cabaret show.We welcome you on board with a cocktail and canapes which you can sip on the open-air deck as the balmy evening breezes envelop you. The picture-perfect sunsets as seen in the guide books will be yours to enjoy as we begin the cruise. An international buffet dinner will be served up followed by live music and a cabaret show to complete your experience on board. For an evening of unforgettable views and lively entertainment, don’t miss out on this sunset dinner cruise. Back to hotel and relax in the resort.</p>
-												</ul>
+													</ul>
 												</div>
 											</div>
 											<div class="interary-item">
 												<p><span class="icon-left">4</span></p>
 												<div class="item_content">
-													<h2><strong>Day 4 :Bali</strong></h2>
+													<h2><strong>Day 4 :Phuket
+
+													</strong></h2>
 													<ul>
-													<p>In the morning, proceed for 'Half Day Jungle Hopper tour.' The exciting and adventurous Safari Journey is one of our signature activities here at the park that takes the visitor through the habitats of Indonesia, India and Africa. Coming face to face with many animals, the visitors has the opportunity to see our wildlife living naturally all together in these open range regions and you get to takes as many photos as you like, all from the comfort and safety of your air-conditioned safari tram, with your very own personal guide. Later back to hotel and relax the resort.</p>
+													<p>Whole day at own leisure. Get relax on beach or you may take participation in optional activities like river rafting and elephant trekking or you may go to full day Krabi Island tour or any other activity. All by additional cost. Overnight stay in Phuket.
+
+
+
+
+
+													</p>
 												</ul>
 												</div>
 											</div>
 											<div class="interary-item">
 												<p><span class="icon-left">5</span></p>
 												<div class="item_content">
-													<h2><strong>Day 5: Bali​</strong></h2>
+													<h2><strong>Day 5:Departure
+
+													</strong></h2>
 													<ul>
-													<p>In the morning, check out from hotel and transfer to airport by road for homeward journey.
+													<p>After having breakfast, rest in the hotel or go for shopping. Later in the afternoon, transfer by road to Airport. Tour End.
+
+
+
+
+
+
+
 
 
 
@@ -177,7 +211,22 @@
 												</ul>
 												</div>
 											</div>
-											
+											<!-- <div class="interary-item">
+												<p><span class="icon-left">6</span></p>
+												<div class="item_content">
+													<h2><strong>Day 6:Departure</strong></h2>
+													<p>After having breakfast,check out from hotel and transfer by road to Airport for homeward journey
+
+													</p>
+												</div>
+											</div> -->
+											<!-- <div class="interary-item">
+												<p><span class="icon-left">5</span></p>
+												<div class="item_content">
+													<h2><strong>Day 5:</strong></h2>
+													<p>Will reach Delhi at around 08 AM</p>
+												</div>
+											</div> -->
 											
 											
 											
@@ -191,7 +240,7 @@
 											<div id="reviews" class="travel_tour-Reviews">
 												<div id="comments">
 													<h2 class="travel_tour-Reviews-title">1 review for
-														<span>BALI -KARMA KANDARA RESORT</span></h2>
+														<span>ROMANTIC PHUKET -SAWASDEE VILLAGE RESORT</span></h2>
 														<ol class="commentlist">
 															<li itemscope="" itemtype="http://schema.org/Review" class="comment byuser comment-author-physcode bypostauthor even thread-even depth-1" id="li-comment-62">
 																<div id="comment-62" class="comment_container">

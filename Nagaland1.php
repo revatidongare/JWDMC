@@ -9,7 +9,7 @@
 				<div class="banner-wrapper container article_heading">
 					<div class="breadcrumbs-wrapper">
 						<ul class="phys-breadcrumb">
-							<li><a href="bali.php" class="home">Honeymoon Special</a></li>
+							<li><a href="Nagaland.php" class="home">Honeymoon Special</a></li>
 
 						</ul>
 					</div>
@@ -22,7 +22,7 @@
 								<div class="images images_single_left">
 									<div class="title-single">
 										<div class="title">
-											<h1>BALI -KARMA KANDARA RESORT
+											<h1>Culture Of Nagaland
 											</h1>
 										</div>
 										<!-- <div class="tour_code">
@@ -31,7 +31,7 @@
 									</div>
 									<div class="tour_after_title">
 										<div class="meta_date">
-											<span>5 DAYS 4 NIGHTS</span>
+											<span>6 DAYS 5 NIGHTS</span>
 										</div>
 								<!-- <div class="meta_values">
 									<span>Category:</span>
@@ -60,7 +60,7 @@
 							<div id="slider" class="flexslider">
 								<ul class="slides">
 									<li>
-										<a href="images/Bali/bali1.jpg" class="swipebox" title=""><img width="950" height="700" src="images/Bali/bali1.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="images/Nagalandimg/naga1.jpg" class="swipebox" title=""><img width="950" height="700" src="images/Nagalandimg/naga1.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 									<li>
 										<a href="images/tour/AUSTRALIANMEMORIES.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
@@ -82,7 +82,7 @@
 							<div id="carousel" class="flexslider thumbnail_product">
 								<ul class="slides">
 									<li>
-										<img width="150" height="100" src="images/Bali/bali1.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="150" height="100" src="images/Nagalandimg/naga1.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
 										<img width="150" height="100" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
@@ -118,66 +118,142 @@
 									</li>
 								</ul>
 								<div class="tab-content">
-									
+									<!-- <div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--description panel entry-content wc-tab active" id="tab-description">
+										<h2>Product Description</h2>
+										<p>Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. </p>
+										<p>It is the world's sixth-largest country by total area. Australia is the land of adventure. It is one of the most popular destinations on the planet for backpackers and luxury travellers alike.</p>
+										<table class="tours-tabs_table">
+											<tbody>
+												<tr>
+													<td><strong>DEPARTURE/RETURN LOCATION</strong></td>
+													<td>Brisbane Airport for flight back home</td>
+												</tr>
+												<tr>
+													<td><strong>DEPARTURE TIME</strong></td>
+													<td>Please arrive at least&nbsp;2 hours before the flight.</td>
+												</tr>
+												<tr>
+													<td><strong>INCLUDED</strong></td>
+													<td>
+														<table>
+															<tbody>
+																<tr>
+																	<td><i class="fa fa-check icon-tick icon-tick--on"></i>Airfare
+																	</td>
+																	<td><i class="fa fa-check icon-tick icon-tick--on"></i>Accommodations
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<i class="fa fa-check icon-tick icon-tick--on"></i>2 days cruise
+																	</td>
+																	<td>
+																		<i class="fa fa-check icon-tick icon-tick--on"></i>Professional guide
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+												</tr>
+												<tr>
+													<td><b>NOT INCLUDED</b></td>
+													<td>
+														<table>
+															<tbody>
+																<tr>
+																	<td>
+																		<i class="fa fa-times icon-tick icon-tick--off"></i>Entrance fees
+																	</td>
+																</tr>
+																<tr>
+																	<td><i class="fa fa-times icon-tick icon-tick--off"></i>Guide&nbsp;gratuity
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+										<p> Australia is the land of adventure. It is one of the most popular destinations on the planet for backpackers and luxury travellers alike.</p>
+										
+									</div> -->
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--itinerary_tab panel entry-content wc-tab" id="tab-itinerary_tab">
 										<div class="interary-item">
 											<p><span class="icon-left">1</span></p>
 											<div class="item_content">
-												<h2><strong>Day 1:Arrive at Bali</strong></h2>
+												<h2><strong>Day 1:Arrive Mauritius – Day at leisure</strong></h2>
 
 												<ul>
-													<p>On arrival at Bali Airport, meet and greet with our representative and transfer by road to the Resort. Check into resort and relax and enjoy the beauty of resort. In the evening you will have the Romantic Dinner in Residence with your loved one. You will be providing choice of your food and service from personalize bartender. Celebrate your memorable moment with your loved one.</p>
+													<p>Welcome to Mauritius!!! Arrive at the Port Louis Airport, proceed for a transfer from the Airport to Hotel. While the rest of your day is free at leisure. Stay overnight at hotel / resort in Mauritius
+
+													</p>
 												</ul>
 											</div>
 										</div>
 										<div class="interary-item">
 											<p><span class="icon-left">2</span></p>
 											<div class="item_content">
-												<h2><strong>Day 2:Private Half Day Tour Bali at a Glance​
+												<h2><strong>Day 2:Visit Pamplemousses Garden, City Tour, Caudan Waterfront (North Tour): -
 												</strong></h2>
-												<ul>
-												<p>Denpasar is Bali’s provincial capital and boasts two interesting and unique markets, Pasar Badung and Pasar Kumbasari which are both spread out over a four story building and trade different wares from morning to evening. After the markets, continue to the Bali Museum transfer by a traditional horse chart locally known as Dokar (based on availability), an old fashioned way to discover the growing city of Denpasar. Upon arrival at the museum, observe the traditional artefacts, collection of prehistoric pieces and valuable old paintings. Built in 1910 by the Dutch and destroyed by Bali’s largest earthquake in 1917, the museum was rebuilt in 1931. Continue to the Bali Art Centre, also known as Taman Budaya which is dedicated to the preservation of Balinese culture. To end this half day trip, visit the Balinese People Memorial, better known as Bajra Sandhi, which was built to commemorate Balinese heroes who fought against colonial rule.Later back to hotel and relax in the resort. Here your “60 Minute Spa Treatment at Spa Suite” waiting for you .Get yourself and your body relax from our expert massager.</p>
-												</ul>
+												
+												<p>After breakfast, proceed on a panoramic city tour of Port Louis the capital of Mauritius, next to the Caudan Waterfront and recreation centre which includes Citadelle Fort, Jumbo Hyper Market. Later you could opt to visit the Pamplemousses Royal Botanical Gardens (at a supplement cost). You may also experience optional activity of Blue Safari or Sub-Scooter (at a supplement cost). Stay overnight at hotel / resort in Mauritius.
+
+												</p>
+												
 											</div>
 										</div>
 										<div class="interary-item">
 											<p><span class="icon-left">3</span></p>
 											<div class="item_content">
-												<h2><strong>Day 3:Bali</strong></h2>
+												<h2><strong>Day 3:Free Time</strong></h2>
 												<ul>
-													<p>n the morning, after having breakfast, get relax in the resort. Later in the evening proceed for “Sunset Dinner Cruise and Live Cabaret Show”.As the sun sets over the horizon and the sky changes to shades of deep orange, purple and red, cruise along the harbour enjoying the views and a delicious dinner buffet.
+													<!-- <h2>Paris night tour with Lido show</h2> -->
+													<p>Whole day get relax and enjoy yourself on beautiful beaches
+
+
 													</p>
-													<h4>Highlights</h4>
-													<p> Welcome cocktail and canapes
-												     Dinner buffet served on board
-												 Live music and cabaret show to round off the evening
-													Come on board and set sail along the harbour. As the day turns into night, you can savour the appetising sunset views across the island of Bali and make it an evening to remember with an onboard dinner buffet and exciting live entertainment and cabaret show.We welcome you on board with a cocktail and canapes which you can sip on the open-air deck as the balmy evening breezes envelop you. The picture-perfect sunsets as seen in the guide books will be yours to enjoy as we begin the cruise. An international buffet dinner will be served up followed by live music and a cabaret show to complete your experience on board. For an evening of unforgettable views and lively entertainment, don’t miss out on this sunset dinner cruise. Back to hotel and relax in the resort.</p>
-												</ul>
+													
 												</div>
 											</div>
 											<div class="interary-item">
 												<p><span class="icon-left">4</span></p>
 												<div class="item_content">
-													<h2><strong>Day 4 :Bali</strong></h2>
-													<ul>
-													<p>In the morning, proceed for 'Half Day Jungle Hopper tour.' The exciting and adventurous Safari Journey is one of our signature activities here at the park that takes the visitor through the habitats of Indonesia, India and Africa. Coming face to face with many animals, the visitors has the opportunity to see our wildlife living naturally all together in these open range regions and you get to takes as many photos as you like, all from the comfort and safety of your air-conditioned safari tram, with your very own personal guide. Later back to hotel and relax the resort.</p>
-												</ul>
+													<h2><strong>Day 4 :Visit Troux Aux Cerfs & Chamarel (South Tour)
+													</strong></h2>
+													
+													<p>After breakfast, proceed for a tour of Floreal shop Factories, dead volcano of Trou Aux Cerfs, Mare aux Vacoas fresh water reservoir, the sacred lake of Grand Basin, Black River Gorges and the seven colored earth of Chamarel. Stay overnight at hotel / resort in Mauritius.
+
+													</p>
 												</div>
 											</div>
 											<div class="interary-item">
 												<p><span class="icon-left">5</span></p>
 												<div class="item_content">
-													<h2><strong>Day 5: Bali​</strong></h2>
-													<ul>
-													<p>In the morning, check out from hotel and transfer to airport by road for homeward journey.
+													<h2><strong>Day 5:Visit - Ile Aux Cerfs
+													</strong></h2>
+													<p>After breakfast, leave for Ile Aux Cerfs which is a large island found in the east coast of Mauritius. Ile Aux Cerfs is a paradise for water sports having excellent beaches for swimming, snorkeling and shallow lagoons. The Highlight of the visit is “The Under Sea Walk” at extra cost. Stay overnight at hotel / resort in Mauritius.
+
 
 
 
 													</p>
-												</ul>
 												</div>
 											</div>
-											
+											<div class="interary-item">
+												<p><span class="icon-left">6</span></p>
+												<div class="item_content">
+													<h2><strong>Day 6: Depart Mauritius</strong></h2>
+													<p>After your last breakfast in Mauritius, proceed to the airport for your home bound flight.</p>
+												</div>
+											</div>
+											<!-- <div class="interary-item">
+												<p><span class="icon-left">5</span></p>
+												<div class="item_content">
+													<h2><strong>Day 5:</strong></h2>
+													<p>Will reach Delhi at around 08 AM</p>
+												</div>
+											</div> -->
 											
 											
 											
@@ -191,7 +267,7 @@
 											<div id="reviews" class="travel_tour-Reviews">
 												<div id="comments">
 													<h2 class="travel_tour-Reviews-title">1 review for
-														<span>BALI -KARMA KANDARA RESORT</span></h2>
+														<span>Culture Of Nagaland</span></h2>
 														<ol class="commentlist">
 															<li itemscope="" itemtype="http://schema.org/Review" class="comment byuser comment-author-physcode bypostauthor even thread-even depth-1" id="li-comment-62">
 																<div id="comment-62" class="comment_container">
