@@ -13,5 +13,4 @@
 	<link rel="stylesheet" href="style.css" type="text/css" media="all">
 	<link rel="stylesheet" href="assets/css/travel-setting.css" type="text/css" media="all">
 	<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-	
 </head>

@@ -7,7 +7,7 @@
 						<aside id="text-15" class="widget_text">
 							<div class="textwidget">
 								<ul class="top_bar_info clearfix">
-									<li><i class="fa fa-clock-o"></i>Mon-Sat 8.00 - 7.00. [Sunday CLOSED]</li>
+									<!-- <li><i class="fa fa-clock-o"></i>Mon-Sat 8.00 - 7.00. [Sunday CLOSED]</li> -->
 								</ul>
 							</div>
 						</aside>
@@ -16,7 +16,7 @@
 						<aside id="text-7" class="widget widget_text">
 							<div class="textwidget">
 								<ul class="top_bar_info clearfix">
-									<li><i class="fa fa-phone"></i> +0123456789</li>
+									<li><i class="fa fa-phone"></i> +91 20-48601029</li>
 									<li class="hidden-info">
 										<i class="fa fa-map-marker"></i> Kalyani Nagar,Pune,India
 									</li>
@@ -111,15 +111,50 @@
 
 						<li class="current-menu-ancestor current-menu-parent">
 							<a style="color:#192A56"href="index.php">Home</a>
-							<!-- <ul class="sub-menu">
-								<li><a href="index.html">Home 1 – Video Slider</a></li>
-								<li><a href="home-2.html">Home 2 – Image Slider</a></li>
-								<li><a href="home-3.html">Home 3 – Background Image</a></li>
-								<li><a href="home-4.html">Home 4</a></li>
- 							</ul> -->
 						</li>
-						<li class="menu-item-has-children">
-								<a style="color:#192A56 "href="Australia.php">International Destination</a>
+						<li><a style="color:#192A56" href="about.php">About us</a></li>
+						<li><a style="color:#192A56 "href="index.php">Holidays</a>
+								<ul class="sub-menu">
+									<li><a href="index.php">Domestic</a>
+									<ul class="sub-menu">
+									<li><a href="index.php">North East</a>
+									<ul class="sub-menu">
+									<li><a href="Arunachal.php">Arunachal Pradesh</a></li>
+									<li><a href="Nagaland.php">Nagaland</a></li>
+									<li><a href="tours.html">Mizoram</a></li>
+									<li><a href="tours-3-cols.html">Manipur</a></li>
+									<li><a href="tours-4-cols.html">Tripura</a></li>
+									<li><a href="tours-4-cols.html">Assam</a></li>
+										</ul>
+									</li>
+								</ul>
+									<li><a href="#">International</a>
+										<ul class="sub-menu" style="overflow-y: scroll; height: 200px">
+
+									<li><a href="Australia.php">Australia</a></li>
+									<li><a href="tours-list.html">Unseen Thailand</a></li>
+									<li><a href="Thailand.php">Thailand</a></li>
+									<li><a href="tours.html">South Korea</a></li>
+									<li><a href="tours-3-cols.html">Vietnam</a></li>
+									<li><a href="tours-4-cols.html">Kambodia</a></li>
+									<li><a href="tours-4-cols.html">Isreal</a></li>
+									<li><a href="tours-4-cols.html">Taiwan</a></li>
+									<li><a href="tours-4-cols.html">Scandinavian Countries</a></li>
+									<li><a href="tours-4-cols.html">Philippines</a></li>
+									<li><a href="tours-4-cols.html">French Islands Like Reunion Island</a></li>
+									<li><a href="tours-4-cols.html">Madagascar</a></li>
+									<li><a href="tours-4-cols.html">Zanzibar</a></li>
+									<li><a href="tours-4-cols.html">Spanish Islands Like Formentera</a></li>
+									<li><a href="tours-4-cols.html">Costa Brava</a></li>
+									<li><a href="tours-4-cols.html"> Ibiza</a></li>
+									<li><a href="tours-4-cols.html"> Gran Canaria</a></li>
+									<li><a href="tours-4-cols.html"> Minorca And Some More</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+						<!-- <li class="menu-item-has-children">
+								<a style="color:#192A56 "href="Australia.php">International Destinations</a>
 								<ul class="sub-menu">				
 									<li><a href="Australia.php">Australia</a></li>
 									<li><a href="tours-list.html">Unseen Thailand</a></li>
@@ -140,10 +175,10 @@
 									<li><a href="tours-4-cols.html"> Gran Canaria</a></li>
 									<li><a href="tours-4-cols.html"> Minorca And Some More</a></li>
 								</ul>
-							</li>
+							</li> -->
 
 						<!-- <li><a href="destinations.html">Destinations</a></li> -->
-						<li class="menu-item-has-children">
+						<!-- <li class="menu-item-has-children">
 								<a style="color:#192A56 "href="tours.html">North East</a>
 								<ul class="sub-menu">				
 									
@@ -155,7 +190,7 @@
 									<li><a href="tours-4-cols.html">Assam </a></li>
 									
 								</ul>
-							</li>		
+							</li>		 -->
 						<li><a style="color:#192A56 "href="destinations.html">Honeymoon Special</a>
 								<ul class="sub-menu">
 									<li><a href="single-tour.html">Domestic</a>
@@ -182,14 +217,14 @@
 									</li>
 								</ul>
 							</li>
-							<li><a style="color:#192A56 "href="blog.html">Offers</a></li>
-
+							<!-- <li><a style="color:#192A56" href="blog.html">Offers</a></li> -->
+<!--  -->
 							<!-- <li>
 								<a style="color:#192A56 "href="blog.html">Group Departure</a>
 							</li> -->
+<li><a style="color:#1048d8" href="http://www.journeyworldcreations.com/">JW Creations</a></li>
 
-
-							<li><a style="color:#192A56 "href="contact.php">Contact</a></li>
+							<li><a style="color:#192A56" href="contact.php">Contact</a></li>
 
 
 						<!-- <li class="menu-item-has-children">
@@ -219,8 +254,9 @@
 								<li><a href="home-4.html">Home 4</a></li>
  							</ul> -->
 						</li>
-						<li class="menu-item-has-children">
-								<a style="color:#192A56" data-toggle="modal" data-target="#loginmodal">International Destination</a>
+							<li><a style="color:#192A56 " data-toggle="modal" data-target="#loginmodal">About us</a></li>
+					<!-- 	<li class="menu-item-has-children">
+								<a style="color:#192A56" data-toggle="modal" data-target="#loginmodal">International Destinations</a>
 								<ul class="sub-menu">				
 									<li><a data-toggle="modal" data-target="#loginmodal">Australia</a></li>
 									<li><a data-toggle="modal" data-target="#loginmodal">Unseen Thailand</a></li>
@@ -241,10 +277,10 @@
 									<li><a data-toggle="modal" data-target="#loginmodal"> Gran Canaria</a></li>
 									<li><a data-toggle="modal" data-target="#loginmodal"> Minorca And Some More</a></li>
 								</ul>
-							</li>
+							</li> -->
 
 						<!-- <li><a href="destinations.html">Destinations</a></li> -->
-						<li class="menu-item-has-children">
+						<!-- <li class="menu-item-has-children">
 								<a style="color:#192A56 "data-toggle="modal" data-target="#loginmodal">North East</a>
 								<ul class="sub-menu">				
 									
@@ -256,7 +292,47 @@
 									<li><a data-toggle="modal" data-target="#loginmodal">Assam </a></li>
 									
 								</ul>
-							</li>		
+							</li>		 -->
+							<li><a style="color:#192A56 "data-toggle="modal" data-target="#loginmodal">Holidays</a>
+								<ul class="sub-menu">
+									<li><a data-toggle="modal" data-target="#loginmodal">Domestic</a>
+										<ul class="sub-menu">
+											<li><a href="index.php">North East</a>
+									<ul class="sub-menu">
+											<li><a data-toggle="modal" data-target="#loginmodal">Arunachal Pradesh</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">Nagaland</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">Mizoram</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">Manipur</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">Tripura</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">Assam </a></li>
+										</ul>
+									</li>
+								</ul>
+									<li><a href="#">International</a>
+										<ul class="sub-menu" style="overflow-y: scroll; height: 200px">
+
+											<li><a data-toggle="modal" data-target="#loginmodal">Australia</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">Unseen Thailand</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">Thailand</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">South Korea</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">Vietnam</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">Kambodia</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">Isreal</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">Taiwan</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">Scandinavian Countries</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">Philippines</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">French Islands Like Reunion Island</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">Madagascar</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">Zanzibar</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">Spanish Islands Like Formentera</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal">Costa Brava</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal"> Ibiza</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal"> Gran Canaria</a></li>
+									<li><a data-toggle="modal" data-target="#loginmodal"> Minorca And Some More</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
 						<li><a style="color:#192A56 "data-toggle="modal" data-target="#loginmodal">Honeymoon Special</a>
 								<ul class="sub-menu">
 									<li><a data-toggle="modal" data-target="#loginmodal">Domestic</a>
@@ -283,14 +359,13 @@
 									</li>
 								</ul>
 							</li>
-							<li><a style="color:#192A56 "data-toggle="modal" data-target="#loginmodal">Offers</a></li>
-
+							<!--   -->
 							<!-- <li>
 								<a style="color:#192A56 "data-toggle="modal" data-target="#loginmodal">Group Departure</a>
 							</li> -->
+<li><a style="color:#1048d8" href="http://www.journeyworldcreations.com/" target="_blank">JW Creations</a></li>
 
-
-							<li><a style="color:#192A56 "data-toggle="modal" data-target="#loginmodal">Contact</a></li>
+							<li><a style="color:#192A56 " href="contact.php">Contact</a></li>
 
 
 						<!-- <li class="menu-item-has-children">

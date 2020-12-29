@@ -31,11 +31,11 @@
 										<div class="des">A:Shop No. C , Commercial House,Jupiter CHS Near Ganesh Temple,Kalyani Nagar</div>
 									</li>
 									<li><label><i class="fa fa-phone"></i>TEL NO</label>
-										<div class="des"> +0123456789</div>
+										<div class="des"> +91 20-48601029</div>
 									</li>
-									<li><label><i class="fa fa-print"></i>FAX NO</label>
+									<!-- <li><label><i class="fa fa-print"></i>FAX NO</label>
 										<div class="des">+012345678 (tour) | +123456789 (ticketing)</div>
-									</li>
+									</li> -->
 									<li><label><i class="fa fa-envelope"></i>EMAIL</label>
 										<div class="des">paresh@travelogholiday.com</div>
 									</li>

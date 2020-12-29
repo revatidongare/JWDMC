@@ -349,67 +349,56 @@
 			<div class="section-white padding-top-6x padding-bottom-6x tours-type">
 				<div class="container">
 					<div class="shortcode_title title-center title-decoration-bottom-center">
-						<div class="title_subtitle">Find a Tour by</div>
-						<h3 class="title_primary">DESTINATION</h3><span class="line_after_title"></span>
+						
+						<h3 class="title_primary">Our Ventures</h3><span class="line_after_title"></span>
 					</div>
 					<div class="wrapper-tours-slider wrapper-tours-type-slider">
 						<div class="tours-type-slider" data-dots="true" data-nav="true" data-responsive='{"0":{"items":1}, "480":{"items":2}, "768":{"items":3}, "992":{"items":4}, "1200":{"items":5}}'>
 							<div class="tours_type_item">
 								<a href="tours.html" class="tours-type__item__image">
-									<img src="images/city/26003147786_a04226cd2f_o.jpg" alt="Brazil">
+									<img src="images/city/client-1.png" alt="Brazil">
 								</a>
-								<div class="content-item">
-									<div class="item__title">Brazil</div>
-								</div>
+								
 							</div>
 							<div class="tours_type_item">
 								<a href="tours.html" class="tours-type__item__image">
-									<img src="images/city/24987002020_29d3944b4f_o.jpg" alt="Philippines">
+									<img src="images/city/client-2.png" alt="Philippines">
 								</a>
-								<div class="content-item">
+								<!-- <div class="content-item">
 									<div class="item__title">Philippines</div>
-								</div>
+								</div> -->
 							</div>
 							<div class="tours_type_item">
 								<a href="tours.html" class="tours-type__item__image">
-									<img src="images/city/25816508131_00e16429b8_o.jpg" alt="Italy">
+									<img src="images/city/client-3.png" alt="Italy">
 								</a>
-								<div class="content-item">
-									<div class="item__title">Italy</div>
-								</div>
+								
 							</div>
 							<div class="tours_type_item">
 								<a href="tours.html" class="tours-type__item__image">
-									<img src="images/city/photo-1474181487882-5abf3f0ba6c2.jpg" alt="USA">
+									<img src="images/city/client-55.png" alt="Canada">
 								</a>
-								<div class="content-item">
-									<div class="item__title">USA</div>
-								</div>
+								
 							</div>
 							<div class="tours_type_item">
 								<a href="tours.html" class="tours-type__item__image">
-									<img src="images/city/25656857141_edcdf5e6e3_o.jpg" alt="Canada">
+									<img src="images/city/client-4.png" alt="USA">
 								</a>
-								<div class="content-item">
-									<div class="item__title">Canada</div>
-								</div>
+								
 							</div>
+							
 							<div class="tours_type_item">
 								<a href="tours.html" class="tours-type__item__image">
-									<img src="images/city/26003147786_a04226cd2f_o.jpg" alt="Cuba">
+									<img src="images/city/log.png" alt="Cuba">
 								</a>
-								<div class="content-item">
-									<div class="item__title">Cuba</div>
-								</div>
+							
 							</div>
-							<div class="tours_type_item">
+							<!-- <div class="tours_type_item">
 								<a href="tours.html" class="tours-type__item__image">
-									<img src="images/city/25656857141_edcdf5e6e3_o.jpg" alt="Brazil">
+									<img src="images/city/uturn.png"alt="Brazil">
 								</a>
-								<div class="content-item">
-									<div class="item__title">Brazil</div>
-								</div>
-							</div>
+								
+							</div> -->
 						</div>
 					</div>
 				</div>
