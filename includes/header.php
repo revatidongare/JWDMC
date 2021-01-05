@@ -222,7 +222,7 @@
 							<!-- <li>
 								<a style="color:#192A56 "href="blog.html">Group Departure</a>
 							</li> -->
-<li><a style="color:#1048d8" href="http://www.journeyworldcreations.com/">JW Creations</a></li>
+<li class="blink"><a  style="color:#1048d8" href="http://www.journeyworldcreations.com/">JW Creations</a></li>
 
 							<li><a style="color:#192A56" href="contact.php">Contact</a></li>
 
