@@ -25,7 +25,7 @@
 									<div class="post_images">
 										<a href="maldiv1.php">
 											
-											<img width="430" height="305" src="images/Maldiv/maldiv1.jpg"" alt="Discover Brazil" title="Discover Brazil">
+											<img width="430" height="305" src="images/Maldiv/maldiv1.jpg" alt="Discover Brazil" title="Discover Brazil">
 										</a>
 										<!--  -->
 									</div>

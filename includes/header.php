@@ -30,59 +30,9 @@
 						<?php }
 				else{?>
 						<span data-toggle="modal" data-target="#loginmodal"class="show_from login"><i class="fa fa-user"></i>Login</span>
-						
-
-							<!-- <div class="form_popup from_login" tabindex="-1">
-								<div class="inner-form">
-									<div class="closeicon"></div>
-									<h3>Login</h3>
-									<form name="loginform" id="loginform" action="#" method="post">
-										<p class="login-username">
-											<label for="user_login">Username or Email Address</label>
-											<input type="text" name="log" id="user_login" class="input" value="" size="20">
-										</p>
-										<p class="login-password">
-											<label for="user_pass">Password</label>
-											<input type="password" name="pwd" id="user_pass" class="input" value="" size="20">
-										</p>
-										<p class="login-remember">
-											<label><input name="rememberme" type="checkbox" id="rememberme" value="forever"> Remember Me</label>
-										</p>
-										<p class="login-submit">
-											<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary" value="Log In">
-											<input type="hidden" name="redirect_to" value="">
-										</p>
-									</form>
-									<a href="#" title="Lost your password?" class="lost-pass">Lost your password?</a>
-								</div>
-							</div> -->
+					
 						<span data-toggle="modal" data-target="#registermodal" class="register_btn">Register</span>
-							<!-- <div class="form_popup from_register" tabindex="-1">
-								<div class="inner-form">
-									<div class="closeicon"></div>
-									<h3>Register</h3>
-									<form method="post" class="register">
-										<p class="form-row">
-											<label for="reg_username">Username <span class="required">*</span></label>
-											<input type="text" class="input" name="username" id="reg_username" value="" autocomplete="off">
-										</p>
-										<p class="form-row">
-											<label for="reg_email">Email address <span class="required">*</span></label>
-											<input type="email" class="input" name="email" id="reg_email" value="">
-										</p>
-										<p class="form-row">
-											<label for="reg_password">Password <span class="required">*</span></label>
-											<input type="password" class="input" name="password" id="reg_password">
-										</p>
-										<div style="left: -999em; position: absolute;">
-											<label for="trap">Anti-spam</label><input type="text" name="email_2" id="trap" tabindex="-1" autocomplete="off">
-										</div>
-										<p class="form-row">
-											<input type="submit" class="button" name="register" value="Register">
-										</p>
-									</form>
-								</div>
-							</div> -->
+
 							<?php }?>
 							<div class="background-overlay"></div>
 						</aside>
@@ -153,57 +103,17 @@
 									</li>
 								</ul>
 							</li>
-						<!-- <li class="menu-item-has-children">
-								<a style="color:#192A56 "href="Australia.php">International Destinations</a>
-								<ul class="sub-menu">				
-									<li><a href="Australia.php">Australia</a></li>
-									<li><a href="tours-list.html">Unseen Thailand</a></li>
-									<li><a href="Thailand.php">Thailand</a></li>
-									<li><a href="tours.html">South Korea</a></li>
-									<li><a href="tours-3-cols.html">Vietnam</a></li>
-									<li><a href="tours-4-cols.html">Kambodia</a></li>
-									<li><a href="tours-4-cols.html">Isreal</a></li>
-									<li><a href="tours-4-cols.html">Taiwan</a></li>
-									<li><a href="tours-4-cols.html">Scandinavian Countries</a></li>
-									<li><a href="tours-4-cols.html">Philippines</a></li>
-									<li><a href="tours-4-cols.html">French Islands Like Reunion Island</a></li>
-									<li><a href="tours-4-cols.html">Madagascar</a></li>
-									<li><a href="tours-4-cols.html">Zanzibar</a></li>
-									<li><a href="tours-4-cols.html">Spanish Islands Like Formentera</a></li>
-									<li><a href="tours-4-cols.html">Costa Brava</a></li>
-									<li><a href="tours-4-cols.html"> Ibiza</a></li>
-									<li><a href="tours-4-cols.html"> Gran Canaria</a></li>
-									<li><a href="tours-4-cols.html"> Minorca And Some More</a></li>
-								</ul>
-							</li> -->
-
-						<!-- <li><a href="destinations.html">Destinations</a></li> -->
-						<!-- <li class="menu-item-has-children">
-								<a style="color:#192A56 "href="tours.html">North East</a>
-								<ul class="sub-menu">				
-									
-									<li><a href="Arunachal.php">Arunachal Pradesh</a></li>
-									<li><a href="Nagaland.php">Nagaland</a></li>
-									<li><a href="tours.html">Mizoram</a></li>
-									<li><a href="tours-3-cols.html">Manipur</a></li>
-									<li><a href="tours-4-cols.html">Tripura</a></li>
-									<li><a href="tours-4-cols.html">Assam </a></li>
-									
-								</ul>
-							</li>		 -->
 						<li><a style="color:#192A56 "href="destinations.html">Honeymoon Special</a>
 								<ul class="sub-menu">
 									<li><a href="single-tour.html">Domestic</a>
 										<ul class="sub-menu">
 											<li><a href="feel.php">Feel The Love Of South</a></li>
-
 											<li><a href="himachal.php">Romantic Himachal</a></li>
 											<li><a href="kerala.php">Romantic Kerala</a></li>
 										</ul>
 									</li>
 									<li><a href="#">International</a>
 										<ul class="sub-menu" style="overflow-y: scroll; height: 200px">
-
 											<li><a href="bali.php">Romantic Bali</a></li>
 											<li><a href="europe.php">Romantic Europe</a></li>
 											<li><a href="island.php">Romantic Koh Samui Island</a></li>
@@ -222,22 +132,9 @@
 							<!-- <li>
 								<a style="color:#192A56 "href="blog.html">Group Departure</a>
 							</li> -->
-<li class="blink"><a  style="color:#1048d8" href="http://www.journeyworldcreations.com/">JW Creations</a></li>
+<li class="blink"><a  style="color:#1048d8" href="http://www.journeyworldcreations.com/" target="_blank">JW Creations</a></li>
 
 							<li><a style="color:#192A56" href="contact.php">Contact</a></li>
-
-
-						<!-- <li class="menu-item-has-children">
-							<a href="#">Pages</a>
-							<ul class="sub-menu">
-
-
-								<li><a href="gallery.html">Gallery</a></li>
-								<li><a href="travel-tips.html">Travel Tips</a></li>
-								<li><a href="typography.html">Typography</a></li>
-								<li><a href="checkout.html">Checkout</a></li>
-							</ul>
-						</li> -->
 						
 						
 					</ul>
@@ -247,52 +144,9 @@
 
 						<li class="current-menu-ancestor current-menu-parent">
 							<a style="color:#192A56" data-toggle="modal" data-target="#loginmodal">Home</a>
-							<!-- <ul class="sub-menu">
-								<li><a href="index.html">Home 1 – Video Slider</a></li>
-								<li><a href="home-2.html">Home 2 – Image Slider</a></li>
-								<li><a href="home-3.html">Home 3 – Background Image</a></li>
-								<li><a href="home-4.html">Home 4</a></li>
- 							</ul> -->
 						</li>
 							<li><a style="color:#192A56 " data-toggle="modal" data-target="#loginmodal">About us</a></li>
-					<!-- 	<li class="menu-item-has-children">
-								<a style="color:#192A56" data-toggle="modal" data-target="#loginmodal">International Destinations</a>
-								<ul class="sub-menu">				
-									<li><a data-toggle="modal" data-target="#loginmodal">Australia</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">Unseen Thailand</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">Thailand</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">South Korea</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">Vietnam</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">Kambodia</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">Isreal</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">Taiwan</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">Scandinavian Countries</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">Philippines</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">French Islands Like Reunion Island</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">Madagascar</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">Zanzibar</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">Spanish Islands Like Formentera</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">Costa Brava</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal"> Ibiza</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal"> Gran Canaria</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal"> Minorca And Some More</a></li>
-								</ul>
-							</li> -->
-
-						<!-- <li><a href="destinations.html">Destinations</a></li> -->
-						<!-- <li class="menu-item-has-children">
-								<a style="color:#192A56 "data-toggle="modal" data-target="#loginmodal">North East</a>
-								<ul class="sub-menu">				
-									
-									<li><a data-toggle="modal" data-target="#loginmodal">Arunachal Pradesh</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">Nagaland</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">Mizoram</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">Manipur</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">Tripura</a></li>
-									<li><a data-toggle="modal" data-target="#loginmodal">Assam </a></li>
-									
-								</ul>
-							</li>		 -->
+				
 							<li><a style="color:#192A56 "data-toggle="modal" data-target="#loginmodal">Holidays</a>
 								<ul class="sub-menu">
 									<li><a data-toggle="modal" data-target="#loginmodal">Domestic</a>
@@ -363,7 +217,7 @@
 							<!-- <li>
 								<a style="color:#192A56 "data-toggle="modal" data-target="#loginmodal">Group Departure</a>
 							</li> -->
-<li><a style="color:#1048d8" href="http://www.journeyworldcreations.com/" target="_blank">JW Creations</a></li>
+<li class="blink"><a  style="color:#1048d8" href="http://www.journeyworldcreations.com/" target="_blank">JW Creations</a></li>
 
 							<li><a style="color:#192A56 " href="contact.php">Contact</a></li>
 
@@ -403,14 +257,14 @@
 										<br><br>
 										<a class="btn rounded-pill" style="background-color: silver" href="AgentRegister.php" onmousedown="beep3.play()">
 											<!-- <i class="fa fa-close"></i> -->
-										Agent</a>
+										Agent Register</a>
 									</div>
 									<div class="col-lg-6 mx-auto raised">
 										<img class="img-fluid mb-5" src="images/corporate.png" alt="">
 										<br><br>
 										<a class="btn rounded-pill" style="background-color: silver" href="CorporateRegister.php" onmousedown="beep3.play()">
 											<!-- <i class="fa fa-close"></i> -->
-										Corporate Agent</a>
+										Corporate Register</a>
 									</div>
 
 								</div>
@@ -441,7 +295,7 @@
 										<br><br>
 										<a class="btn rounded-pill" style="background-color: silver" href="AgentLogin.php" onmousedown="beep3.play()">
 											<!-- <i class="fa fa-close"></i> -->
-										Agent</a>
+										Agent Login</a>
 									</div>
 									<div class="col-lg-6 mx-auto raised">
 										
@@ -449,7 +303,7 @@
 										<br><br>
 										<a class="btn rounded-pill" style="background-color: silver" href="Corporatelogin.php" onmousedown="beep3.play()">
 											<!-- <i class="fa fa-close"></i> -->
-										Corporate Agent</a>
+										Corporate Login</a>
 									</div>
 
 								</div>

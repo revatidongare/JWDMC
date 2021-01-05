@@ -37,19 +37,19 @@
 										<div class="des">+012345678 (tour) | +123456789 (ticketing)</div>
 									</li> -->
 									<li><label><i class="fa fa-envelope"></i>EMAIL</label>
-										<div class="des">paresh@travelogholiday.com</div>
+										<div class="des">contact@journeyworlddmc.com</div>
 									</li>
-									<li>
+									<!-- <li>
 										<label><i class="fa fa-clock-o"></i>WORKING HOURS</label>
 										<div class="des">Mon-Sat 8.00 - 7.00. [Sunday CLOSED]
 											<br>
 											We are closed on Sundays &amp; public holidays
-										</div>
+										</div> -->
 									</li>
-									<li>
+									<!-- <li>
 										<label><i class="fa fa-map-marker"></i>GPS COORDINATE</label>
 										<div class="des">Latitude : 3.1117181000, Longitude : 101.7301577000</div>
-									</li>
+									</li> -->
 								</ul>
 							</div>
 						</div>

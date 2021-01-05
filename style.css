@@ -957,7 +957,7 @@ input[type=radio]:checked:before {
 }
 
 .tours-type-slider .tours_type_item .tours-type__item__image img {
-	border-radius: 50%;
+	
 }
 
 .tours-type-slider .tours_type_item .tours-type__item__image:hover {

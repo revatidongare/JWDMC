@@ -11,10 +11,10 @@
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
 						<li><a href="index.html" class="home">Home</a></li>
-						<li>AboutUs</li>
+						<li>About Us</li>
 					</ul>
 				</div>
-				<h1 class="heading_primary">AboutUs</h1></div>
+				<h1 class="heading_primary">About Us</h1></div>
 		</div>
 
 		<section class="content-area">
@@ -24,7 +24,7 @@
 						 <div class="row about-cols">
              <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
               <div class="about-col">
-              <b>After having a successful set up of Travelog Holidays in 2013,for 06 Years & having an enumerable experience of Travel Industry,Mr.Paresh decided to offer some Offbeat Unexplored Destinations for Indian Tourists,opened a new venture called as Journey World Destination Management Pvt.Ltd.Pune in March-2019.His ability to research about the product & certification from Frankfinn Institue adds more to the company.His vision is to offer new,unexplored destinations which are not majorly explored by Indians...makes it more special.After having a successful set up of Travelog Holidays in 2013,for 06 Years & having an enumerable experience of Travel Industry,Mr.Paresh decided to offer some Offbeat Unexplored Destinations for Indian Tourists,opened a new venture called as Journey World Destination Management Pvt.Ltd.Pune in March-2019.His ability to research about the product & certification from Frankfinn Institue adds more to the company.his vision is to offer new,unexplored destinations which are not majorly explored by Indians....makes it more special.his aim is to open more presence in Indian & Global Market.</b>
+              After having a successful set up of <b>Travelog Holidays in 2013</b>,for 06 Years & having an enumerable experience of Travel Industry,<b>Mr.Paresh</b> decided to offer some Offbeat <b>Unexplored Destinations</b> for Indian Tourists,opened a new venture called as <b>Journey World Destination Management Pvt.Ltd.Pune</b> in <b>March-2019</b>.His ability to research about the product & certification from Frankfinn Institue adds more to the company.His vision is to offer new,unexplored destinations which are not majorly explored by Indians...makes it more special.
               <p></p>
               <p></p>
               <p></p>
@@ -39,8 +39,7 @@
                 </div>
                 <h2 class="title"><a href="#">Our Mission</a></h2>
                 <p>
-                  <b>To Provide Digital and Offiline Support to every business in this revolution era of Itnernet Market.</b>
-
+                  <b>To Provide B2B support to our parterns in this revolutionary era of holiday Market.</b>
                 </p>
               </div>
             </div>
@@ -53,7 +52,7 @@
               </div>
               <h2 class="title"><a href="#">Our Vision</a></h2>
               <p>
-              <b>To be the number 01 Digital Media Company in India.</b>
+              <b>To be the number 01 Destination Management Company in India.</b>
              </p>
            </div>
          </div>
@@ -61,6 +60,69 @@
 </div>
 					
 					</div>
+					<div class="section-white padding-top-6x padding-bottom-6x tours-type">
+				<div class="container">
+					<div class="shortcode_title title-center title-decoration-bottom-center">
+						
+						<h3 class="title_primary">Our Ventures</h3><span class="line_after_title"></span>
+					</div>
+					<div class="wrapper-tours-slider wrapper-tours-type-slider">
+						<div class="tours-type-slider" data-dots="true" data-nav="true" data-responsive='{"0":{"items":1}, "480":{"items":2}, "768":{"items":3}, "992":{"items":4}, "1200":{"items":5}}'>
+							<div class="tours_type_item">
+								<a href="tours.html" target="_blank" class="tours-type__item__image">
+									<img src="images/city/client-1.png" alt="Brazil">
+								</a>
+								
+							</div>
+							<div class="tours_type_item">
+								<a href="https://www.journeyworlddmc.com/" target="_blank" class="tours-type__item__image">
+									<img src="images/city/client-2.png" alt="Philippines">
+								</a>
+								<!-- <div class="content-item">
+									<div class="item__title">Philippines</div>
+								</div> -->
+							</div>
+							<div class="tours_type_item">
+								<a href="http://travelogholiday.com/" target="_blank" class="tours-type__item__image">
+									<img src="images/city/client-3.png" alt="Italy">
+								</a>
+								
+							</div>
+							<div class="tours_type_item">
+								<a href="http://www.trustudoctor.com/" target="_blank" class="tours-type__item__image">
+									<img src="images/city/client-55.png" alt="Canada">
+								</a>
+								
+							</div>
+							<div class="tours_type_item">
+								<a href="http://travelogimmigration.com/" target="_blank" class="tours-type__item__image">
+									<img src="images/city/client-4.png" alt="USA">
+								</a>
+								
+							</div>
+							
+							<div class="tours_type_item">
+								<a href="http://www.farmerstudy.com/" target="_blank" class="tours-type__item__image">
+									<img src="images/city/log.png" alt="Cuba">
+								</a>
+							
+							</div>
+							<div class="tours_type_item">
+								<a href="tours.html" target="_blank" class="tours-type__item__image">
+									<img src="images/city/cab.jpg" alt="Cuba">
+								</a>
+							
+							</div>
+							<!-- <div class="tours_type_item">
+								<a href="tours.html" class="tours-type__item__image">
+									<img src="images/city/uturn.png"alt="Brazil">
+								</a>
+								
+							</div> -->
+						</div>
+					</div>
+				</div>
+			</div>
 					<div class="widget-area col-sm-3 align-left">
 						<aside class="widget widget_text">
 							<img src="images/images-sidebar/sidebanner-ticketing.jpg" alt="">
