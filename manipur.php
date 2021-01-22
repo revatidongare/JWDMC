@@ -14,7 +14,7 @@
 						<li>North East</li>
 					</ul>
 				</div>
-				<h1 class="heading_primary">Tripura</h1></div>
+				<h1 class="heading_primary">Manipur</h1></div>
 		</div>
 		<section class="content-area">
 			<div class="container">

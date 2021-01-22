@@ -22,7 +22,7 @@
 						<div class="images images_single_left">
 							<div class="title-single">
 								<div class="title">
-									<h1>Cultural Heritage</h1>
+									<h1>Akhaura Integrated Check Post</h1>
 								</div>
 								
 							</div>
@@ -57,7 +57,7 @@
 							<div id="slider" class="flexslider">
 								<ul class="slides">
 									<li>
-										<a href="images/Tripura/cultureheritage.jpg" class="swipebox" title=""><img width="430" height="305" src="images/Tripura/cultureheritage.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="images/Tripura/akhura.jpg" class="swipebox" title=""><img width="430" height="350" src="images/Tripura/akhura.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 									<li>
 										<a href="images/tour/AUSTRALIANMEMORIES.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
@@ -79,7 +79,7 @@
 							<div id="carousel" class="flexslider thumbnail_product">
 								<ul class="slides">
 									<li>
-										<img width="150" height="100" src="images/Tripura/cultureheritage.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="150" height="100" src="images/Tripura/neermahal.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
 										<img width="150" height="100" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
@@ -117,8 +117,8 @@
 								<div class="tab-content">
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--description panel entry-content wc-tab active" id="tab-description">
 										<h2>Product Description</h2>
-										<p>The State of Tripura, with a geographical area of 10,491 sq. kms, is predominantly a hilly region. </p>
-										<p>It is surrounded on all sides by deltaic basin of Bangladesh except for a small part in North-East which adjoins Cachar district of Assam and Mizoram </p>
+										<p>The first Integrated Checkpost along Agartala - Akhaura, India - Bangladesh border was jointly inaugurated on 17 November 2013 by Union Home Minister Sushilkumar Shinde and his Bangladeshi counterpart Mohiuddin Khan Alamgir.</p>
+										<p>The chief Mister of Tripura, Manik Sarkar was also present on the occasion.</p>
 										<table class="tours-tabs_table">
 											<tbody>
 											<tr>
@@ -170,7 +170,7 @@
 											</tr>
 											</tbody>
 										</table>
-										<p> Tripura is a landlocked state in North East India, where the seven contiguous states – Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland and Tripura – are collectively known as the Seven Sister States. </p>
+										<p>This integrated checkpost has been created to facilitate easier movement for the goods and passengers across the border and this will help in promoting the relations between India and Bangladesh.</p>
 										
 									</div>
 									

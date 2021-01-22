@@ -22,7 +22,7 @@
 						<div class="images images_single_left">
 							<div class="title-single">
 								<div class="title">
-									<h1>Cultural Heritage</h1>
+									<h1>Unakoti Archaeological Site</h1>
 								</div>
 								
 							</div>
@@ -57,7 +57,7 @@
 							<div id="slider" class="flexslider">
 								<ul class="slides">
 									<li>
-										<a href="images/Tripura/cultureheritage.jpg" class="swipebox" title=""><img width="430" height="305" src="images/Tripura/cultureheritage.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="images/Tripura/unakoti.jpg" class="swipebox" title=""><img width="430" height="305" src="images/Tripura/unakoti.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 									<li>
 										<a href="images/tour/AUSTRALIANMEMORIES.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
@@ -79,7 +79,7 @@
 							<div id="carousel" class="flexslider thumbnail_product">
 								<ul class="slides">
 									<li>
-										<img width="150" height="100" src="images/Tripura/cultureheritage.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="150" height="100" src="images/Tripura/neermahal.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
 										<img width="150" height="100" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
@@ -117,8 +117,8 @@
 								<div class="tab-content">
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--description panel entry-content wc-tab active" id="tab-description">
 										<h2>Product Description</h2>
-										<p>The State of Tripura, with a geographical area of 10,491 sq. kms, is predominantly a hilly region. </p>
-										<p>It is surrounded on all sides by deltaic basin of Bangladesh except for a small part in North-East which adjoins Cachar district of Assam and Mizoram </p>
+										<p>It is ‘Shaiba’ (Saivite) pilgrimage and dates back to 7th – 9th centuries if not earlier.</p>
+										<p>The marvellous rock carvings, murals with their primitive beauty, waterfalls are not to be missed.</p>
 										<table class="tours-tabs_table">
 											<tbody>
 											<tr>
@@ -170,12 +170,12 @@
 											</tr>
 											</tbody>
 										</table>
-										<p> Tripura is a landlocked state in North East India, where the seven contiguous states – Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland and Tripura – are collectively known as the Seven Sister States. </p>
+										<p>As per Hindu mythology, when Lord Shiva was going to Kashi along with one crore gods and goddesses he made a night halt at this location. He asked all the gods and goddesses to wake up before sun rise and proceed for Kashi.</p>
 										
 									</div>
 									
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--location_tab panel entry-content wc-tab" id="tab-location_tab">
-										<p>Agartala, West Tripura</p>
+										<p>178 km. from Agartala, 8 km. from Kailashahar, district head quarter of North Tripura District.</p>
 										<div class="wrapper-gmap">
 											<div id="googleMapCanvas" class="google-map" data-lat="50.893577" data-long="-1.393483" data-address="European Way, Southampton, United Kingdom"></div>
 										</div>

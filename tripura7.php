@@ -22,7 +22,7 @@
 						<div class="images images_single_left">
 							<div class="title-single">
 								<div class="title">
-									<h1>Cultural Heritage</h1>
+									<h1>Sepahijala Wildlife Sanctuary & Clouded Leopard National Park</h1>
 								</div>
 								
 							</div>
@@ -57,7 +57,7 @@
 							<div id="slider" class="flexslider">
 								<ul class="slides">
 									<li>
-										<a href="images/Tripura/cultureheritage.jpg" class="swipebox" title=""><img width="430" height="305" src="images/Tripura/cultureheritage.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="images/Tripura/leopard.jpg" class="swipebox" title=""><img width="430" height="305" src="images/Tripura/leopard.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 									<li>
 										<a href="images/tour/AUSTRALIANMEMORIES.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
@@ -79,7 +79,7 @@
 							<div id="carousel" class="flexslider thumbnail_product">
 								<ul class="slides">
 									<li>
-										<img width="150" height="100" src="images/Tripura/cultureheritage.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="150" height="100" src="images/Tripura/pilak.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
 										<img width="150" height="100" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
@@ -91,7 +91,7 @@
 										<img width="150" height="100" src="images/tour/Highlight.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
-										<img width="150" height="100" src="images/tour/tour-5.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+							0			<img width="150" height="100" src="images/tour/tour-5.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
 										<img width="150" height="100" src="images/tour/tour-6.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
@@ -117,8 +117,8 @@
 								<div class="tab-content">
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--description panel entry-content wc-tab active" id="tab-description">
 										<h2>Product Description</h2>
-										<p>The State of Tripura, with a geographical area of 10,491 sq. kms, is predominantly a hilly region. </p>
-										<p>It is surrounded on all sides by deltaic basin of Bangladesh except for a small part in North-East which adjoins Cachar district of Assam and Mizoram </p>
+										<p>Sepahijala wildlife sanctuary is truly the biodiversity heaven of Tripura with an area of 18.53km.</p>
+										<p>With the increase in population, there was considerable pressure threatening to diminish the forest cover and the related biodiversity of the Sepahijala area.</p>
 										<table class="tours-tabs_table">
 											<tbody>
 											<tr>
@@ -170,12 +170,12 @@
 											</tr>
 											</tbody>
 										</table>
-										<p> Tripura is a landlocked state in North East India, where the seven contiguous states – Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland and Tripura – are collectively known as the Seven Sister States. </p>
+										<p>The avian population of the sanctuary is also rich with a variety of winged stork, Whistling teal and the White ibis.</p>
 										
 									</div>
 									
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--location_tab panel entry-content wc-tab" id="tab-location_tab">
-										<p>Agartala, West Tripura</p>
+										<p>From Agartala 28 km.</p>
 										<div class="wrapper-gmap">
 											<div id="googleMapCanvas" class="google-map" data-lat="50.893577" data-long="-1.393483" data-address="European Way, Southampton, United Kingdom"></div>
 										</div>
