@@ -73,7 +73,7 @@
 									<li><a href="Nagaland.php">Nagaland</a></li>
 									<li><a href="tours.html">Mizoram</a></li>
 									<li><a href="tours-3-cols.html">Manipur</a></li>
-									<li><a href="tours-4-cols.html">Tripura</a></li>
+									<li><a href="Tripura.php">Tripura</a></li>
 									<li><a href="tours-4-cols.html">Assam</a></li>
 										</ul>
 									</li>
