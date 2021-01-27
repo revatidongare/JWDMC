@@ -24,19 +24,19 @@
 							<li class="item-tour col-md-6 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="Tripura1.php">
+										<a href="manipur1.php">
 											
-											<img width="430" height="305" src="images/Tripura/Cultureheritage.jpg" alt="Cultural Heritage" title="Cultural Heritage">
+											<img width="430" height="305" src="images/Manipur/history.jpg" alt="History of Manipur" title="History of Manipur">
 										</a>
 										
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="Tripura1.php" rel="bookmark">Cultural Heritage</a>
+											<a href="manipur1.php" rel="bookmark">History of Manipur</a>
 										</h4></div>
 										<!-- <span class="post_date">7 DAYS 6 NIGHTS</span> -->
 										<div class="description">
-											<p>‘Cultural Relativism' and ‘Cultural Mosaic' dominate scholarly.</p>
+											<p>One of the remarkable events in the history of Manipur.</p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -47,7 +47,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="Tripura1.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="manipur1.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
@@ -56,19 +56,19 @@
 							<li class="item-tour col-md-6 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="Tripura2.php">
+										<a href="manipur2.php">
 											
-											<img width="430" height="305" src="images/Tripura/neermahal.jpg" alt="Neermahal Water Palace" title="Neermahal Water Palace">
+											<img width="430" height="305" src="images/Manipur/loktat.jpg" alt="Loktat Lake" title="Loktat Lake">
 										</a>
 										
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="Tripura2.php" rel="bookmark">Neermahal Water Palace</a>
+											<a href="manipur2.php" rel="bookmark">Loktat Lake</a>
 										</h4></div>
 										<!-- <span class="post_date">7 DAYS 6 NIGHTS</span> -->
 										<div class="description">
-											<p>Neermahal literally means Water Palace.</p>
+											<p>The largest freshwater lake in northeast India.</p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -79,7 +79,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="Tripura1.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="manipur2.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
@@ -88,19 +88,19 @@
 							<li class="item-tour col-md-6 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="Tripura3.php">
+										<a href="manipur3.php">
 											
-											<img width="430" height="305" src="images/Tripura/bhubaneshwaritemple.jpg" alt="Bhubaneshwari Temple" title="Bhubaneshwari Temple">
+											<img width="430" height="305" src="images/manipur/orchid.jpg" alt="Khonghampat Orchidarium" title="Khonghampat Orchidarium">
 										</a>
 										
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="Tripura3.php" rel="bookmark">Bhubaneshwari Temple</a>
+											<a href="manipur3.php" rel="bookmark">Khonghampat Orchidarium</a>
 										</h4></div>
 										<!-- <span class="post_date">7 DAYS 6 NIGHTS</span> -->
 										<div class="description">
-											<p>Bhubaneswari Temple is a Hindu temple located in Tripura.</p>
+											<p>A paradise of orchids with more than 110.</p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -111,7 +111,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="Tripura3.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="manipur3.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
@@ -120,19 +120,19 @@
 							<li class="item-tour col-md-6 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="Tripura4.php">
+										<a href="manipur4.php">
 											
-											<img width="430" height="305" src="images/Tripura/akhura.jpg" alt="Akhaura Integrated Check Post" title="Akhaura Integrated Check Post">
+											<img width="430" height="305" src="images/Manipur/shirui.jpg" alt="Shirui Hills" title="Shirui Hills">
 										</a>
 										
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="Tripura4.php" rel="bookmark">Akhaura Integrated Check Post</a>
+											<a href="manipur4.php" rel="bookmark">Shirui Hills</a>
 										</h4></div>
 										<!-- <span class="post_date">7 DAYS 6 NIGHTS</span> -->
 										<div class="description">
-											<p>The Agartala-Akhaura check post is the second largest trading centre with Bangladesh</p>
+											<p>A scenic hill-top panorama covered with stretches of vibrant wildflowers and the rare state flower</p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -143,7 +143,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="Tripura4.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="manipur4.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
@@ -152,19 +152,19 @@
 							<li class="item-tour col-md-6 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="Tripura5.php">
+										<a href="manipur5.php">
 											
-											<img width="430" height="305" src="images/Tripura/unakoti.jpg" alt="Unakoti Archaeological Site" title="Unakoti Archaeological Site">
+											<img width="430" height="305" src="images/Manipur/cave.jpg" alt="Khangkhui Lime Caves" title="Khangkhui Lime Caves">
 										</a>
 										
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="Tripura5.php" rel="bookmark">Unakoti Archaeological Site</a>
+											<a href="manipur5.php" rel="bookmark">Khangkhui Lime Caves</a>
 										</h4></div>
 										<!-- <span class="post_date">7 DAYS 6 NIGHTS</span> -->
 										<div class="description">
-											<p>Tripura has beautiful rock cut carvings at Unakoti.</p>
+											<p>An unparalleled experience not to be missed.</p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -175,7 +175,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="Tripura5.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="manipur5.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
@@ -184,19 +184,19 @@
 							<li class="item-tour col-md-6 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="tripura6.php">
+										<a href="manipur6.php">
 											
-											<img width="430" height="305" src="images/Tripura/pilak.jpg" alt="Pilak Archaeological Sites" title="Pilak Archaeological Sites">
+											<img width="430" height="305" src="images/Manipur/valley.jpg" alt="Dzuko Valley" title="Dzuko Valley">
 										</a>
 										
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="tripura6.php" rel="bookmark">Pilak Archaeological Sites</a>
+											<a href="manipur6.php" rel="bookmark">Dzuko Valley</a>
 										</h4></div>
 										<!-- <span class="post_date">7 DAYS 6 NIGHTS</span> -->
 										<div class="description">
-											<p>The place is a treasure house of Buddhist and Hindu sculptures.</p>
+											<p>Untouched nature, an offbeat trek from Manipur to Nagaland.</p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -207,7 +207,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="Tripura6.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="manipur6.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
@@ -217,19 +217,19 @@
 							<li class="item-tour col-md-6 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="tripura7.php">
+										<a href="manipur7.php">
 											
-											<img width="430" height="305" src="images/Tripura/leopard.jpg" alt="Sepahijala Wildlife Sanctuary & Clouded Leopard National Park" title="Sepahijala Wildlife Sanctuary & Clouded Leopard National Park">
+											<img width="430" height="305" src="images/Manipur/waterfall.jpg" alt="Barak Waterfalls" title="Barak Waterfalls">
 										</a>
 										
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="tripura7.php" rel="bookmark">Sepahijala Wildlife Sanctuary & Clouded Leopard National Park</a>
+											<a href="manipur7.php" rel="bookmark">Barak Waterfalls</a>
 										</h4></div>
 										<!-- <span class="post_date">7 DAYS 6 NIGHTS</span> -->
 										<div class="description">
-											<p>The sanctuary has no less than 456 plant species.</p>
+											<p>Sit, calm yourself and spend some time at this picturesque place.</p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -240,7 +240,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="Tripura7.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="manipur7.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
@@ -295,8 +295,8 @@
 						<aside class="widget widget_travel_tour">
 							<div class="wrapper-special-tours">
 								<div class="inner-special-tours">
-									<a href="Tripura1.php">
-										<img width="430" height="305" src="images/Tripura/430x305/Cultureheritage.jpg" alt="Culture Heritage" title="Culture Heritage"></a>
+									<a href="manipur1.php">
+										<img width="430" height="305" src="images/Manipur/history.jpg" alt="History Of Manipur" title="History Of Manipur"></a>
 									<div class="item_rating">
 										<i class="fa fa-star"></i>
 										<i class="fa fa-star"></i>
@@ -305,7 +305,7 @@
 										<i class="fa fa-star-o"></i>
 									</div>
 									<div class="post_title"><h3>
-										<a href="Tripura1.php" rel="bookmark">Culture Heritage</a>
+										<a href="manipur1.php" rel="bookmark">History Of Manipur</a>
 									</h3></div>
 									<div class="item_price">
 										

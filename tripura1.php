@@ -104,9 +104,9 @@
 									<li class="description_tab active" role="presentation">
 										<a href="#tab-description" role="tab" data-toggle="tab">Description</a>
 									</li>
-									<li class="itinerary_tab_tab" role="presentation">
+									<!-- <li class="itinerary_tab_tab" role="presentation">
 										<a href="#tab-itinerary_tab" role="tab" data-toggle="tab">Itinerary</a>
-									</li>
+									</li> -->
 									<li class="location_tab_tab" role="presentation">
 										<a href="#tab-location_tab" role="tab" data-toggle="tab">Location</a>
 									</li>

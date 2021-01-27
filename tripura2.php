@@ -59,21 +59,21 @@
 									<li>
 										<a href="images/Tripura/neermahal.jpg" class="swipebox" title=""><img width="430" height="305" src="images/Tripura/neermahal.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
-									<li>
+									<!-- <li>
 										<a href="images/tour/AUSTRALIANMEMORIES.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
-									</li>
-									<li>
+									</li> -->
+									<!-- <li>
 										<a href="images/tour/tour-3.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/tour-3.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
-									</li>
-									<li>
+									</li> -->
+									<!-- <li>
 										<a href="images/tour/Highlight.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/Highlight.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
-									</li>
-									<li>
+									</li> -->
+									<!-- <li>
 										<a href="images/tour/tour-5.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/tour-5.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
-									</li>
-									<li>
+									</li> -->
+									<!-- <li>
 										<a href="images/tour/tour-6.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/tour-6.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
-									</li>
+									</li> -->
 								</ul>
 							</div>
 							<div id="carousel" class="flexslider thumbnail_product">
@@ -81,7 +81,7 @@
 									<li>
 										<img width="150" height="100" src="images/Tripura/neermahal.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
-									<li>
+									<!-- <li>
 										<img width="150" height="100" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
@@ -95,7 +95,7 @@
 									</li>
 									<li>
 										<img width="150" height="100" src="images/tour/tour-6.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
-									</li>
+									</li> -->
 								</ul>
 							</div>
 							<div class="clear"></div>
@@ -104,9 +104,9 @@
 									<li class="description_tab active" role="presentation">
 										<a href="#tab-description" role="tab" data-toggle="tab">Description</a>
 									</li>
-									<li class="itinerary_tab_tab" role="presentation">
+									<!-- <li class="itinerary_tab_tab" role="presentation">
 										<a href="#tab-itinerary_tab" role="tab" data-toggle="tab">Itinerary</a>
-									</li>
+									</li> -->
 									<li class="location_tab_tab" role="presentation">
 										<a href="#tab-location_tab" role="tab" data-toggle="tab">Location</a>
 									</li>

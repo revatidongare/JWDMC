@@ -22,21 +22,15 @@
 						<div class="images images_single_left">
 							<div class="title-single">
 								<div class="title">
-									<h1>Bhubaneswari Temple, </h1>
+									<h1>Barak Waterfalls</h1>
 								</div>
 								
 							</div>
 							<div class="tour_after_title">
 								<div class="meta_date">
-									<!-- <span>7 DAYS 6 NIGHTS</span> -->
+									
 								</div>
-								<!-- <div class="meta_values">
-									<span>Category:</span>
-									<div class="value">
-										<a href="tours.html" rel="tag">Escorted Tour</a>,
-										<a href="tours.html" rel="tag">Rail Tour</a>
-									</div>
-								</div> -->
+								
 								<div class="tour-share">
 									<ul class="share-social">
 										<li>
@@ -57,45 +51,17 @@
 							<div id="slider" class="flexslider">
 								<ul class="slides">
 									<li>
-										<a href="images/Tripura/bhubaneshwaritemple.jpg" class="swipebox" title=""><img width="430" height="305" src="images/Tripura/bhubaneshwaritemple.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="images/Manipur/valley.jpg" class="swipebox" title=""><img width="430" height="305" src="images/Manipur/waterfall.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
-									<!-- <li>
-										<a href="images/tour/AUSTRALIANMEMORIES.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
-									</li>
-									<li>
-										<a href="images/tour/tour-3.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/tour-3.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
-									</li>
-									<li>
-										<a href="images/tour/Highlight.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/Highlight.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
-									</li>
-									<li>
-										<a href="images/tour/tour-5.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/tour-5.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
-									</li>
-									<li>
-										<a href="images/tour/tour-6.jpg" class="swipebox" title=""><img width="950" height="700" src="images/tour/tour-6.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
-									</li> -->
+									
 								</ul>
 							</div>
 							<div id="carousel" class="flexslider thumbnail_product">
 								<ul class="slides">
 									<li>
-										<img width="150" height="100" src="images/Tripura/neermahal.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="150" height="100" src="images/Manipur/waterfall.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
-									<!-- <li>
-										<img width="150" height="100" src="images/tour/AUSTRALIANMEMORIES.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
-									</li>
-									<li>
-										<img width="150" height="100" src="images/tour/tour-3.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
-									</li>
-									<li>
-										<img width="150" height="100" src="images/tour/Highlight.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
-									</li>
-									<li>
-										<img width="150" height="100" src="images/tour/tour-5.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
-									</li>
-									<li>
-										<img width="150" height="100" src="images/tour/tour-6.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
-									</li> -->
+									
 								</ul>
 							</div>
 							<div class="clear"></div>
@@ -117,13 +83,16 @@
 								<div class="tab-content">
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--description panel entry-content wc-tab active" id="tab-description">
 										<h2>Product Description</h2>
-										<p>Bhubaneswari Temple (55 km from Agartala) located on the eastern fringe of Udaipur town by the bank of river Gomati.</p>
-										
+										<p>Located in the forest of the Tamenglong district, the waterfall offers opportunities for some breathtaking photography. </p>
+										<p>Also, enjoy splendid rafting and water sports in this chilly water from the hills.</p>
+
+
+
 										<table class="tours-tabs_table">
 											<tbody>
 											<tr>
 												<td><strong>DEPARTURE/RETURN LOCATION</strong></td>
-												<td>Directs Flights From Agartala, Silchar, Guwahati, Imphal and Delhi</td>
+												<td>Imphal International Airport is situated in the capital Imphal which connects direct flights from Imphal to Kolkata, Guwahati, New Delhi, Bangalore and Agartala.</td>
 												
 											</tr>
 											<tr>
@@ -170,12 +139,12 @@
 											</tr>
 											</tbody>
 										</table>
-										<p>To reach the Temple one has to cross over Gomati River. Bhubaneswari Temple is now under the control and supervision of the Archaeological Survey of India. Maharaja Govinda Manikya (1660-1676) built the Temple.</p>
+										<p>The Barak river is rich in aquatic biodiversity and a great picnic spot. All shall be enchanted by the Barak falls!</p>
 										
 									</div>
 									
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--location_tab panel entry-content wc-tab" id="tab-location_tab">
-										<p>From Agartala 55 km and Udaipur 1.5 km.</p>
+										<p>Distance from Imphal 180 km.</p>
 										<div class="wrapper-gmap">
 											<div id="googleMapCanvas" class="google-map" data-lat="50.893577" data-long="-1.393483" data-address="European Way, Southampton, United Kingdom"></div>
 										</div>
@@ -184,7 +153,7 @@
 										<div id="reviews" class="travel_tour-Reviews">
 											<div id="comments">
 												<h2 class="travel_tour-Reviews-title">1 review for
-													<span>Cultural Heritage</span></h2>
+													<span>Barak Waterfalls</span></h2>
 												<ol class="commentlist">
 													<li itemscope="" itemtype="http://schema.org/Review" class="comment byuser comment-author-physcode bypostauthor even thread-even depth-1" id="li-comment-62">
 														<div id="comment-62" class="comment_container">
@@ -246,9 +215,9 @@
 									</div>
 								</div>
 							</div>
-							<?php include'North East/pic3.php';?>
+							<?php include'North East/pic4.php';?>
 						</div>
-						<?php include'North East/pic2.php';?>
+						<?php include'North East/pic5.php';?>
 						
 					</div>
 				</div>
